@@ -34,8 +34,3 @@ FROM amazon_sales_raw;
 -- -----------------------------------------------
 -- END OF DAY 1
 -- ================================================
-```
-
-### 5️⃣ Commit message:
-```
-Added queries.sql file with Q1-Q2
