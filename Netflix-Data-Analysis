@@ -1,0 +1,30 @@
+# Netflix Content Analysis 📊
+
+## Project Objective
+Analyze Netflix's content strategy, geographic expansion, audience targeting, and content freshness using Python.
+
+## Dataset
+- Source: Netflix Titles Dataset
+- Format: CSV
+- Records: XXXX
+- Columns: title, type, country, date_added, rating, duration, etc.
+
+## Key Questions Answered
+- Movies vs TV Shows trend over time
+- Country-wise content growth (India, Korea, UK)
+- Genre popularity evolution
+- Content freshness & acquisition gap analysis
+
+## Tools Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- VS Code
+- GitHub
+
+## Key Insights
+- Netflix shifted focus towards TV Shows after 2018
+- India and Korea show rapid YoY content growth
+- Drama and Comedy dominate globally
+- Majority of new content is added within 2 years of release
+
+## Business Impact
+These insights help understand Netflix's global expansion, content acquisition strategy, and audience targeting approach.
