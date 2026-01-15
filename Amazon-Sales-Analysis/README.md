@@ -65,6 +65,84 @@ The dataset spans 3 months (Mar-Jun 2022), making it ideal for analyzing recent 
 
 ---
 
+### Q3: Unique Products in Dataset
+
+**❓ Business Question**  
+How many unique products are available in our sales data? Understanding product variety helps analyze catalog depth and SKU management.
+
+**🧾 SQL Query**
+```sql
+SELECT 
+    COUNT(DISTINCT sku) AS unique_sku,
+    COUNT(DISTINCT asin) AS unique_asin
+FROM amazon_sales_raw;
+```
+
+**📈 Result / Insight**
+- **Unique SKUs:** 7,195
+- **Unique ASINs:** 7,190
+- **Difference:** 5 SKUs (SKU > ASIN indicates product variants)
+- SKUs represent individual stock items while ASINs represent product listings
+- Multiple SKUs per ASIN suggest products with variations (size, color, bundle options)
+
+**💡 Business Conclusion**  
+The dataset contains 7,190 unique product listings (ASINs) with 7,195 stock keeping units (SKUs), indicating minimal product variation - most products don't have multiple variants, suggesting a focused catalog strategy.
+
+---
+
+### Q4: Unique Product Categories and Styles
+
+**❓ Business Question**  
+How many unique product categories and styles does our catalog contain? Understanding product variety helps in inventory planning and marketing strategy.
+
+**🧾 SQL Query**
+```sql
+SELECT 
+    COUNT(DISTINCT category) AS unique_category,
+    COUNT(DISTINCT style) AS unique_style
+FROM amazon_sales_raw;
+```
+
+**📈 Result / Insight**
+- **Unique Categories:** 9
+- **Unique Styles:** 1,377
+- **Average Styles per Category:** ~153
+- Limited categories indicate focused business segments
+- High style count shows deep product variety within each category
+- Suggests a strategy of specialization rather than broad diversification
+
+**💡 Business Conclusion**  
+With only 9 product categories but 1,377 distinct styles, Amazon demonstrates a focused catalog strategy - targeting specific market segments with extensive product variety rather than spreading thin across many categories.
+
+---
+
+### Q5: B2B vs Non-B2B Orders Distribution
+
+**❓ Business Question**  
+What is the split between B2B (Business-to-Business) and B2C (Business-to-Consumer) orders? Understanding customer segments helps tailor marketing and service strategies.
+
+**🧾 SQL Query**
+```sql
+SELECT 
+    b2b, 
+    COUNT(*) AS order_count
+FROM amazon_sales_raw
+GROUP BY b2b;
+```
+
+**📈 Result / Insight**
+- **Non-B2B Orders (FALSE):** 128,104 (99.32%)
+- **B2B Orders (TRUE):** 871 (0.68%)
+- **Total Orders:** 128,975
+- Consumer segment is overwhelmingly dominant
+- B2B represents less than 1% of total orders
+- Platform primarily serves individual consumers during this period
+
+**💡 Business Conclusion**  
+The dataset shows a heavily consumer-oriented sales channel with 99.32% non-B2B orders, indicating Amazon's primary focus on individual customers rather than business clients in this Q2 2022 snapshot.
+
+---
+
 ## 🔑 Key Insights
 
 ### Dataset Overview
@@ -97,8 +175,8 @@ To perform comprehensive SQL analysis on Amazon sales data, extracting actionabl
 ### 📁 Repository Structure
 ```
 Amazon-Sales-Analysis/
-├── README.md          # Project documentation
-└── queries.sql        # SQL queries (coming soon)
+├── README.md          # Project documentation & analysis
+└── queries.sql        # SQL queries with results
 ```
 
 ---
