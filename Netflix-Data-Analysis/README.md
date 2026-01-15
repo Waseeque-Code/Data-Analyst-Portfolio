@@ -75,20 +75,21 @@ This project is part of my **data analytics learning journey** and focuses on so
 
 ---
 
-## 📌 Project Structure
-
+## 📁 Project Structure
+```
 Netflix-Data-Analysis/
 │
 ├── data/
-│ └── netflix_titles.csv # Dataset used for analysis
+│   └── netflix_titles.csv          # Dataset used for analysis
 │
 ├── notebooks/
-│ └── netflix_analysis.ipynb # Jupyter notebook with EDA and insights
+│   └── netflix_analysis.ipynb      # Jupyter notebook with EDA and insights
 │
 ├── scripts/
-│ └── netflix_analysis.py # Python script version of analysis
+│   └── netflix_analysis.py         # Python script version of analysis
 │
-└── README.md # Project documentation
+└── README.md                        # Project documentation
+```
 
 ---
 
