@@ -83,7 +83,7 @@ Netflix-Data-Analysis/
 │   └── netflix_titles.csv          # Dataset used for analysis
 │
 ├── notebooks/
-│   └── netflix_analysis.ipynb      # Jupyter notebook with EDA and insights
+│   └── netflix_analysis.ipynb      # Python analysis using VS Code
 │
 ├── scripts/
 │   └── netflix_analysis.py         # Python script version of analysis
