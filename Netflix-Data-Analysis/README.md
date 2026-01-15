@@ -77,3 +77,59 @@ This project is part of my **data analytics learning journey** and focuses on so
 
 ## 📌 Project Structure
 
+Netflix-Data-Analysis/
+│
+├── data/
+│ └── netflix_titles.csv # Dataset used for analysis
+│
+├── notebooks/
+│ └── netflix_analysis.ipynb # Jupyter notebook with EDA and insights
+│
+├── scripts/
+│ └── netflix_analysis.py # Python script version of analysis
+│
+└── README.md # Project documentation
+
+---
+
+## 🚀 Future Scope
+- Add more visualizations
+- Create dashboards using Power BI or Tableau
+- Perform deeper genre and regional analysis
+
+---
+
+## 👤 Author
+**Waseeque Ahmad**  
+Aspiring Data Analyst  
+Currently learning Python, SQL, Excel, and Power BI
+
+
+---
+
+## 🚀 Future Scope
+- Add more visualizations
+- Create dashboards using Power BI or Tableau
+- Perform deeper genre and regional analysis
+
+---
+
+## 👤 Author
+**Waseeque Ahmad**  
+Aspiring Data Analyst  
+Currently learning Python, SQL, Excel, and Power BI
+
+---
+
+## 🚀 Future Scope
+- Add more visualizations
+- Create dashboards using Power BI or Tableau
+- Perform deeper genre and regional analysis
+
+---
+
+## 👤 Author
+**Waseeque Ahmad**  
+Aspiring Data Analyst  
+Currently learning Python, SQL, Excel, and Power BI
+
