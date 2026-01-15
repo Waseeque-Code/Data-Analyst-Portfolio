@@ -106,31 +106,3 @@ Aspiring Data Analyst
 Currently learning Python, SQL, Excel, and Power BI
 
 
----
-
-## 🚀 Future Scope
-- Add more visualizations
-- Create dashboards using Power BI or Tableau
-- Perform deeper genre and regional analysis
-
----
-
-## 👤 Author
-**Waseeque Ahmad**  
-Aspiring Data Analyst  
-Currently learning Python, SQL, Excel, and Power BI
-
----
-
-## 🚀 Future Scope
-- Add more visualizations
-- Create dashboards using Power BI or Tableau
-- Perform deeper genre and regional analysis
-
----
-
-## 👤 Author
-**Waseeque Ahmad**  
-Aspiring Data Analyst  
-Currently learning Python, SQL, Excel, and Power BI
-
