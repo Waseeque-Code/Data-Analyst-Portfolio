@@ -1,4 +1,4 @@
--- LeetCode Problem 1068: Product Sales Analysis I
+-- LeetCode Problem 1070: Product Sales Analysis III
 -- Difficulty: Medium
 -- Date Solved: 26/01/2026
 
@@ -65,7 +65,7 @@ JOIN (
 -- Could use window function: RANK() OVER (PARTITION BY product_id ORDER BY year)
 -- But subquery approach is more readable and efficient here
 
+
 -- Time taken: 10 minutes (understood problem in 3 mins, coded in 7 mins)
-```
 
 ---
