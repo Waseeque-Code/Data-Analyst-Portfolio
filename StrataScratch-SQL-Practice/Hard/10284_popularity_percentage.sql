@@ -51,7 +51,7 @@ FROM friends f
 CROSS JOIN total t
 ORDER BY user_id;
 
---Why This Works
+--Why This Works :
 --• Ensures all friendships are counted symmetrically  
 --• Separates user-level metrics from global metrics for clarity  
 --• Uses CTEs for readability and maintainability 
