@@ -143,6 +143,28 @@ The dataset shows a heavily consumer-oriented sales channel with 99.32% non-B2B 
 
 ---
 
+### Q6: Fulfillment Distribution Analysis
+
+### ❓ Business Question
+How many orders were fulfilled by Amazon vs Merchant? We are asking this to understand the distribution of fulfilment responsibility. This helps in evaluating operational efficiency, customer experience, and dependency on Amazon vs third‑party merchants.
+
+### 🧾 SQL Query
+```sql
+SELECT fulfilment, COUNT(order_id) AS Fulfilled 
+FROM amazon_sales_raw 
+GROUP BY fulfilment;
+```
+
+### 📈 Result / Insight
+* **Merchant Fulfilled (FALSE):** 128,104 orders
+* **Amazon Fulfilled (TRUE):** 871 orders
+* **Pattern observed:** The vast majority of orders are fulfilled by merchants, while Amazon directly fulfils only a very small fraction.
+
+### 💡 Business Conclusion
+Order fulfilment is heavily merchant‑driven, with Amazon handling less than 1% of total orders. This indicates strong reliance on third‑party sellers, which may impact quality control, delivery speed, and customer satisfaction strategies.
+
+---
+
 ## 🔑 Key Insights
 
 ### Dataset Overview
