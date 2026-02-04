@@ -45,7 +45,15 @@ SELECT
 FROM amazon_sales_raw
 GROUP BY b2b;
 -- Result: FALSE: 128104, TRUE: 871
-```
+
 -- -----------------------------------------------
--- END OF DAY 2
--- ================================================
+
+-- Q6: Amazon vs Merchant Fulfillment
+SELECT 
+    fulfilment, 
+    COUNT(order_id) AS Fulfilled 
+FROM amazon_sales_raw 
+GROUP BY fulfilment;
+-- Result: Merchant (FALSE): 128104, Amazon (TRUE): 871
+
+-- -----------------------------------------------
