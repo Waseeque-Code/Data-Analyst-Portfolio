@@ -165,6 +165,45 @@ Order fulfilment is heavily merchant‑driven, with Amazon handling less than 1%
 
 ---
 
+# 📊 Data Quality Analysis - Amazon Sales Dataset
+
+## Q7: Missing Values Analysis in Critical Business Columns
+
+### ❓ Business Question
+
+**Why are we analyzing this?**
+
+We need to assess data quality in critical columns that directly impact business operations. Missing values in `amount`, `city`, and `state` can lead to:
+
+- ❌ Incorrect revenue reporting (amount)
+- ❌ Failed shipments and delivery issues (city, state)
+- ❌ Inaccurate regional sales analysis
+- ❌ Customer satisfaction problems
+
+This analysis helps us understand if our data collection process is reliable and if we can trust our database for decision-making.
+
+---
+
+### 🧾 SQL Query
+```sql
+SELECT 
+   SUM(CASE WHEN amount IS NULL THEN 1 ELSE 0 END) * 100.0/COUNT(*) AS pct_amount_null,
+   SUM(CASE WHEN ship_city IS NULL THEN 1 ELSE 0 END) * 100.0/COUNT(*) AS pct_ship_city_null,
+   SUM(CASE WHEN ship_state IS NULL THEN 1 ELSE 0 END) * 100.0/COUNT(*) AS pct_ship_state_null
+FROM amazon_sales_raw;
+```
+
+---
+
+### 📈 Results & Insights
+
+-  **100% data completeness** in all three critical columns
+-  No missing values detected in amount, shipping city, or shipping state
+-  **Data quality is excellent** - all orders have complete transaction and shipping information
+-  This indicates a **robust data entry process** with proper validation rules in place
+
+---
+
 ## 🔑 Key Insights
 
 ### Dataset Overview
