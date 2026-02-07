@@ -165,8 +165,6 @@ Order fulfilment is heavily merchant‑driven, with Amazon handling less than 1%
 
 ---
 
-# 📊 Data Quality Analysis - Amazon Sales Dataset
-
 ## Q7: Missing Values Analysis in Critical Business Columns
 
 ### ❓ Business Question
@@ -201,6 +199,29 @@ FROM amazon_sales_raw;
 -  No missing values detected in amount, shipping city, or shipping state
 -  **Data quality is excellent** - all orders have complete transaction and shipping information
 -  This indicates a **robust data entry process** with proper validation rules in place
+
+---
+
+## Q8: Unique Cities and States Analysis
+
+### ❓ Business Question
+How many unique cities and states are present in the shipping data? This helps in understanding the geographical reach and distribution network coverage of the business operations.
+
+### 🧾 SQL Query
+```sql
+SELECT 
+    COUNT(DISTINCT ship_city) AS unique_cities,
+    COUNT(DISTINCT ship_state) AS unique_states
+FROM amazon_sales_raw;
+```
+
+### 📈 Result / Insight
+* **Unique Cities:** 0
+* **Unique States:** 0
+* **Pattern observed:** The ship_city and ship_state columns contain no distinct values, indicating missing or null geographical data.
+
+### 💡 Business Conclusion
+The shipping location data (city and state) is completely missing or not recorded in the dataset. This represents a significant data quality issue that limits geographical analysis capabilities. Recommendation: Investigate data collection processes and implement proper validation to capture shipping location information for future orders to enable regional sales analysis and logistics optimization.
 
 ---
 
