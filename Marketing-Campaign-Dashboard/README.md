@@ -1,6 +1,6 @@
 # 📊 Marketing Campaign Performance Dashboard
 
-> **Day 78–81 of my Data Analytics Journey**  
+> **Data Analytics Journey**  
 > An interactive Power BI dashboard analyzing marketing campaign performance across multiple channels, segments, and locations.
 
 ---
@@ -117,6 +117,6 @@ If you found this project helpful or want to collaborate, feel free to connect!
 
 ## 📌 Part of My Data Analytics Journey
 
-This project is **Day 78–81** of my **#100DaysOfData** challenge where I build real-world data analytics projects daily.
+I build real-world data analytics projects daily.
 
 ⭐ **Star this repo** if you found it helpful!
