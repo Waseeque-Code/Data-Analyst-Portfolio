@@ -1,4 +1,4 @@
-# Olympic Games Analytics Dashboard (1896-2016)
+# Athlete Performance Dashboard (1896-2016)
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)]()
