@@ -93,7 +93,6 @@ Data-Analyst-Portfolio/
     ├── README.md
     ├── marketing_campaign_dashboard.pbix
     ├── dashboard_screenshot.png
-    └── marketing_campaign_dataset.csv
 ```
 
 ---
