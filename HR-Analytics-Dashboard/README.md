@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard — Power BI
+# 📊 IBM HR Analytics Dashboard — Power BI
 
 ## 🔍 Project Overview
 An interactive HR Analytics Dashboard built in Power BI
