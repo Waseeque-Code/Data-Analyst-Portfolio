@@ -27,12 +27,15 @@ This project analyzes **200,000 marketing campaigns** run by 5 companies across 
 ```
 Marketing-Campaign-Analysis/
 │
-├── marketing_campaign_cleaned.py     # Python data cleaning script
-├── marketing_campaign_analysis.sql   # MySQL table creation + 15 SQL queries
-├── marketing_campaign_cleaned.csv    # Cleaned dataset
-├── marketing_campaign_dashboard.pbix # Power BI dashboard file
-├── dashboard.png                     # Dashboard screenshot
-└── README.md                         # Project documentation
+├── marketing_campaign_cleaned.py      # Python data cleaning script
+├── marketing_campaign_analysis.sql    # MySQL table creation + 15 SQL queries
+├── marketing_campaign_dashboard.pbix  # Power BI dashboard file
+├── dashboard.png                      # Dashboard screenshot
+└── README.md                          # Project documentation
+
+📌 Dataset Note: Raw CSV not included due to file size.
+Download from Kaggle and run marketing_campaign_cleaned.py to generate cleaned data.
+
 ```
 
 ---
