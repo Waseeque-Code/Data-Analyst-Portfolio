@@ -1,0 +1,512 @@
+Customer_ID,Full_Name,Email,Phone,Date_of_Birth,City,Purchase_Amount,Membership_Status,Join_Date,Satisfaction_Score
+CUST5506,James Harris,chloe.rodriguez91@outlook.com,8784198438,1967-04-13,Chicago,901.41,Active,2025-07-08,5.0
+CUST81482,Benjamin Gonzalez,Invalid,5639889412,1961-06-04,New York,748.33,Active,,1.0
+CUST4582,Jones Richard,samuel.moore90@company.com,6917632672,1971-08-27,Houston,118.79,Silver,,5.0
+CUST95181,Mia Smith,layla.brown66@icloud.com,1295879698,1957-08-12,Columbus,30.21,Gold,,4.0
+CUST46463,Justin Hill,charlotte.lopez83@company.com,6145419321,1980-08-20,Seattle,708.12,Inactive,2018-12-09,1.0
+CUST3615,Sofia Thompson,nicholas.davis84@outlook.com,2984014103,1984-08-21,Not_Mentioned,445.19,Gold,,1.0
+CUST54118,Samuel Lee,samuel.anderson42@hotmail.com,7613542819,2001-06-30,San Francisco,144.15,Active,,3.0
+CUST55082,Charles Scott,christopher.young65@company.com,3723442078,1955-08-25,New York,90.39,Active,2021-01-12,1.0
+CUST80284,Eleanor Thomas,christopher.flores48@icloud.com,3258515395,1979-01-31,Kansas City,,Silver,2024-06-21,2.0
+CUST48427,Sofia Young,evelyn.garcia11@outlook.com,1031964032,1986-12-03,Jacksonville,601.22,Inactive,2022-10-09,2.0
+CUST85674,Nicholas Brown,justin.martinez64@yahoo.com,4227972137,1976-06-20,Chicago,177.3,Silver,2016-04-05,5.0
+CUST4733,J. Anderson,nicholas.rodriguez61@hotmail.com,1212815322,1996-08-30,Chicago,844.55,Gold,2023-03-21,1.0
+CUST23238,Luna Walker,richard.jones@gmail.com,4605851016,1980-04-08,New York,147.47,Inactive,2020-02-26,3.0
+CUST31319,Not Mentioned,isabella.lee63@company.com,9553339606,2000-12-22,Boston,86.89,Silver,2025-01-12,2.0
+CUST99593,Benjamin,jonathan.martin22@hotmail.com,6028526747,1999-05-28,Columbus,764.15,Inactive,2022-03-08,
+CUST42087,Nathan,daniel.robinson22@company.com,6809486058,1966-12-13,Philadelphia,943.13,Active,2023-02-23,5.0
+CUST44311,Sophia Gonzalez,justin.martinez21@yahoo.com,2153769508,1995-11-09,Philadelphia,817.42,Gold,2015-10-13,1.0
+CUST17331,Evelyn Torres,olivia.scott91@gmail.com,5209764608,1992-09-26,Raleigh,211.83,Gold,2016-01-05,3.0
+CUST6168,Sofia Williams,nicholas.martin16@gmail.com,4683112462,1953-09-06,Detroit,,Gold,2019-09-09,3.0
+CUST6155,William Garcia Young,john.wright65@hotmail.com,5609979632,1987-12-22,Portland,697.81,Gold,2017-03-07,5.0
+CUST94259,Robert Anderson,tyler.martinez73@icloud.com,3824164122,1980-04-15,Indianapolis,333.24,Active,2016-08-03,
+CUST83579,Ava Wright,james.scott15@hotmail.com,notprovided,1973-12-06,Washington,977.63,Active,2022-03-18,1.0
+CUST86484,Not Mentioned,not provided,9114555725,1965-06-01,Houston,197.76,Active,2019-09-14,1.0
+CUST76784,Amelia Jones,richard.nguyen68@yahoo.com,8012508640,2005-02-04,New York,516.99,Bronze,,4.0
+CUST30033,Andrew Rodriguez,avery.garcia66@outlook.com,1669185828,1991-03-24,Los Angeles,680.83,Silver,2015-11-23,1.0
+CUST18326,Thomas Jones,charlotte.sanchez19@icloud.com,notprovided,,Oklahoma City,392.11,Silver,2026-02-09,2.0
+CUST42953,A. Lewis,christopher.scott12@yahoo.com,notprovided,1957-05-10,El Paso,583.52,Active,2025-11-11,
+CUST2876,Sarah Flores,lily.ramirez94@outlook.com,1001515119,1952-01-25,Portland,584.53,Silver,2021-04-28,5.0
+CUST94012,Laura Harris,hannah.king43@gmail.com,1888305434,1978-11-23,Jacksonville,453.83,Not_mentioned,2021-08-11,5.0
+CUST10425,Mia,Invalid,4633547328,,Nashville,,Gold,2025-08-22,4.0
+CUST75612,Jacob Clark,eleanor.harris38@company.com,6775466283,1983-11-19,San Diego,57.4,Active,2016-01-24,2.0
+CUST91959,John Jackson,layla.robinson29@gmail.com,4121875871,1970-09-18,Colorado Springs,,Active,2024-08-06,2.0
+CUST74071,Ella Hernandez,jessica.jackson54@yahoo.com,2416398240,1955-10-21,Baltimore,407.69,Inactive,2025-07-22,3.0
+CUST79514,Ava Clark,michael.hill96@hotmail.com,5205721453,1989-12-14,Detroit,305.86,Inactive,2020-04-14,
+CUST55156,Luna Gonzalez,justin.davis48@company.com,8855312448,1992-12-06,Raleigh,662.51,Inactive,2019-10-12,4.0
+CUST50306,Amelia,Invalid,6566795806,1953-04-04,Dallas,424.34,Active,2022-05-13,3.0
+CUST20322,Hannah Hill,emily.moore47@outlook.com,notprovided,1999-08-06,Sacramento,,Active,2019-09-07,3.0
+CUST79822,Matthew Jackson,michael.allen25@icloud.com,9591552387,,Jacksonville,801.01,Active,2021-06-03,5.0
+CUST82063,Jonathan Sanchez,nathan.martin35@icloud.com,notprovided,1966-09-09,Detroit,128.73,Gold,2016-07-26,3.0
+CUST37760,Jane Robinson,james.king37@hotmail.com,4399851997,1965-10-14,Las Vegas,,Active,2016-05-23,
+CUST50857,Jonathan Clark,jacob.anderson25@company.com,6758589115,,Atlanta,276.36,Bronze,2024-05-24,3.0
+CUST77839,Andrew Jones,samuel.davis54@outlook.com,1069248945,1997-11-26,Not_Mentioned,682.98,Silver,2017-12-11,3.0
+CUST12757,Joshua Wright,Invalid,3533092697,1972-01-15,Seattle,1470.84,Active,2018-12-14,10.0
+CUST19305,David Thomas,isabella.lopez91@hotmail.com,2889394849,1955-02-06,Detroit,600.11,Silver,2018-08-19,3.0
+CUST2104,Amelia Perez,not provided,5422491354,1982-12-11,Portland,,Inactive,2017-05-11,5.0
+CUST66261,Charles,james.wilson17@gmail.com,5875915751,2004-05-14,New York,613.33,Gold,2019-03-04,2.0
+CUST84847,Evelyn Nguyen,Invalid,9192098601,1991-05-04,Sacramento,845.17,Active,2021-09-13,5.0
+CUST63354,Sarah Davis,Invalid,5682237380,1991-11-12,Charlotte,755.61,Gold,2021-08-25,4.0
+CUST65519,Joseph Walker,john.miller16@company.com,notprovided,1972-07-22,Las Vegas,250.4,Silver,2018-02-16,2.0
+CUST54473,William Perez,michael.miller75@gmail.com,8236377399,1952-02-22,Not_Mentioned,160.6,Bronze,2018-12-09,2.0
+CUST80292,Harper Sanchez,john.miller28@company.com,9799053294,1989-01-27,Philadelphia,628.06,Inactive,2015-10-22,1.0
+CUST42742,Olivia Moore,david.lopez46@outlook.com,4855833955,1977-02-03,New York,967.14,Bronze,2025-04-28,
+CUST2604,Matthew Gonzalez,evelyn.davis67@yahoo.com,6944567615,1991-09-26,Sacramento,528.67,Active,2024-09-13,9.0
+CUST22224,Luna Sanchez,abigail.davis50@hotmail.com,notprovided,1959-02-01,Austin,965.87,Active,2025-10-11,4.0
+CUST73653,Mia Flores,joshua.jackson55@yahoo.com,notprovided,2003-09-03,Not_mentioned,593.52,Silver,2018-03-25,1.0
+CUST31579,Laura Allen,john.young87@gmail.com,3378904876,1956-01-30,Omaha,735.94,Bronze,2025-11-01,3.0
+CUST99687,Sofia Lopez,justin.nguyen14@icloud.com,1637265103,2000-05-20,New York,468.89,Inactive,2027-01-01,3.0
+CUST82845,Joseph Smith,brandon.sanchez16@yahoo.com,2784282763,1969-08-15,Nashville,262.0,Bronze,2023-04-05,3.0
+CUST38534,Abigail Clark,ava.sanchez46@outlook.com,5487955687,1979-04-19,Los Angeles,333.77,Silver,2025-02-27,1.0
+CUST51104,Robert Moore,evelyn.miller16@hotmail.com,1247442576,1996-02-10,Atlanta,19.74,Inactive,2025-07-15,
+CUST79615,Jacob Davis,eleanor.jones64@icloud.com,1734484036,,San Antonio,,Silver,2018-10-26,2.0
+CUST34356,Samuel Lewis,not provided,9475859205,1983-11-27,Omaha,,Inactive,2020-09-16,1.0
+CUST4853,Robert Lewis,samuel.jones85@company.com,4859942161,1967-08-13,Jacksonville,726.41,Active,,4.0
+CUST85880,Olivia Nguyen,charles.wright44@company.com,6534381369,1967-06-14,Austin,291.12,Inactive,2020-01-01,2.0
+CUST86503,Nathan Wilson,andrew.lewis41@outlook.com,9922615719,1968-11-23,Jacksonville,1470.84,Bronze,2017-05-01,5.0
+CUST97782,Daniel Jackson,Invalid,1586592816,,San Jose,616.16,Bronze,2021-05-27,4.0
+CUST98039,Samuel Clark,mia.harris63@gmail.com,3054421973,1964-11-09,Not_Mentioned,699.62,Inactive,2023-07-11,2.0
+CUST80468,Charlotte Robinson,samuel.perez49@gmail.com,3307656738,1975-01-11,Dallas,623.62,Silver,2024-06-29,5.0
+CUST19016,Chloe,sophia.martin76@gmail.com,8929004214,1995-08-26,Chicago,817.47,Bronze,2021-04-04,5.0
+CUST81200,Jonathan Wright,Invalid,8844863051,1973-02-11,New York,,Active,2019-08-18,1.0
+CUST95717,Elizabeth Torres,ava.johnson90@outlook.com,4764604172,1963-10-01,Nashville,311.69,Gold,,1.0
+CUST96951,Kevin Robinson,lily.young13@icloud.com,4443563465,1976-10-31,Omaha,654.47,Inactive,2017-08-19,1.0
+CUST24029,Justin Rodriguez,luna.martin47@outlook.com,4214585001,1955-02-08,Chicago,313.97,Inactive,2020-07-22,2.0
+CUST37607,Sarah White,olivia.jackson34@gmail.com,6563109108,1960-08-10,Sacramento,621.87,Active,2015-11-09,2.0
+CUST44600,Harper Garcia,mila.nguyen13@company.com,4758985795,1988-08-02,San Diego,500.87,Silver,2017-08-16,2.0
+CUST16658,Not Mentioned,jonathan.jones84@hotmail.com,4545208966,1983-10-23,Houston,54.49,Inactive,2015-06-23,3.0
+CUST10464,Justin Perez Davis,charles.flores66@outlook.com,3152257101,1958-04-13,Chicago,519.96,Active,2023-07-18,1.0
+CUST31178,David Miller,emma.torres64@yahoo.com,3408158213,1952-12-07,Washington,317.09,Gold,2021-08-20,5.0
+CUST11267,Avery Martinez,lily.flores99@outlook.com,4934072384,2001-04-26,Fort Worth,751.54,Gold,2022-09-07,2.0
+CUST29536,Layla Martinez,sophia.martinez96@icloud.com,notprovided,1953-07-18,Los Angeles,15.08,Active,2024-12-08,4.0
+CUST29410,Jessica Nguyen,kevin.wilson53@hotmail.com,4914938274,1959-08-25,San Diego,43.74,Active,2020-01-12,5.0
+CUST6974,Sophia Scott,jessica.martinez25@gmail.com,notprovided,1991-06-24,Atlanta,660.18,Inactive,2018-03-20,4.0
+CUST56898,Adam Martin Wilson,sofia.williams26@yahoo.com,4561266508,1975-06-15,Sacramento,608.36,Active,2018-09-05,2.0
+CUST83385,Sophia Young,Invalid,9497368111,,San Francisco,738.5,Not_mentioned,2019-02-24,2.0
+CUST30257,C. Lee,jonathan.johnson8@gmail.com,8387945709,1976-05-06,Atlanta,371.72,Inactive,2019-08-03,
+CUST33206,Chloe Jones,zachary.garcia51@icloud.com,2664908656,1979-04-21,Jacksonville,,Inactive,,5.0
+CUST6442,Brown Jonathan,zachary.nguyen68@hotmail.com,9187985495,1963-04-02,Chicago,318.33,Active,2015-07-30,2.0
+CUST42527,Kevin Wright,eleanor.nguyen95@outlook.com,4703755104,2001-12-20,Detroit,157.97,Not_mentioned,2020-06-05,4.0
+CUST15075,Laura Wright,olivia.moore57@outlook.com,3709673929,2002-09-21,Tucson,939.43,Inactive,2015-03-20,4.0
+CUST70332,Harper Thomas,matthew.wright55@outlook.com,1095771606,1980-12-16,El Paso,285.64,Active,2015-06-30,3.0
+CUST39219,Layla Lopez,mila.white40@gmail.com,3837246145,1972-08-16,Omaha,165.72,Inactive,2018-09-11,2.0
+CUST46585,Jane Perez,nicholas.thomas57@outlook.com,9815506199,2000-10-30,Washington,473.27,Active,2021-10-13,4.0
+CUST80282,Evelyn Allen,not provided,notprovided,1980-01-06,Oklahoma City,454.86,Silver,2021-10-14,3.0
+CUST5279,Tyler Davis,samuel.thomas39@yahoo.com,9789696789,1966-03-13,Dallas,562.25,Active,2019-07-14,1.0
+CUST24208,Hannah,sofia.clark5@hotmail.com,3404582788,1950-03-31,Houston,618.37,Silver,2024-04-30,5.0
+CUST67199,Not Mentioned,eleanor.perez92@outlook.com,9427977815,1995-04-22,San Diego,100.86,Silver,2018-09-17,2.0
+CUST85574,Mila Clark,joseph.clark78@icloud.com,7219076902,1953-07-15,Milwaukee,557.46,Gold,2021-07-03,1.0
+CUST8144,Jessica Allen,sofia.lopez81@outlook.com,2644771730,1979-11-03,Sacramento,658.98,Bronze,2016-07-29,10.0
+CUST34164,Amelia,avery.clark41@outlook.com,2534902285,2004-08-12,Seattle,905.03,Silver,2023-10-21,1.0
+CUST53279,John White,lily.jackson26@gmail.com,8515289830,1953-06-22,Tucson,700.54,Silver,2024-09-01,3.0
+CUST49363,Abigail Gonzalez,thomas.johnson3@company.com,5514245410,,Not_Mentioned,204.52,Silver,2016-07-20,3.0
+CUST48752,N. Thompson,justin.hernandez7@outlook.com,3365666157,,El Paso,251.2,Not_mentioned,2017-08-01,4.0
+CUST59695,Isabella,tyler.davis2@icloud.com,4606739284,,Boston,187.82,Gold,2020-05-13,3.0
+CUST49446,Sophia Clark,thomas.wilson25@hotmail.com,9479463052,1977-06-21,Seattle,1470.84,Active,2020-08-01,5.0
+CUST37549,Not Mentioned,nathan.jackson94@icloud.com,9143936596,1960-05-24,Sacramento,,Active,2025-08-25,1.0
+CUST70946,Justin White,sophia.flores58@yahoo.com,8913023947,1951-04-11,San Jose,1470.84,Silver,2023-01-12,4.0
+CUST32241,Camila Torres,Invalid,2235285315,1973-03-01,Fort Worth,454.36,Inactive,2017-08-21,5.0
+CUST91167,Amelia Lee,michael.miller72@gmail.com,1248063735,1982-06-05,Washington,246.08,Not_mentioned,2016-03-25,2.0
+CUST98184,Laura Miller,not provided,5118134955,1963-12-16,Philadelphia,434.22,Active,2023-07-03,
+CUST16057,Mia Robinson,lily.hill91@icloud.com,8391462208,1971-06-29,San Diego,1470.84,Gold,2021-04-20,3.0
+CUST19545,Robert Wilson,Invalid,3968758816,1980-04-13,Omaha,,Silver,2018-01-26,1.0
+CUST60328,Avery Martin,robert.nguyen23@hotmail.com,2551077060,1974-12-20,Raleigh,33.05,Not_mentioned,2022-02-20,2.0
+CUST10726,Amelia,mila.king56@yahoo.com,8911994805,1972-06-15,Baltimore,698.46,Bronze,2015-05-08,3.0
+CUST65724,Jessica Smith,ava.white56@hotmail.com,5363926288,1964-07-23,Charlotte,626.42,Inactive,2019-02-04,3.0
+CUST70889,Sofia Garcia,harper.hernandez41@icloud.com,8483158053,1981-07-11,Philadelphia,934.17,Active,2026-01-04,1.0
+CUST69829,Jones Richard,lily.lewis7@yahoo.com,3805988191,,Fresno,292.69,Inactive,2018-11-02,1.0
+CUST83259,Robert Robinson,harper.davis64@gmail.com,3377825565,1965-01-11,New York,561.31,Silver,2022-04-16,4.0
+CUST90301,Harper Lopez,benjamin.martinez16@hotmail.com,6526504197,1970-05-06,Atlanta,290.28,Bronze,2022-12-26,5.0
+CUST81810,Luna Thomas,ava.torres85@company.com,notprovided,1983-02-04,Louisville,795.47,Inactive,2015-07-16,3.0
+CUST68991,Joshua Gonzalez,chloe.torres@yahoo.com,3083887987,1981-11-20,Indianapolis,242.15,Silver,2019-08-17,1.0
+CUST78327,A. Thompson,jane.jackson88@icloud.com,9652228281,,Fresno,20.37,Inactive,2020-05-24,3.0
+CUST47450,Jane Lee,jane.garcia59@icloud.com,4629222295,,Not_Mentioned,359.43,Not_mentioned,2020-12-04,1.0
+CUST20561,Not Mentioned,Invalid,8536252213,2003-03-11,San Jose,77.11,Gold,2024-08-29,2.0
+CUST38043,Thomas Hernandez,benjamin.torres17@yahoo.com,4252941583,1952-11-30,Oklahoma City,63.37,Silver,2015-11-13,2.0
+CUST64496,Thomas Torres,elizabeth.hill49@gmail.com,3003718702,1959-07-25,Albuquerque,594.23,Active,2015-11-02,3.0
+CUST86556,Camila Lee,adam.wilson21@outlook.com,6289774509,,Seattle,221.44,Active,2020-09-04,
+CUST7232,Thompson Tyler,abigail.ramirez95@hotmail.com,notprovided,1980-07-01,Atlanta,465.17,Not_mentioned,2023-07-04,4.0
+CUST61116,Mia Lopez,richard.young58@outlook.com,notprovided,1986-07-03,Phoenix,439.95,Silver,2019-06-13,3.0
+CUST81582,L. Gonzalez,luna.lopez56@icloud.com,6973406713,,Albuquerque,131.7,Bronze,2022-06-19,4.0
+CUST45774,Laura Nguyen,avery.martinez64@company.com,5966017425,1958-12-25,Phoenix,401.63,Gold,2023-12-07,1.0
+CUST6507,Mila Sanchez,ryan.martin20@yahoo.com,8823947874,1969-01-17,Kansas City,696.43,Silver,2020-03-11,4.0
+CUST71261,Kevin Young,elizabeth.jones6@company.com,2164557522,1957-02-23,Oklahoma City,109.16,Gold,2021-02-11,5.0
+CUST61645,Thomas Nguyen,charles.thompson33@company.com,3401295766,1976-09-10,New York,186.34,Inactive,2024-07-05,1.0
+CUST66179,J. Torres,emma.sanchez6@gmail.com,7914257737,1979-11-25,Austin,220.36,Inactive,,
+CUST59689,Hill Matthew,christopher.flores34@hotmail.com,4477511747,1992-10-16,Raleigh,564.5,Silver,2016-07-12,3.0
+CUST59692,Layla Jones,brandon.taylor87@gmail.com,7287256401,,San Francisco,381.93,Active,2019-12-12,4.0
+CUST20735,Kevin Perez,Invalid,4881926460,1972-03-18,Kansas City,711.31,Silver,2024-12-24,
+CUST55870,John Brown,not provided,3032609776,1951-07-06,Jacksonville,31.45,Not_mentioned,2016-03-29,4.0
+CUST82910,Nicholas Harris,benjamin.young39@company.com,6668505074,1971-05-29,El Paso,217.41,Bronze,2020-10-19,
+CUST12671,Michael Williams,lily.martin12@yahoo.com,1208739627,1996-01-12,Columbus,499.2,Gold,,4.0
+CUST24993,Benjamin Jones,jane.wilson62@icloud.com,8908045051,1988-07-21,Oklahoma City,820.86,Inactive,2016-07-24,2.0
+CUST25012,Jane Ramirez,sarah.martin99@outlook.com,notprovided,2003-01-01,San Diego,925.8,Not_mentioned,2020-05-24,5.0
+CUST85849,Emily Sanchez,emily.perez2@gmail.com,1652180311,1961-07-02,Not_mentioned,760.03,Bronze,,3.0
+CUST61990,Jessica Martin,nathan.young30@icloud.com,5391954641,1960-02-08,Louisville,305.45,Gold,2022-05-21,3.0
+CUST92213,Charlotte Harris,not provided,1176087449,,El Paso,798.8,Inactive,2022-12-07,2.0
+CUST15383,Camila Anderson,jessica.young80@icloud.com,1976743773,1963-02-03,Kansas City,,Inactive,2022-02-25,3.0
+CUST76317,Ryan Torres,daniel.gonzalez@outlook.com,6358404808,1974-07-29,Kansas City,650.88,Active,2018-08-22,5.0
+CUST7882,Ella Torres,brandon.robinson17@hotmail.com,notprovided,1991-02-27,Nashville,572.91,Active,2016-01-14,2.0
+CUST93307,Olivia Gonzalez,charlotte.walker21@company.com,7135161091,1951-03-28,Boston,,Active,,5.0
+CUST33086,Eleanor Hill,william.hill63@gmail.com,3414298559,1968-01-10,Denver,29.6,Active,2022-07-30,4.0
+CUST80539,Matthew Moore,jane.thompson34@hotmail.com,8161797155,1961-12-23,Charlotte,943.45,Silver,2021-10-07,2.0
+CUST87656,Justin,isabella.ramirez15@company.com,6328662990,,Colorado Springs,321.6,Gold,2020-07-01,2.0
+CUST21359,Samuel Miller,chloe.williams99@company.com,9226378982,1959-11-08,Kansas City,574.45,Bronze,2019-10-14,1.0
+CUST84691,Joshua Taylor,mila.brown57@outlook.com,2205455820,1977-10-31,San Jose,264.85,Active,2017-10-18,8.0
+CUST6325,Moore Amelia,adam.miller72@gmail.com,2692445754,2000-11-18,Kansas City,24.05,Not_mentioned,2025-08-05,5.0
+CUST54608,Perez Justin,benjamin.jackson91@outlook.com,5733156409,1999-11-17,San Antonio,303.34,Not_mentioned,2025-07-06,2.0
+CUST82848,Nathan Martin Martin,nathan.rodriguez16@yahoo.com,1104257820,1950-04-21,Chicago,165.22,Active,2015-01-17,2.0
+CUST74038,Nathan Clark,laura.king54@yahoo.com,4587514703,1988-02-12,Louisville,,Silver,2016-05-09,3.0
+CUST74332,Mia Allen,ella.white4@outlook.com,2973815656,2000-09-15,Nashville,817.64,Gold,2025-12-23,
+CUST5820,Richard Brown,Invalid,3606749864,1980-02-27,Omaha,639.97,Bronze,2022-07-19,2.0
+CUST86225,Jacob Sanchez,emily.sanchez98@gmail.com,6772043075,1956-11-04,Los Angeles,505.67,Active,2026-02-11,3.0
+CUST82140,Charlotte,mila.king38@outlook.com,3839268756,1956-07-07,Atlanta,336.2,Active,2018-11-14,
+CUST42951,Eleanor Taylor,joseph.smith36@company.com,3373212496,1983-04-10,Detroit,733.24,Active,2018-08-31,1.0
+CUST80236,Olivia Anderson,luna.flores84@outlook.com,5165439968,1990-05-11,Not_Mentioned,602.86,Active,2024-03-28,
+CUST73464,Chloe Smith Walker,mia.garcia5@company.com,3466737442,2003-09-05,San Francisco,448.94,Silver,2019-10-28,
+CUST88222,Taylor Brandon,daniel.wilson12@company.com,7199624504,1950-07-28,Los Angeles,856.9,Not_mentioned,2017-12-30,8.0
+CUST39816,Joseph Robinson,jonathan.wright76@hotmail.com,6018115104,1995-03-11,Sacramento,577.62,Silver,2015-04-24,3.0
+CUST26591,Jacob White,emily.white34@icloud.com,5778896668,1990-08-01,Boston,1470.84,Bronze,2015-06-23,2.0
+CUST26551,Ava Lee,tyler.smith59@hotmail.com,2838651174,1967-04-11,Philadelphia,668.19,Not_mentioned,2024-05-08,4.0
+CUST11607,Samuel Thomas,kevin.wright77@yahoo.com,3596141212,1961-11-24,Columbus,990.29,Active,2026-03-09,1.0
+CUST24953,Mila Torres,david.martinez92@outlook.com,1319838713,1964-04-09,Austin,66.86,Silver,2024-11-15,3.0
+CUST92502,Zachary Thompson,christopher.jones48@icloud.com,9262061625,1983-08-08,Portland,309.21,Inactive,2021-06-04,3.0
+CUST49824,James Taylor,abigail.ramirez57@icloud.com,1845292956,,Los Angeles,,Active,2023-01-31,5.0
+CUST64548,Thomas Thompson,james.young92@outlook.com,notprovided,1987-03-28,Milwaukee,1470.84,Active,2021-02-01,2.0
+CUST78494,Evelyn Davis,ryan.williams96@yahoo.com,7288551273,1997-08-17,Boston,240.81,Inactive,2015-11-27,4.0
+CUST87139,Jacob Davis,jessica.white74@hotmail.com,8394759459,1964-02-14,Charlotte,201.85,Active,2023-11-28,2.0
+CUST89905,Richard Perez,not provided,notprovided,1989-12-06,Dallas,70.09,Inactive,2020-09-25,4.0
+CUST91987,Chloe Garcia,jonathan.martinez19@company.com,2518465368,1986-05-29,Not_Mentioned,,Not_mentioned,2015-09-28,2.0
+CUST32782,Ava Wilson Hernandez,layla.young1@gmail.com,8649621052,1961-05-17,Los Angeles,778.31,Silver,2020-02-04,4.0
+CUST87832,Harper Sanchez,christopher.perez49@outlook.com,5741902904,2002-02-04,Baltimore,75.49,Inactive,2025-09-25,4.0
+CUST5720,Nicholas,samuel.lewis86@outlook.com,2739071171,1971-07-30,San Antonio,143.45,Gold,2015-07-22,3.0
+CUST40595,Matthew,andrew.anderson51@hotmail.com,7579854130,1980-06-04,Omaha,530.83,Silver,2024-02-26,4.0
+CUST96662,John,hannah.hernandez91@gmail.com,6784237782,1994-01-02,Baltimore,496.73,Gold,2018-05-09,5.0
+CUST39466,Camila Martin,elizabeth.garcia25@company.com,3701949026,1989-09-07,Omaha,167.72,Inactive,2018-02-19,3.0
+CUST19359,Isabella Ramirez,jacob.johnson16@icloud.com,2741377318,1974-10-16,Not_Mentioned,631.03,Inactive,2019-08-31,5.0
+CUST84607,Lily Sanchez,jonathan.wilson@yahoo.com,3953126606,1952-06-14,San Jose,1470.84,Gold,2016-03-11,3.0
+CUST49857,Jacob Hernandez Davis,matthew.sanchez76@gmail.com,3643238662,2002-07-23,Dallas,359.88,Active,,5.0
+CUST74722,Kevin,ella.lee49@hotmail.com,4304817191,1983-05-02,Atlanta,473.49,Gold,2024-12-30,5.0
+CUST52247,Emily,chloe.garcia20@hotmail.com,2625318790,,Houston,292.56,Active,,2.0
+CUST4750,Justin,mila.brown39@outlook.com,2908701356,1963-06-09,Colorado Springs,899.46,Active,2019-09-21,4.0
+CUST12719,Avery Smith,jessica.brown26@yahoo.com,3493587114,1976-03-17,Tucson,756.31,Bronze,2015-04-14,4.0
+CUST15273,Eleanor Miller,jessica.moore8@hotmail.com,6192107897,1994-01-23,Jacksonville,937.25,Gold,2017-07-20,3.0
+CUST67963,Chloe Taylor,jane.moore71@company.com,4077119586,1953-10-23,Indianapolis,40.79,Inactive,2023-08-30,
+CUST93202,Olivia Walker,joshua.lewis11@icloud.com,1924163317,1973-06-10,Fort Worth,839.42,Bronze,2023-03-31,3.0
+CUST63523,Not Mentioned,sophia.wright55@company.com,2513053819,1963-06-15,Tucson,,Bronze,2015-09-04,1.0
+CUST53228,Jacob Jones,Invalid,8016687131,1978-11-09,Raleigh,101.26,Inactive,2024-08-12,3.0
+CUST62488,Evelyn Brown,Invalid,notprovided,1999-07-28,Baltimore,780.37,Active,2019-10-15,5.0
+CUST51224,Daniel,eleanor.allen37@gmail.com,4859518593,2000-02-01,Omaha,836.78,Bronze,2019-11-19,1.0
+CUST77449,John Rodriguez,eleanor.rodriguez93@company.com,8914345639,1997-03-05,Nashville,127.74,Active,2024-06-07,5.0
+CUST9889,Sarah White,avery.perez82@hotmail.com,8587001440,1997-06-03,Philadelphia,828.42,Active,2015-04-06,1.0
+CUST9494,Adam Walker,olivia.robinson77@hotmail.com,7257137523,1973-03-16,Austin,,Bronze,2015-10-29,3.0
+CUST40539,Adam Hernandez,not provided,4474933947,1967-05-24,San Jose,546.19,Silver,2024-08-11,2.0
+CUST67424,Chloe Thompson,ryan.smith@gmail.com,5312833679,1955-11-18,San Jose,329.41,Gold,2027-01-01,4.0
+CUST4920,Abigail Davis,nicholas.garcia84@icloud.com,7719837626,1977-08-03,Phoenix,86.54,Active,2022-11-27,4.0
+CUST7684,Hannah King Torres,not provided,4262319306,1997-05-26,San Antonio,467.68,Bronze,2024-04-19,4.0
+CUST70482,Luna Miller,not provided,4105355237,1985-01-02,Austin,,Gold,2022-10-20,5.0
+CUST48254,Nathan Scott,nathan.hill46@outlook.com,8294439765,1953-10-18,Denver,611.83,Silver,2016-09-02,2.0
+CUST71894,William,Invalid,1812531113,1967-03-13,Tucson,448.42,Bronze,2018-04-14,2.0
+CUST88561,Isabella Moore,ava.thompson@yahoo.com,5655451795,1957-08-04,Colorado Springs,86.22,Inactive,2018-10-06,2.0
+CUST46208,Lily Torres,abigail.white5@hotmail.com,9886018540,1997-07-31,New York,,Silver,2019-08-03,5.0
+CUST76550,David Sanchez,Invalid,9381249892,1994-12-11,Not_Mentioned,634.65,Silver,2023-10-12,3.0
+CUST5891,Sarah,tyler.hill73@yahoo.com,2144651599,1955-07-10,Boston,426.37,Silver,,1.0
+CUST60181,Evelyn Perez,not provided,6055415500,1968-05-11,San Diego,544.08,Inactive,2015-07-07,3.0
+CUST81228,Not Mentioned,ella.moore25@icloud.com,9406368510,1978-04-08,San Jose,36.26,Gold,2025-01-12,4.0
+CUST41300,Mila Lewis,not provided,notprovided,2003-10-26,Phoenix,206.88,Bronze,2023-02-22,4.0
+CUST15720,Daniel Scott,john.ramirez83@icloud.com,7238412656,1971-08-19,Not_Mentioned,227.03,Gold,2015-07-10,
+CUST59968,William,ava.davis88@company.com,1222885208,1970-04-02,Kansas City,905.33,Gold,2023-03-16,6.0
+CUST29936,Jessica Sanchez,ava.clark69@outlook.com,6843675967,,Colorado Springs,249.94,Gold,2022-11-07,4.0
+CUST9229,Kevin Nguyen,layla.anderson89@outlook.com,3208788158,1956-11-22,San Diego,731.58,Active,2020-09-19,5.0
+CUST67711,John King,kevin.miller4@outlook.com,2857945668,1984-12-05,Charlotte,243.53,Active,2016-04-11,6.0
+CUST3361,Emma Nguyen,Invalid,5247723126,1950-10-02,Austin,346.52,Active,2022-06-10,
+CUST71537,Andrew Clark,eleanor.brown43@company.com,8264324621,,Fort Worth,,Bronze,2021-10-17,4.0
+CUST62098,Christopher Rodriguez,kevin.lewis75@gmail.com,notprovided,1960-01-19,Chicago,483.18,Bronze,2024-12-24,4.0
+CUST79942,Matthew Scott,michael.rodriguez8@outlook.com,4985871205,1983-11-07,Atlanta,317.76,Inactive,2019-10-22,1.0
+CUST73956,Mila Lopez,not provided,6458143785,1987-04-12,Houston,950.51,Bronze,2023-09-30,2.0
+CUST2121,Tyler Clark,adam.harris52@gmail.com,9726852287,1955-03-14,Jacksonville,851.47,Not_mentioned,2020-03-17,2.0
+CUST39817,D. Johnson,evelyn.harris60@outlook.com,3988686166,1959-10-07,Columbus,777.9,Active,2022-12-23,5.0
+CUST93066,Not Mentioned,evelyn.king43@company.com,5258831383,1986-07-16,Sacramento,541.81,Gold,2022-05-28,5.0
+CUST49251,Emily Jackson,richard.torres17@icloud.com,4877213023,1971-07-18,San Antonio,431.66,Active,2016-04-25,4.0
+CUST3828,Elizabeth Anderson,james.williams8@yahoo.com,8968527571,1976-05-16,Not_Mentioned,239.35,Gold,2016-11-02,2.0
+CUST79621,Zachary Brown,nicholas.martinez19@outlook.com,7452086206,1980-04-11,Sacramento,937.32,Inactive,2024-02-01,4.0
+CUST32946,John Taylor,Invalid,5602603910,1958-08-12,Mesa,585.89,Inactive,2016-07-28,5.0
+CUST93611,Emma Jones,adam.nguyen73@hotmail.com,2937511475,2004-06-30,Colorado Springs,830.74,Bronze,2017-04-02,1.0
+CUST8622,James Hernandez,robert.young29@gmail.com,1234325095,1963-10-26,Phoenix,234.15,Gold,2015-08-01,4.0
+CUST67898,Matthew Hill,chloe.perez95@outlook.com,9087697378,1972-10-15,Colorado Springs,261.49,Gold,2015-09-13,3.0
+CUST60422,Joshua Wright,jane.gonzalez26@hotmail.com,7175544963,1997-01-20,Oklahoma City,362.81,Bronze,2017-08-07,2.0
+CUST57049,Olivia Flores,emma.gonzalez3@yahoo.com,2633508572,1997-05-09,Fresno,123.64,Gold,2017-02-16,5.0
+CUST96275,Zachary Thompson Lewis,avery.rodriguez@outlook.com,5819827313,1997-06-04,New York,,Inactive,2016-10-29,0.0
+CUST6482,Andrew Davis,charlotte.white85@yahoo.com,7626461388,1983-03-31,San Jose,,Inactive,2018-04-24,3.0
+CUST47512,Lily Allen,michael.davis19@yahoo.com,1404727544,1955-10-26,Tucson,,Not_mentioned,2023-03-15,3.0
+CUST38705,Not Mentioned,kevin.thomas6@company.com,3688762831,1990-08-26,Not_Mentioned,834.95,Not_mentioned,,4.0
+CUST96400,Nicholas Wright,kevin.moore17@company.com,3701996407,1987-09-30,Not_Mentioned,392.35,Active,2018-02-24,2.0
+CUST92242,David Wilson,zachary.flores9@yahoo.com,4028058285,2004-03-31,Denver,294.64,Bronze,2020-12-12,3.0
+CUST85965,Layla Martinez,evelyn.lopez42@icloud.com,6343951425,1996-11-06,Milwaukee,639.92,Inactive,,
+CUST52823,Michael,amelia.nguyen84@gmail.com,7494128787,1979-08-22,Sacramento,354.05,Silver,,
+CUST80701,Andrew Lewis,harper.harris74@yahoo.com,9794935215,1967-06-12,Austin,365.74,Not_mentioned,2022-10-28,3.0
+CUST45720,Avery,christopher.king46@yahoo.com,3166975963,1962-09-04,Austin,464.62,Bronze,2023-12-17,1.0
+CUST73156,Not Mentioned,joshua.white64@hotmail.com,4728389332,1952-01-23,Portland,320.0,Bronze,2017-12-11,2.0
+CUST25095,Jacob Miller,Invalid,2597019209,1952-09-27,Jacksonville,839.07,Inactive,2016-08-24,2.0
+CUST4696,Nathan Johnson,nicholas.garcia36@yahoo.com,2795957223,2004-06-07,Atlanta,987.69,Inactive,2016-06-03,4.0
+CUST83048,Kevin Martinez,isabella.taylor39@icloud.com,notprovided,1962-06-06,Omaha,25.97,Gold,2020-02-28,4.0
+CUST9791,John Scott,adam.wright34@gmail.com,9082224226,1975-07-18,New York,128.97,Inactive,2026-05-24,2.0
+CUST44362,Tyler,nathan.nguyen97@icloud.com,9019069587,2000-10-20,Oklahoma City,852.1,Gold,2021-05-19,4.0
+CUST24201,Joseph Wilson,not provided,6191685447,1982-03-08,Not_mentioned,553.54,Inactive,2017-05-13,5.0
+CUST83584,Richard Davis,benjamin.wilson61@yahoo.com,6806355062,1980-12-04,Sacramento,736.98,Active,2016-02-01,3.0
+CUST93283,Evelyn Scott,jonathan.garcia41@yahoo.com,8345673907,1993-03-27,Los Angeles,490.62,Not_mentioned,2019-11-14,3.0
+CUST63516,Joseph Rodriguez,jane.white18@company.com,notprovided,1978-02-22,Columbus,927.09,Gold,2017-09-30,1.0
+CUST1609,Isabella Flores,joseph.perez29@outlook.com,2356355960,1998-07-30,Dallas,1470.84,Inactive,2020-09-20,4.0
+CUST80457,William Smith,camila.johnson73@gmail.com,notprovided,1952-08-23,Portland,278.1,Not_mentioned,2026-03-16,3.0
+CUST80804,Avery Perez,brandon.hill74@outlook.com,4269082196,1996-02-08,Nashville,540.05,Inactive,2022-04-21,5.0
+CUST64379,Brandon Garcia,david.perez73@outlook.com,5984071157,1984-09-26,Jacksonville,282.96,Not_mentioned,,4.0
+CUST46666,Michael Jones,nathan.hill63@gmail.com,9257508475,1952-04-15,San Francisco,363.66,Gold,2017-12-14,3.0
+CUST57537,Thomas Nguyen,not provided,4167408209,1978-11-01,Charlotte,653.47,Active,2015-05-12,1.0
+CUST94518,Zachary Thomas,jessica.rodriguez69@outlook.com,6215819122,,San Antonio,108.81,Inactive,2022-02-03,3.0
+CUST26011,Emma Torres,olivia.martin56@icloud.com,7538039824,1986-11-20,Philadelphia,938.0,Silver,2016-12-02,2.0
+CUST37801,Thomas Young,mila.robinson36@yahoo.com,8846438731,1989-07-14,Milwaukee,490.54,Gold,2026-02-10,
+CUST6464,Andrew Walker,not provided,8845053814,1986-03-05,Boston,428.59,Active,2022-03-07,
+CUST18992,Sofia,tyler.young59@outlook.com,9075265413,,Boston,151.22,Gold,2023-09-09,2.0
+CUST10371,Andrew Anderson,harper.robinson50@icloud.com,5184623292,1997-01-03,Charlotte,506.68,Silver,2024-04-06,1.0
+CUST80807,Jacob Rodriguez,hannah.hernandez36@icloud.com,8213074417,1961-11-26,Denver,915.44,Bronze,2021-08-16,
+CUST13379,Brandon Davis,abigail.clark98@company.com,5379097265,1959-10-03,Fort Worth,485.12,Not_mentioned,,4.0
+CUST87182,Camila Hernandez,joshua.lewis22@hotmail.com,2091764983,1959-02-14,Fort Worth,860.46,Bronze,2018-04-23,1.0
+CUST65176,Jacob Williams,kevin.robinson@outlook.com,8997757390,1978-07-05,Omaha,284.82,Inactive,2015-10-05,4.0
+CUST57453,Tyler Johnson,mila.rodriguez42@icloud.com,2031576614,1956-09-01,Albuquerque,,Gold,,4.0
+CUST90623,Ryan Walker,christopher.rodriguez61@hotmail.com,4328937779,2001-12-05,Fort Worth,148.3,Inactive,2019-01-12,2.0
+CUST70036,Andrew Rodriguez,Invalid,1699916143,1997-12-04,Boston,538.31,Inactive,2021-02-07,5.0
+CUST8847,David Lopez,nicholas.wilson57@icloud.com,3335716934,1966-09-30,Fresno,954.85,Inactive,2018-05-08,2.0
+CUST68138,Jonathan,not provided,2227577730,1966-05-13,Albuquerque,681.8,Gold,2021-01-27,5.0
+CUST18609,John Ramirez,justin.martin57@gmail.com,4821168163,1994-01-29,Columbus,447.85,Inactive,2016-09-07,2.0
+CUST52622,Ella,sophia.gonzalez12@gmail.com,4417492099,1998-05-22,El Paso,63.91,Bronze,2025-11-21,5.0
+CUST76263,Samuel Torres,thomas.miller86@yahoo.com,9669712437,1980-05-14,Not_Mentioned,904.96,Bronze,2025-10-21,1.0
+CUST38183,Not Mentioned,matthew.lopez2@outlook.com,4475649646,1994-07-17,El Paso,409.84,Not_mentioned,2016-10-23,
+CUST69441,Not Mentioned,Invalid,7389487388,1950-03-15,Denver,375.66,Silver,2021-12-20,
+CUST50963,David Martinez,olivia.clark39@company.com,notprovided,1964-04-14,Raleigh,477.53,Inactive,2019-11-14,3.0
+CUST72163,Avery Sanchez,tyler.hernandez33@gmail.com,5687694282,1990-02-16,El Paso,446.67,Silver,2017-11-10,3.0
+CUST22656,Charles Martin,justin.rodriguez43@yahoo.com,8912514377,1965-08-18,Jacksonville,216.09,Silver,2026-01-29,
+CUST17861,Thomas Lewis,isabella.johnson78@company.com,4561706365,1953-07-16,Phoenix,555.38,Gold,2022-05-02,3.0
+CUST26021,Luna Brown,john.anderson3@company.com,3383226821,1999-01-19,New York,498.42,Inactive,2022-06-05,
+CUST65435,Sarah,sarah.brown18@hotmail.com,notprovided,2004-04-17,Seattle,700.17,Gold,,5.0
+CUST88696,Brandon Williams,benjamin.hill57@icloud.com,9748574417,1972-07-01,Philadelphia,662.1,Not_mentioned,2018-07-25,5.0
+CUST30280,Emily Lopez,jonathan.clark83@hotmail.com,1952799301,1995-12-14,Mesa,110.15,Active,,
+CUST66244,William Garcia,john.jones63@gmail.com,5671161118,1985-01-12,New York,92.39,Active,2025-08-07,0.0
+CUST96223,Nathan Moore,sophia.ramirez23@company.com,0000000000,1997-09-30,Colorado Springs,942.61,Bronze,2025-10-13,6.0
+CUST50499,Emma Clark Allen,jonathan.walker11@hotmail.com,1092319497,1963-10-23,Los Angeles,896.38,Active,2017-09-24,4.0
+CUST28776,Nicholas Torres,samuel.martinez62@gmail.com,7764007089,1997-09-28,Los Angeles,785.13,Gold,,2.0
+CUST92991,Chloe Robinson,nicholas.martinez71@icloud.com,9289293975,1954-08-27,Dallas,152.56,Active,2021-11-10,5.0
+CUST59308,Jonathan Anderson,ryan.jones43@yahoo.com,3084137613,2005-08-01,Chicago,212.86,Gold,2025-09-27,2.0
+CUST52517,E. Taylor,Invalid,5811353364,1965-10-13,Denver,633.67,Gold,2025-02-10,1.0
+CUST16895,Ryan Lee,charlotte.harris63@hotmail.com,4868809604,2003-04-03,Mesa,670.42,Not_mentioned,2019-08-15,5.0
+CUST2336,Abigail Gonzalez,andrew.torres21@yahoo.com,5875757800,1961-12-10,Omaha,415.49,Bronze,2022-12-25,4.0
+CUST67939,Joseph Martinez,mila.young82@icloud.com,5803633100,1967-06-16,Los Angeles,344.14,Bronze,2025-09-05,1.0
+CUST55242,A. Wright,ryan.williams47@icloud.com,9519724215,1979-06-01,Denver,177.94,Active,2018-06-11,5.0
+CUST73783,Tyler Moore,Invalid,8345135625,1984-11-27,Jacksonville,733.34,Gold,2021-06-21,1.0
+CUST88554,Emily King,camila.hernandez2@gmail.com,5737849518,1997-07-11,Dallas,,Active,2022-03-18,5.0
+CUST27987,Emma Robinson,sarah.king25@outlook.com,2486931560,1985-02-05,Oklahoma City,424.65,Inactive,2025-02-07,
+CUST75193,Olivia Harris Nguyen,andrew.nguyen40@icloud.com,0000000000,1993-05-12,Las Vegas,826.44,Bronze,2019-11-24,2.0
+CUST40161,Luna Perez,chloe.thompson19@hotmail.com,7359886103,,El Paso,603.89,Silver,2025-04-18,1.0
+CUST19447,Ava Lewis,nathan.young1@gmail.com,5647365305,2005-11-28,Chicago,,Gold,,1.0
+CUST2800,Sophia Scott,not provided,2903616586,1993-03-04,Tucson,712.56,Gold,2027-01-01,2.0
+CUST85156,Emma Clark,charlotte.lopez91@yahoo.com,6313692034,1953-05-20,San Jose,893.8,Gold,2017-09-11,1.0
+CUST57428,Jane Clark,camila.thomas62@outlook.com,6232993321,,New York,846.33,Inactive,2021-09-18,2.0
+CUST87184,Emma Jackson,Invalid,8518626798,1957-10-26,Boston,995.45,Gold,2015-10-28,1.0
+CUST6083,Daniel Robinson,Invalid,6523359697,,Milwaukee,490.32,Silver,2020-03-12,
+CUST20011,Tyler Sanchez,isabella.hill55@hotmail.com,8698333491,1992-06-04,Atlanta,485.27,Active,2021-03-20,
+CUST55793,Ava Hill,zachary.sanchez49@company.com,5104037386,,Chicago,106.69,Gold,2024-09-17,3.0
+CUST29358,Christopher Clark,not provided,1001765117,1962-04-12,Albuquerque,867.89,Bronze,2025-06-28,2.0
+CUST88957,Layla Garcia,benjamin.rodriguez4@company.com,8735203298,2002-05-10,Baltimore,841.14,Active,2020-01-22,1.0
+CUST92306,Chloe Sanchez,christopher.flores88@icloud.com,9052637865,1994-03-16,Not_Mentioned,929.21,Active,2022-11-04,1.0
+CUST68838,Andrew Martin,Invalid,5112263487,2002-10-13,New York,195.46,Silver,2020-10-14,1.0
+CUST91857,Robert Thompson,thomas.hill63@outlook.com,6362058718,1995-01-15,Jacksonville,969.95,Gold,2024-03-13,5.0
+CUST67640,Christopher Rodriguez,ryan.miller94@outlook.com,8728376593,1979-10-24,Austin,127.66,Active,2026-01-16,2.0
+CUST46002,Tyler Ramirez,adam.allen5@yahoo.com,5366993759,,Seattle,416.44,Bronze,2021-12-03,3.0
+CUST70521,Christopher Martin,evelyn.hernandez58@gmail.com,8497176940,1953-07-15,Kansas City,343.43,Active,2015-07-12,3.0
+CUST5703,Rodriguez Joseph,justin.garcia14@outlook.com,2079855590,,Raleigh,,Inactive,2019-04-22,1.0
+CUST90610,Chloe Ramirez,Invalid,3574652361,1961-10-06,Atlanta,600.64,Not_mentioned,2015-08-14,2.0
+CUST15376,Harper Sanchez,zachary.davis86@yahoo.com,notprovided,1968-09-10,Philadelphia,573.94,Active,,5.0
+CUST52143,Kevin Thomas,thomas.torres99@company.com,8999468993,,New York,732.43,Silver,2019-02-11,2.0
+CUST69050,Nicholas Moore,not provided,7162102615,1968-04-23,Chicago,302.99,Inactive,2015-04-15,6.0
+CUST21053,Ava Flores,jonathan.scott56@yahoo.com,5319347451,1996-08-20,Portland,141.8,Active,2020-08-10,1.0
+CUST67377,David Jackson Moore,richard.davis74@hotmail.com,7629078212,1969-12-04,San Francisco,,Gold,2017-01-03,3.0
+CUST57696,Sarah,camila.wright25@outlook.com,8965421420,1950-07-28,Los Angeles,,Inactive,2023-07-18,5.0
+CUST54350,Evelyn Williams,ella.hill76@yahoo.com,1298468481,1956-03-30,Not_Mentioned,383.91,Gold,2016-01-05,1.0
+CUST47243,Sophia Harris,laura.hill37@yahoo.com,9846606273,2005-12-27,New York,484.52,Silver,2025-07-08,6.0
+CUST88997,Robinson Layla,jacob.davis36@icloud.com,4607319818,1958-01-23,Philadelphia,761.34,Silver,2018-07-09,1.0
+CUST28537,Matthew Hernandez,emily.perez20@icloud.com,7545156126,1997-10-10,Tucson,209.75,Silver,2017-08-05,0.0
+CUST96787,Not Mentioned,hannah.lopez63@icloud.com,4459258172,1981-05-29,Las Vegas,151.25,Gold,2019-02-07,2.0
+CUST50577,Hannah Wilson,elizabeth.sanchez44@outlook.com,6188175853,1983-12-30,New York,1470.84,Silver,2024-07-05,3.0
+CUST26750,Moore Camila,daniel.jackson90@yahoo.com,7129977629,1990-09-10,Dallas,11.27,Active,2016-05-29,4.0
+CUST99838,Robert,hannah.brown91@hotmail.com,9658535815,1989-06-07,El Paso,890.12,Inactive,,4.0
+CUST76648,Abigail Garcia,laura.wilson28@icloud.com,2587835485,1969-06-29,Los Angeles,320.96,Silver,2025-09-27,1.0
+CUST38074,Laura Wright,jonathan.martinez49@outlook.com,notprovided,1965-06-24,Columbus,139.81,Active,2019-05-13,4.0
+CUST28030,Lily Lewis,emily.davis66@icloud.com,2481125862,1959-01-17,Milwaukee,955.98,Gold,2025-12-28,3.0
+CUST76543,Not Mentioned,jessica.thomas51@outlook.com,7265948191,1999-05-27,Nashville,27.0,Not_mentioned,2020-12-01,1.0
+CUST14947,Lewis Elizabeth,jonathan.garcia60@icloud.com,7426897342,1998-06-18,Sacramento,249.92,Gold,2020-12-11,3.0
+CUST88282,Ava Hill,Invalid,3404279853,1994-03-28,Omaha,929.61,Not_mentioned,2024-12-10,1.0
+CUST91885,Charlotte Robinson,tyler.walker36@icloud.com,6516923109,1972-10-11,Las Vegas,554.55,Gold,2023-03-06,5.0
+CUST63852,Adam White Flores,harper.martin74@yahoo.com,9467184732,2004-02-26,Los Angeles,757.69,Not_mentioned,2021-02-13,4.0
+CUST90031,Abigail Scott,nathan.johnson51@company.com,6889561871,1954-12-22,Tucson,562.17,Gold,2022-06-19,3.0
+CUST79993,Robert Rodriguez,nicholas.davis97@yahoo.com,5596721942,1969-03-22,Mesa,449.74,Silver,2025-10-23,2.0
+CUST35430,Not Mentioned,elizabeth.lewis41@gmail.com,3826835128,1971-10-21,Fort Worth,338.28,Silver,2019-03-25,3.0
+CUST70513,Sofia,not provided,5053208407,1958-04-11,Fresno,30.63,Active,2015-12-18,4.0
+CUST64874,Brandon Jones,sarah.davis65@hotmail.com,5162479841,1953-05-18,New York,1470.84,Bronze,2021-03-01,4.0
+CUST28140,Kevin Brown,Invalid,7012222163,1996-07-12,Nashville,802.19,Silver,2023-08-31,2.0
+CUST8873,Luna Moore,christopher.rodriguez74@outlook.com,8772833969,1983-05-24,Columbus,457.37,Active,2018-03-02,4.0
+CUST77621,David Anderson,olivia.miller85@gmail.com,notprovided,1953-08-18,Los Angeles,926.25,Silver,2021-07-14,4.0
+CUST45755,Layla Scott,brandon.scott28@company.com,8014967677,2001-06-25,Not_Mentioned,638.03,Active,2023-11-03,4.0
+CUST22021,David Hernandez,andrew.hernandez52@outlook.com,5403589186,2001-03-08,New York,403.39,Gold,2019-05-30,2.0
+CUST55820,Joseph Lee,michael.moore82@icloud.com,5628692540,1963-05-22,Not_Mentioned,812.66,Bronze,2021-05-12,4.0
+CUST59015,Matthew Hill,william.clark20@hotmail.com,7201621969,1958-04-19,Not_mentioned,516.65,Inactive,2025-10-31,4.0
+CUST13694,Christopher Lewis,brandon.thomas@gmail.com,6411121076,1967-08-13,Tucson,253.89,Gold,2020-11-19,4.0
+CUST53947,Not Mentioned,sarah.white43@hotmail.com,2762939162,2004-08-10,Raleigh,588.52,Bronze,2015-06-27,1.0
+CUST71925,James,thomas.harris14@gmail.com,6872818220,1960-08-05,Not_Mentioned,,Gold,2025-08-11,3.0
+CUST68799,N. Moore,ella.thompson90@company.com,1396502970,1960-05-01,Not_Mentioned,1470.84,Inactive,2019-02-11,5.0
+CUST4533,Laura Rodriguez,samuel.harris24@hotmail.com,2026094164,1966-03-19,Louisville,344.22,Active,2024-09-14,5.0
+CUST79176,Tyler Wilson,amelia.walker76@yahoo.com,4989028338,,Fresno,811.52,Active,2017-09-07,3.0
+CUST25970,Tyler Miller,tyler.moore7@icloud.com,6022927623,1962-03-15,San Antonio,191.8,Bronze,2017-06-18,
+CUST24530,Sofia Hill,nathan.anderson40@icloud.com,notprovided,1951-03-16,New York,52.64,Gold,2015-03-15,4.0
+CUST92831,Tyler Martinez,sarah.jones94@yahoo.com,9686322490,1975-04-22,Kansas City,899.95,Silver,2016-06-25,5.0
+CUST97584,Samuel Rodriguez,layla.thompson32@icloud.com,notprovided,2003-01-22,Baltimore,115.07,Inactive,,3.0
+CUST78951,Ella Thomas,robert.hill58@yahoo.com,8898001903,1950-02-10,Fresno,71.11,Silver,2021-05-21,3.0
+CUST12665,Joshua Ramirez,eleanor.rodriguez66@hotmail.com,1914149893,1994-07-20,Fort Worth,,Not_mentioned,2021-12-07,2.0
+CUST58929,Joseph Flores,avery.thomas70@gmail.com,4104944084,1982-03-18,Los Angeles,,Bronze,2025-02-17,1.0
+CUST2106,Avery White,Invalid,9692829335,1973-04-08,San Diego,717.67,Silver,2020-07-05,5.0
+CUST86271,Laura Jackson,robert.robinson80@outlook.com,8294272195,1987-11-26,Not_mentioned,12.43,Active,2020-12-27,1.0
+CUST9945,Olivia Wright Wilson,not provided,8052195758,2005-07-28,Louisville,,Active,2019-11-02,6.0
+CUST99742,Justin Johnson,not provided,notprovided,1970-06-22,Jacksonville,630.62,Bronze,,
+CUST27675,Justin Flores,amelia.thompson2@gmail.com,4809577585,1964-03-24,Los Angeles,294.77,Active,2027-01-01,
+CUST48462,Zachary White,abigail.smith20@icloud.com,notprovided,1972-05-27,Charlotte,372.64,Active,2018-07-26,2.0
+CUST51365,Not Mentioned,nicholas.moore14@outlook.com,9847416074,,Washington,89.4,Gold,2024-01-08,2.0
+CUST81176,Matthew Young,Invalid,5234865556,,Los Angeles,661.59,Gold,2023-12-18,2.0
+CUST4131,Jane Williams,joshua.perez5@yahoo.com,8269331531,1987-12-20,Washington,822.33,Bronze,2022-12-03,5.0
+CUST6438,Joseph Thompson,abigail.scott64@icloud.com,notprovided,1983-05-16,Austin,164.16,Bronze,2015-07-30,5.0
+CUST62431,Andrew Johnson,layla.harris17@gmail.com,9106002089,1972-07-12,Baltimore,392.13,Not_mentioned,2022-04-27,1.0
+CUST34486,Benjamin Harris,Invalid,5073919786,1953-12-16,Portland,131.75,Silver,,4.0
+CUST78062,Harper Martin,john.ramirez62@hotmail.com,3061889158,1987-01-06,Las Vegas,650.0,Inactive,2023-08-16,3.0
+CUST66440,Lily Gonzalez,emma.thomas36@gmail.com,5902112825,1996-04-26,Austin,200.45,Gold,2015-09-24,4.0
+CUST52101,Chloe Martinez,mila.miller90@icloud.com,7304798177,,Fresno,,Not_mentioned,2025-01-20,5.0
+CUST4570,Emma Lee,thomas.davis17@outlook.com,8863156208,,Houston,568.39,Bronze,2018-05-16,5.0
+CUST56077,Matthew,not provided,notprovided,1959-09-15,Louisville,602.84,Active,2016-11-24,1.0
+CUST90589,Layla Moore,emily.harris53@company.com,notprovided,1972-02-12,Not_mentioned,539.48,Silver,2021-02-26,
+CUST17518,Flores Luna,jacob.ramirez83@gmail.com,1575007226,,Raleigh,80.79,Active,2023-03-11,2.0
+CUST99051,Justin Walker,matthew.brown24@gmail.com,5491258217,1974-09-21,Los Angeles,669.96,Gold,2022-08-04,5.0
+CUST8179,Ryan Rodriguez,not provided,notprovided,1989-01-13,Jacksonville,,Bronze,2022-05-13,5.0
+CUST3513,Amelia Flores,sophia.moore27@company.com,9334962960,1985-04-25,Washington,930.12,Inactive,2015-08-08,3.0
+CUST20077,David Lewis,camila.gonzalez25@icloud.com,6581751324,1992-08-12,Fresno,167.99,Silver,2019-09-20,4.0
+CUST95139,Robert Scott,ryan.gonzalez69@icloud.com,5608664893,,Colorado Springs,628.59,Silver,2018-06-03,5.0
+CUST4048,Chloe Jackson,samuel.scott45@hotmail.com,2565659789,,Albuquerque,928.59,Gold,2026-01-22,3.0
+CUST90199,Amelia Clark,justin.gonzalez95@outlook.com,9723327590,1951-10-06,Nashville,587.88,Active,2015-11-12,5.0
+CUST26074,Not Mentioned,jacob.harris72@outlook.com,5635547364,2000-07-02,Milwaukee,442.28,Active,,3.0
+CUST99381,Andrew Allen,ava.scott16@yahoo.com,9115187140,1995-01-09,Austin,670.78,Gold,2024-10-14,4.0
+CUST18511,Hannah Martinez,ava.rodriguez35@gmail.com,9528937752,,New York,145.43,Active,2018-06-15,2.0
+CUST57381,Evelyn Young,elizabeth.taylor93@yahoo.com,5531244382,1987-03-12,Omaha,775.66,Active,2021-10-02,4.0
+CUST28202,Abigail,nathan.thompson29@icloud.com,5116884240,1969-05-28,El Paso,276.76,Not_mentioned,2023-01-31,2.0
+CUST85009,Sophia Scott,chloe.nguyen14@icloud.com,7258819693,1978-12-01,Las Vegas,,Silver,2021-03-13,4.0
+CUST90209,Joseph Williams,elizabeth.wilson57@yahoo.com,0000000000,2000-12-31,Los Angeles,227.29,Inactive,2022-07-18,
+CUST7523,Not Mentioned,christopher.anderson94@icloud.com,2543186039,1973-09-11,Indianapolis,987.57,Inactive,2024-10-04,4.0
+CUST63665,William Jackson,nathan.lopez25@company.com,8202795747,1996-04-03,San Diego,678.45,Active,2023-05-14,4.0
+CUST6194,Camila White,emma.sanchez88@company.com,7335193593,1952-06-17,Oklahoma City,211.3,Inactive,2016-03-18,2.0
+CUST87042,Olivia Wilson,david.harris@outlook.com,4905847215,2002-06-16,Detroit,214.57,Bronze,,2.0
+CUST17263,Justin Hill,not provided,6852868329,1998-03-22,Washington,,Inactive,2025-07-29,
+CUST31229,Luna Thompson,sarah.moore19@icloud.com,4781703903,1956-05-02,New York,141.62,Inactive,2023-10-08,4.0
+CUST78012,Luna Anderson,jonathan.miller@company.com,7843016254,1990-06-27,Austin,195.73,Gold,2024-06-04,
+CUST93238,Jane,tyler.lewis21@hotmail.com,7367047844,1995-06-22,Sacramento,825.8,Bronze,,10.0
+CUST90534,Robert Perez,jessica.johnson6@gmail.com,1246016219,1987-07-28,San Antonio,351.19,Bronze,2016-12-21,1.0
+CUST86106,Michael Martin,Invalid,1413798505,1957-08-21,Detroit,951.19,Bronze,,
+CUST89316,Tyler Flores,avery.harris88@icloud.com,9927391174,1994-10-30,Portland,70.58,Gold,2018-11-19,4.0
+CUST1464,Ryan Williams,daniel.thompson10@company.com,4893048702,1963-07-01,Philadelphia,,Bronze,,3.0
+CUST44688,Jonathan Clark,laura.lopez55@company.com,7883767146,1954-06-28,Not_Mentioned,336.54,Active,2019-11-14,3.0
+CUST93753,Not Mentioned,luna.jackson45@gmail.com,4548365285,2002-02-14,Not_Mentioned,358.39,Active,2020-04-18,2.0
+CUST70260,Tyler Perez Thompson,lily.jones1@yahoo.com,7824269336,1975-06-28,Colorado Springs,,Gold,2019-09-27,2.0
+CUST49596,William Torres,ryan.jones15@company.com,2319252753,1991-04-17,San Diego,,Inactive,2025-02-26,1.0
+CUST48985,Mila Williams,chloe.harris46@hotmail.com,1771091220,2004-04-03,Detroit,491.7,Active,2020-03-20,4.0
+CUST64476,Ella Martin,james.thomas50@outlook.com,5717466421,1973-10-04,Omaha,467.5,Bronze,2025-10-13,1.0
+CUST50970,Richard,sarah.nguyen92@outlook.com,1832902502,1963-09-21,Detroit,488.41,Silver,2019-05-10,2.0
+CUST55268,Ryan,charlotte.smith27@gmail.com,4964289672,1986-06-25,Columbus,977.01,Active,2022-05-04,3.0
+CUST83616,Matthew Martinez,charlotte.rodriguez38@outlook.com,8497922003,2001-06-26,Charlotte,714.97,Bronze,2018-10-14,5.0
+CUST68929,Robert Robinson,nathan.anderson8@icloud.com,6892933031,1953-09-08,Not_mentioned,37.77,Bronze,2019-11-15,1.0
+CUST2465,Hannah Garcia,harper.white7@icloud.com,7509565861,1989-12-09,Jacksonville,353.95,Silver,2024-10-21,1.0
+CUST30932,S. Martin,laura.white19@gmail.com,6431075123,1955-09-09,San Jose,582.14,Inactive,2015-04-02,1.0
+CUST34881,Zachary Davis,Invalid,8739378046,1972-04-10,New York,472.98,Inactive,2024-05-19,1.0
+CUST75373,Nicholas Thompson,mia.walker53@icloud.com,8627902445,1986-07-20,El Paso,928.81,Active,2018-02-13,3.0
+CUST61543,Mia Flores,sofia.williams78@yahoo.com,6823686227,1953-12-05,Mesa,1470.84,Gold,2018-01-22,2.0
+CUST56254,Brown David,Invalid,8622944737,1964-11-08,Mesa,483.72,Inactive,2025-11-25,2.0
+CUST98148,Samuel Robinson,james.wilson52@company.com,5755633501,1967-04-05,Mesa,967.63,Inactive,2016-02-26,1.0
+CUST66482,Sofia Robinson,not provided,2429076189,1993-06-11,Omaha,,Gold,2025-01-29,2.0
+CUST62855,Emma Perez,justin.robinson62@hotmail.com,2762544013,2001-06-05,Fort Worth,1470.84,Inactive,2026-04-08,5.0
+CUST35513,Walker Jessica,harper.gonzalez35@gmail.com,5832535438,1991-06-04,El Paso,1470.84,Active,2023-11-15,1.0
+CUST69028,David Sanchez,william.wright14@gmail.com,5012625972,1959-05-21,Indianapolis,460.87,Inactive,2024-04-16,4.0
+CUST99181,Amelia Nguyen,Invalid,5459723618,1998-12-23,Houston,695.67,Not_mentioned,2019-04-30,4.0
+CUST58915,Nathan Nguyen,tyler.williams73@outlook.com,7223963317,2005-06-29,Detroit,1470.84,Bronze,2026-06-10,3.0
+CUST28909,Zachary Jones,not provided,5976159420,1979-05-14,Austin,,Silver,2016-11-09,2.0
+CUST15938,David Lewis,joseph.jackson@outlook.com,8424823099,2003-10-01,Detroit,301.96,Inactive,2022-08-19,1.0
+CUST29521,Kevin Smith,jonathan.harris62@company.com,4486916424,1970-05-16,Los Angeles,432.49,Bronze,2025-09-02,4.0
+CUST90356,Olivia Lee,Invalid,8257074883,1986-11-08,Los Angeles,356.02,Gold,2016-01-26,2.0
+CUST49221,Joseph Garcia,olivia.martinez99@icloud.com,4938683430,1984-01-01,Fort Worth,528.25,Not_mentioned,2026-05-03,5.0
+CUST74205,Elizabeth Brown,chloe.perez58@yahoo.com,3721688364,1997-07-31,Jacksonville,1470.84,Silver,2016-10-29,5.0
+CUST58281,Harper Nguyen,chloe.harris31@yahoo.com,5853524659,1974-07-31,Baltimore,714.81,Gold,2024-02-12,2.0
+CUST50327,Ryan Rodriguez,david.smith19@hotmail.com,4275966147,1989-02-05,Los Angeles,85.1,Inactive,,4.0
+CUST13492,Zachary Rodriguez,matthew.hernandez38@yahoo.com,2234021992,1977-11-17,Raleigh,674.37,Gold,2026-04-20,4.0
+CUST85821,Benjamin,not provided,9389731178,1990-06-05,Milwaukee,944.29,Active,2025-11-08,4.0
+CUST32349,Hannah Robinson,ryan.taylor98@outlook.com,7598807904,1952-08-04,Oklahoma City,,Bronze,2018-06-08,1.0
+CUST59832,Nathan Lewis,adam.jackson52@outlook.com,7085546146,1961-09-26,Las Vegas,,Not_mentioned,2019-07-06,5.0
+CUST64127,Robert Torres,sofia.brown95@yahoo.com,6631268114,1988-03-04,Sacramento,504.89,Gold,2022-11-18,4.0
+CUST71814,Ella Moore,tyler.sanchez10@yahoo.com,6798741645,1988-05-31,Austin,573.86,Silver,2022-08-15,4.0
+CUST28098,Zachary Jones,nathan.robinson14@gmail.com,2552049565,1956-01-16,Not_Mentioned,393.08,Bronze,2025-03-31,1.0
+CUST72701,John Walker,amelia.perez9@hotmail.com,4518682139,1995-02-28,Not_Mentioned,949.26,Active,2018-03-25,3.0
+CUST79878,Daniel Jackson,evelyn.williams70@yahoo.com,9421914395,,Detroit,398.52,Active,2022-12-28,1.0
+CUST99226,Kevin Walker,chloe.harris8@hotmail.com,6711241859,1994-05-14,Chicago,296.91,Bronze,2015-01-23,
+CUST35200,A. Garcia,samuel.ramirez35@hotmail.com,9912409201,1989-11-03,San Francisco,,Inactive,2023-08-05,1.0
+CUST49008,Charles Smith,mila.lewis54@company.com,1247857798,1973-08-09,Detroit,,Inactive,2019-03-18,
+CUST74094,Emma Taylor,harper.perez97@hotmail.com,7031364421,1968-04-17,El Paso,669.21,Not_mentioned,2021-04-28,4.0
+CUST45842,Laura Hill,william.ramirez46@icloud.com,9482687507,2002-10-26,Atlanta,52.15,Silver,2016-04-04,1.0
+CUST61712,Christopher Hernandez,benjamin.nguyen79@yahoo.com,6234973619,1965-02-22,San Francisco,,Inactive,2018-04-26,
+CUST48070,William Robinson,matthew.smith20@outlook.com,7663928399,1970-11-12,Sacramento,210.69,Bronze,2022-06-03,4.0
+CUST8247,Lewis Andrew,camila.miller5@yahoo.com,9232094368,1956-11-18,Seattle,224.68,Bronze,2019-04-09,1.0
+CUST80592,Adam Ramirez,olivia.thompson27@yahoo.com,9374106913,2005-02-26,Raleigh,724.44,Gold,2015-02-23,2.0
+CUST24316,Camila Sanchez,nathan.white@gmail.com,1244171202,1990-06-10,Milwaukee,729.12,Inactive,2015-01-24,4.0
+CUST97796,Avery Lopez,evelyn.clark53@hotmail.com,5685003707,1964-12-04,Philadelphia,947.92,Silver,2025-01-25,3.0
+CUST23133,Not Mentioned,emma.robinson55@hotmail.com,1797312757,1999-10-20,Phoenix,628.12,Not_mentioned,,5.0
+CUST28018,Benjamin Jackson,justin.ramirez82@hotmail.com,4105557249,1998-09-15,Albuquerque,,Bronze,2017-06-30,2.0
+CUST72350,Not Mentioned,not provided,8881352967,1998-12-04,Sacramento,984.21,Inactive,2023-05-23,2.0
+CUST52096,Sarah Hill,kevin.lewis65@company.com,7518621497,1951-01-23,Charlotte,781.23,Silver,2026-01-26,
+CUST14888,Harper Lee,nathan.sanchez1@hotmail.com,7944861489,1989-07-10,Indianapolis,676.93,Not_mentioned,2019-03-30,3.0
+CUST33040,Charles Taylor,jonathan.clark87@yahoo.com,notprovided,1972-10-18,Sacramento,310.31,Inactive,2026-03-16,1.0
+CUST7504,David Martinez,not provided,1457722032,1998-01-02,Jacksonville,588.1,Gold,,5.0
+CUST47941,Robert Jones,Invalid,7873784081,1959-08-13,Kansas City,864.02,Silver,2021-08-21,2.0
+CUST2758,Young Laura,william.torres56@yahoo.com,7651458132,,Nashville,107.21,Silver,2023-04-08,5.0
+CUST94058,Not Mentioned,tyler.ramirez17@icloud.com,1907127017,1963-03-13,Houston,414.67,Active,2027-01-01,2.0
+CUST76088,M. Young,thomas.miller91@yahoo.com,2494286681,2005-10-23,Sacramento,402.15,Not_mentioned,2022-03-09,3.0
+CUST11846,Sofia Garcia,jane.flores91@company.com,4677608644,1974-08-09,Boston,402.71,Silver,,1.0
+CUST35318,Richard Lopez,evelyn.thompson24@yahoo.com,7402486597,2003-09-02,San Antonio,892.18,Inactive,2017-09-20,4.0
+CUST66059,Justin Thompson,lily.harris99@hotmail.com,3109447493,1999-12-13,Baltimore,539.57,Active,2019-12-10,3.0
+CUST34219,C. Thomas,camila.miller15@outlook.com,1043603698,1960-02-11,Los Angeles,836.75,Bronze,2016-11-07,3.0
+CUST10895,Christopher Johnson,michael.young47@yahoo.com,4826617471,2000-10-30,New York,420.92,Active,2016-07-04,2.0
+CUST53204,Not Mentioned,michael.young@icloud.com,2083318432,1969-01-10,Portland,712.77,Silver,2018-10-08,2.0
+CUST6890,Not Mentioned,not provided,9192109113,1970-08-21,Not_Mentioned,555.37,Inactive,2026-01-04,
+CUST2936,Laura Nguyen,emma.martin2@yahoo.com,6547532582,1955-08-28,Albuquerque,402.12,Inactive,2026-05-12,1.0
+CUST50760,Luna Williams Thomas,joseph.walker79@company.com,4022234392,2003-07-20,Charlotte,433.82,Bronze,2023-12-31,2.0
+CUST58174,Evelyn Flores,jane.wright3@company.com,4667777602,1957-07-02,Philadelphia,,Not_mentioned,2026-04-01,2.0
+CUST30078,Thomas Jones,matthew.rodriguez29@gmail.com,notprovided,1999-08-13,Philadelphia,305.7,Inactive,2017-07-07,
+CUST81989,Avery Torres,joseph.scott84@hotmail.com,7507291686,1993-04-18,Chicago,495.87,Silver,2019-08-04,3.0
+CUST38627,Michael Davis,charles.lopez26@icloud.com,9164929831,1986-08-31,Mesa,27.82,Inactive,2021-05-01,4.0
+CUST20730,Camila Williams,camila.martin22@yahoo.com,1274891633,1951-07-08,Portland,1470.84,Active,2024-07-08,0.0
+CUST83946,Sarah Smith,nathan.lee80@gmail.com,9508322540,1975-01-10,Dallas,664.29,Not_mentioned,2017-09-15,2.0
+CUST36497,Jonathan Walker,michael.lewis22@gmail.com,8958208392,1954-02-18,New York,821.81,Active,2021-04-30,2.0
+CUST78202,Luna Williams,ella.thompson51@gmail.com,2317071462,1985-04-04,Charlotte,92.39,Silver,2022-06-21,4.0
+CUST69432,Nicholas Allen,Invalid,1403976429,1990-07-02,San Antonio,904.75,Active,2020-09-13,5.0
+CUST83242,Avery Walker,olivia.king28@gmail.com,4968943893,1992-02-12,Oklahoma City,944.79,Gold,2024-06-04,1.0
+CUST61897,Charles Perez,tyler.clark88@outlook.com,2873286571,,Indianapolis,101.01,Active,2020-07-02,
+CUST6644,Richard Lee,jane.torres1@outlook.com,8155401336,1951-05-21,Philadelphia,648.84,Bronze,2021-03-17,2.0
+CUST19046,Thomas Jones,robert.perez83@gmail.com,5466707918,1997-06-21,Denver,896.46,Bronze,2024-01-17,3.0
+CUST33590,Andrew White,not provided,notprovided,2003-01-20,Louisville,872.98,Inactive,2018-09-15,2.0
+CUST94656,Justin Torres,amelia.garcia72@hotmail.com,9962402982,2003-05-10,Austin,657.71,Silver,2015-03-08,3.0
+CUST68790,Daniel Hill,sofia.davis48@company.com,notprovided,1957-10-21,Kansas City,830.74,Active,2016-03-30,1.0
+CUST99486,Thomas Garcia,hannah.ramirez29@yahoo.com,5891684039,2001-10-17,Not_Mentioned,475.82,Inactive,2016-10-08,1.0
+CUST55582,John Ramirez,john.brown34@gmail.com,3072505920,2001-04-14,New York,805.34,Inactive,2019-08-18,5.0
+CUST26691,Laura Torres,lily.harris35@icloud.com,1616221199,1960-07-26,Philadelphia,995.85,Bronze,2018-02-26,5.0
+CUST1372,Ryan,samuel.nguyen53@icloud.com,9302406235,2004-01-08,New York,800.91,Gold,2023-07-15,4.0
+CUST65591,David Lewis,ava.lee99@icloud.com,2012767354,1958-03-31,Las Vegas,823.68,Silver,2020-10-02,2.0
+CUST55371,Joseph Jackson,eleanor.thomas85@icloud.com,2489812114,1992-11-03,Portland,,Gold,2015-02-09,2.0
+CUST24790,Zachary,john.wilson60@outlook.com,7404704692,1973-09-18,Las Vegas,472.3,Active,2021-02-11,2.0
