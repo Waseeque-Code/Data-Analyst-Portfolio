@@ -39,7 +39,7 @@ The goal is to source, clean, and analyze publicly available agribusiness financ
 ## 📁 Files in This Folder
 | File | Description |
 |------|-------------|
-| `report.docx` | Full Week 1 report (2000+ words) |
+| `Agribusiness Financial Data Analysis Week 1 - Waseeque Ahmad.docx` | Full Week 1 report (2000+ words) |
 | `analysis.py` | Python script used for data filtering & analysis |
 | `README.md` | Project overview |
 
