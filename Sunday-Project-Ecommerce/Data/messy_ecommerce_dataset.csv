@@ -1,0 +1,1440 @@
+Order_ID,Product,Category,Quantity,Unit_Price,Order_Date,Customer_Name,Email,City,Payment_Method,Order_Status,Discount_Rate,Customer_Rating
+ORD-21718,Tire Pressure Gauge,Automotive,2,176.32,45172,Emily Smith,emily.smith@yahoo.com,SAN JOSE,Credit Card,,0.02,1
+ORD-84264,Jeans,Clothing,5,135.75,45411,Lisa Martinez,lisa.martinez@gmail.com,NYC,Cash on Delivery,Pending,0.23,5
+ORD-52809,Smart Watch,Electronics,2,74.26,45657,Sarah Johnson,sarah.johnson@aol.com,Seattle,Bank Transfer,,0.19,1
+ORD-63128,Tennis Racket,Sports,5,301.86,45351,Michael Brown,michael.brown@gmail.com,Columbus,Apple Pay,Cancelled,0.01,4
+ORD-76739,Shelf,Home & Garden,3,342.25,45362,  Emily Smith  ,emily.smith@yahoo.com,Indianapolis,Debit Card,Returned,0.04,4
+ORD-44563,Power Bank,Electronics,3,240.42,44934,David Johnson,david.johnson@aol.com,San Diego,,Pending,0.11,A
+ORD-64344,Keyboard,Electronics,3,50.37,44979,Sarah Garcia,sarah.garcia@outlook.com,  Seattle  ,PayPal,Cancelled,0.29,
+ORD-56818,Jacket,Clothing,4,463.84,2023-13-45,Jane Davis,jane.davis@yahoo.com,Houston,Debit Card,Shipped,0.12,5
+ORD-52154,Cycling Helmet,Sports,4,310.75,45135,William Gonzalez,william.gonzalez@outlook.com,Austin,Apple Pay,Refunded,0.05,1
+ORD-83036,Card Came,Toys,3,131.65,45507,Jane Williams,,WASHINGTON,Bank Transfer,Refunded,0.24,1
+ORD-25880,Cookbook,Books,3,129,12/18/2023,David Johnson,david.johnson@icloud.com,,Credit Card,Cancelled,0.3,2
+ORD-55995,Shelf,Home & Garden,2,397.52,45656,Sarah Jones,sarah.jones@aol.com,Denver,Google Pay,,0.17,7
+ORD-18065,Plush Toy,Toys,2,364.93,45641,Sarah Garcia,sarah.garcia@aol.com,,Apple Pay,Done,0.02,5
+ORD-74297,Dumbbell,Sports,4,19.02,45470,David Garcia,david.garcia@aol.com,Washington,Google Pay,Returned,0.04,3
+ORD-60279,Jeans,Clothing,2,203.13,,James Rodriguez,james.rodriguez@gmail.com,Indianapolis,PayPal,Refunded,0.02,
+ORD-97342,Toothbrush,Health,4,117.36,44941,  Chris Miller  ,chris.miller@icloud.com,Charlotte,Apple Pay,Pending,0.07,4
+ORD-29524,Gloves,Clothing,4,297.56,45362,Sarah Rodriguez,sarah.rodriguez@outlook.com,Columbus,Debit Card,Shipped,0.18,5
+ORD-83989,Rc Car,Toys,3,179.21,44965,Anna Johnson,anna.johnson@gmail.com,San Antonio,Credit Card,Returned,0.01,5
+ORD-92050,Car Charger,Automotive,5,78.86,04/29/2024,Maria Williams,maria.williams@yahoo.com,Austin,Cash on Delivery,Cancelled,0.26,5
+ORD-32383,Gym Bag,Sports,5,198.64,,Laura,laura.johnson@icloud.com,Jacksonville,PayPal,Refunded,0.16,2
+ORD-77185,Hand Sanitizer,Health,3,137,45013,NULL,daniel.johnson@hotmail.com,SAN DIEGO,Bank Transfer,Refunded,0.14,1
+ORD-45643,Thermometer,Health,5,27.67,45173,Robert Smith,robert.smith@yahoo.com,Chicago,PayPal,,0.18,5
+ORD-49666,Biography,Books,3,243.92,45422,Michael Gonzalez,@gmail.com,san francisco,Debit Card,Refunded,0.01,2
+ORD-35588,Resistance Band,Sports,4,423.55,45383,Sarah Jones,sarah.jones@outlook.com,Philadelphia,Google Pay,Shipped,0.11,1
+ORD-30482,Action Figure,Toys,1,42.31,45280,Emily Lopez,emily.lopez@aol.com,Indianapolis,Apple Pay,Refunded,0.08,4
+ORD-78919,Power Bank,Electronics,4,258.095,45538,Laura Rodriguez,laura.rodriguez@yahoo.com,Los Angeles,Apple Pay,Pending,0.24,1
+ORD-36731,Cycling Helmet,Sports,2,313.59,45364,EMILY JONES,emily.jones@aol.com,San Diego,PayPal,Completed,0.21,3
+ORD-65118,Rc Car,Toys,5,294.72,45068,Lisa Lopez,Lisa@,Dallas,Apple Pay,Cancelled,0.08,2
+ORD-47520,Gym Bag,Sports,2,116.22,45327,Chris Jones,chris.jones@yahoo.com,Seattle,Credit Card,Cancelled,0.29,4
+ORD-94634,Tire Pressure Gauge,Automotive,5,224.66,44959,Maria Rodriguez,maria.rodriguez@hotmail.com,Austin,Cash on Delivery,Completed,0.18,4
+ORD-57043,Usb-C Cable,Electronics,5,285.09,45273,Lisa Martinez,lisa.martinez@aol.com,Austin,Apple Pay,Refunded,0.16,5
+ORD-68222,Face Mask,Health,5,430.97,04/27/2024,James Miller,james.miller@gmail.com,New York,PayPal,Cancelled,0.12,2
+ORD-41501,Oil Filter,Automotive,5,442.49,45501,Anna Lopez,anna.lopez@aol.com,Los Angeles,Apple Pay,Completed,0.05,2
+ORD-69458,Rc Car,Toys,3,426.47,45170,Daniel Williams,daniel.williams@yahoo.com,Denver,,Returned,0.12,4
+ORD-10215,Sneakers,Clothing,1,258.095,45481,Jane Smith,jane.smith@aol.com,San Francisco,Cash on Delivery,Shipped,0.01,2
+ORD-54199,Building Blocks,Toys,3,258.095,45152,David Smith,david.smith@outlook.com,Dallas,Google Pay,Shipped,0.12,4
+ORD-71105,Face Mask,Health,5,297.82,45008,Laura Smith,laura.smith@outlook.com,Houston,Apple Pay,Cancelled,0.16,5
+ORD-29751,Sci-Fi Book,Books,2,482.41,45623,Anna Smith,anna.smith@aol.com,Dallas,,Completed,0.01,2
+ORD-75541,Plush Toy,Toys,2,112.17,08/22/2023,Chris Johnson,chris.johnson@gmail.com,Dallas,Apple Pay,Shipped,0.13,4
+ORD-27590,Bluetooth Speaker,Electronics,1,184.61,45322,Emily Gonzalez,emily.gonzalez@aol.com,San Antonio,Apple Pay,Cancelled,0.27,3
+ORD-46751,Keyboard,Electronics,1,137.46,45327,James Gonzalez,james.gonzalez@gmail.com,Seattle,Credit Card,Pending,0.12,3
+ORD-50162,Face Mask,Health,4,233.47,45593,Michael Lopez,,Washington,Credit Card,Pending,0.26,2
+ORD-60805,Smart Watch,Electronics,2,229.02,45391,Emily Martinez,emily.martinez@gmail.com,San Jose,,Completed,0.28,2
+ORD-22252,Soccer Ball,Sports,5,124.4,45098,Laura Brown,laura.brown@icloud.com,Jacksonville,Cash on Delivery,Completed,,2
+ORD-43390,Dumbbell,Sports,2,399.46,45265,Maria Martinez,maria.martinez@gmail.com,Phoenix,Credit Card,Cancelled,0.15,4
+ORD-94575,Clock,Home & Garden,4,476.16,45320,Laura Miller,laura.miller@yahoo.com,Seattle,Apple Pay,Completed,0.3,4
+ORD-65701,Building Blocks,Toys,5,196.24,45629,James Rodriguez,james.rodriguez@aol.com,Dallas,Credit Card,Pending,0.06,4
+ORD-96755,Plant Pot,Home & Garden,3,370.74,,Chris Jones,chris.jones@hotmail.com,Seattle,Google Pay,Completed,0.27,4
+ORD-55402,Soccer Ball,Sports,3,220.88,45025,Jane Brown,jane.brown@outlook.com,Los Angeles,Credit Card,Returned,0.11,2
+ORD-29741,Vitamins,Health,4,327.74,45453,  David Lopez  ,david.lopez@yahoo.com,Los Angeles,PayPal,,0.09,5
+ORD-41323,T-Shirt,Clothing,5,385.69,03/17/2023,David Jones,david.jones@gmail.com,San Jose,Debit Card,Shipped,0.26,1
+ORD-49164,Monitor,Electronics,3,139.58,44930,Lisa Smith,lisa.smith@icloud.com,Charlotte,Credit Card,Completed,0.04,1
+ORD-35494,Water Bottle,Sports,5,263.61,45482,David Garcia,david.garcia@gmail.com,New York,PayPal,Completed,0.06,2
+ORD-77251,Plush Toy,Toys,4,109.04,45235,William Lopez,william.lopez@hotmail.com,San Francisco,Debit Card,Refunded,0.07,2
+ORD-54990,Tire Pressure Gauge,Automotive,1,361.71,45288,James Garcia,james.garcia@hotmail.com,San Diego,Google Pay,Shipped,0.11,5
+ORD-94108,Air Freshener,Automotive,5,258.095,44961,James Smith,james.smith@gmail.com,Los Angeles,,Refunded,0.09,4
+ORD-16599,Water Bottle,Sports,2,142.91,45386,Jane Brown,jane.brown@gmail.com,San Antonio,Credit Card,,0.01,3
+ORD-60990,Board Came,Toys,1,242.53,45191,David Williams,david.williams@hotmail.com,Chicago,PayPal,Shipped,0.14,5
+ORD-69231,Shelf,Home & Garden,3,228.7,45632,Lisa Hernandez,lisa.hernandez@aol.com,Charlotte,Google Pay,Pending,0.12,4
+ORD-67423,Dash Cam,Automotive,2,258.095,45183,Daniel Hernandez,daniel.hernandez@aol.com,LA,Google Pay,Shipped,0.12,2
+ORD-64658,Shorts,Clothing,3,120.34,,Laura Brown,laura.brown@gmail.com,San Jose,Apple Pay,Pending,0.27,5
+ORD-19869,Water Bottle,Sports,3,187.45,45317,Guest,emily.davis@aol.com,SAN JOSE,Credit Card,Pending,0.28,5
+ORD-17022,Tire Pressure Gauge,Automotive,5,42.38,45398,john garcia,john.garcia@icloud.com,Chicago,Credit Card,Pending,0.24,6
+ORD-70023,Mirror,Home & Garden,5,28.55,45142,Laura Johnson,laura.johnson@yahoo.com,phoenix,Bank Transfer,Cancelled,-0.1,2
+ORD-58977,Card Came,Toys,1,258.095,45051,Jane Smith,jane.smith@yahoo.com,Houston,Debit Card,Refunded,0.1,4
+ORD-46768,Plant Pot,Home & Garden,3,434.43,45208,Robert Martinez,robert.martinez@hotmail.com,San Diego,Google Pay,Shipped,0,5
+ORD-64867,Cookbook,Books,4,52.47,45203,Sarah Lopez,sarah.lopez@yahoo.com,Denver,Debit Card,Cancelled,0.11,2
+ORD-63881,Sunscreen,Health,1,490.44,45393,Emily Garcia,Emily@,Houston,Google Pay,Pending,0.21,4
+ORD-89908,Hoodie,Clothing,2,149.6,45028,Michael Johnson,michael.johnson@outlook.com,Chicago,PayPal,Cancelled,0.13,5
+ORD-40623,Shorts,Clothing,5,353.84,45094,,michael.smith@gmail.com,San Jose,Cash on Delivery,Pending,0.09,5
+ORD-52225,Clock,Home & Garden,5,441.46,45088,Lisa Williams,lisa.williams@yahoo.com,San Diego,,Pending,0.23,2
+ORD-28876,Gym Bag,Sports,5,36.7,2023-13-45,Emily Hernandez,emily.hernandez@gmail.com,,Google Pay,Shipped,0.06,4
+ORD-49261,Doll,Toys,4,161.34,45500,James Brown,james.brown@yahoo.com,San Antonio,Credit Card,Shipped,0.29,5
+ORD-16540,Doll,Toys,5,138.98,45526,Laura Garcia,laura.garcia@hotmail.com,Philadelphia,Cash on Delivery,Cancelled,0.03,5
+ORD-76320,Toothbrush,Health,2,465.8,,William Davis,no_email,Houston,Apple Pay,Cancelled,0.06,3
+ORD-43025,Textbook,Books,5,487.1,45654,Maria Hernandez,maria.hernandez@aol.com,Phoenix,Cash on Delivery,Returned,0.23,1
+ORD-11883,Lamp,Home & Garden,5,411.84,45156,Emily Brown,emily.brown@gmail.com,Unknown City,PayPal,Completed,0.2,3
+ORD-31206,Sunscreen,Health,1,7.62,45541,Sarah Johnson,sarah.johnson@hotmail.com,Philadelphia,Bank Transfer,Refunded,0.18,1
+ORD-13262,Gloves,Clothing,5,352.94,09/24/2023,Laura Williams,laura.williams@yahoo.com,AUSTIN,PayPal,Shipped,0.29,1
+ORD-68024,Clock,Home & Garden,2,49.55,2023-13-45,  ROBERT SMITH  ,robert.smith@gmail.com,Dallas,Credit Card,Shipped,0.17,2
+ORD-30697,Board Came,Toys,5,145.68,09/20/2024,Sarah Martinez,sarah.martinez@hotmail.com,los angeles,,Cancelled,0.16,
+ORD-42129,Vitamins,Health,3,330.37,04/17/2023,John Williams,john.williams@aol.com,Chicago,Google Pay,Pending,0.09,3
+ORD-49641,Sunscreen,Health,4,235.64,45368,Emily,emily.brown@outlook.com,Dallas,PayPal,Cancelled,0.18,4
+ORD-55587,Doll,Toys,3,433.54,44985,Daniel Hernandez,daniel.hernandez@icloud.com,,Bank Transfer,Pending,0.17,3
+ORD-98183,Resistance Band,Sports,4,492.74,45559,Maria Davis,maria.davis@icloud.com,Houston,Google Pay,Pending,0.21,
+ORD-30582,Smart Watch,Electronics,4,191.22,45555,William Hernandez,william.hernandez@icloud.com,Charlotte,PayPal,,0.26,2
+ORD-51673,Chair,Home & Garden,3,59.41,45493,Emily Jones,emily.jones@aol.com,Dallas,PayPal,Shipped,0.29,3
+ORD-42783,Jeans,Clothing,5,412.18,05/19/2023,Daniel Johnson,daniel.johnson@hotmail.com,LA,NULL,Completed,0.22,4
+ORD-58397,Plush Toy,Toys,2,151.64,45386,,david.miller@gmail.com,Dallas,Cash on Delivery,Pending,0.15,Good
+ORD-23219,Hat,Clothing,3,414,,David Garcia,no_email,Phoenix,,Shipped,0.23,3
+ORD-98142,Car Charger,Automotive,5,258.095,45460,John Brown,,Fort Worth,Google Pay,Shipped,0.01,2
+ORD-84781,Hat,Clothing,1,249.04,45342,DANIEL RODRIGUEZ,daniel.rodriguez@gmail.com,San Diego,,Cancelled,0.1,4
+ORD-70290,Scarf,Clothing,3,115.66,2023-13-45,Michael Lopez,michael.lopez@gmail.com,Seattle,Credit Card,Completed,0.03,5
+ORD-25534,Keyboard,Electronics,4,232.95,45319,Jane Martinez,,Columbus,Cash on Delivery,Completed,0.05,4
+ORD-50950,Smart Watch,Electronics,4,325.19,45404,Jane Smith,no_email,San Jose,Credit Card,Cancelled,0.27,2
+ORD-12159,Lamp,Home & Garden,5,474.87,04/21/2024,John Lopez,john.lopez@yahoo.com,Charlotte,Google Pay,Completed,0.03,1
+ORD-60560,Plant Pot,Home & Garden,1,325.01,45588,William Johnson,william.johnson@yahoo.com,Indianapolis,Debit Card,Returned,0.26,3
+ORD-53751,Bluetooth Speaker,Electronics,4,412.22,45389,Maria Smith,maria.smith@aol.com,Seattle,Cash on Delivery,Returned,0,2
+ORD-90786,Toothbrush,Health,1,255.89,04/19/2023,Unknown,emily.hernandez@outlook.com,Los Angeles,Debit Card,Refunded,0,5
+ORD-46366,Webcam,Electronics,1,258.095,45069,William Miller,@gmail.com,Charlotte,PayPal,Completed,0.08,1
+ORD-25917,Laptop Stand,Electronics,2,426.87,45108,John Williams,john.williams@icloud.com,Houston,Bank Transfer,Returned,,2
+ORD-69923,Wiper Blade,Automotive,2,171.74,45123,Emily Martinez,emily.martinez@gmail.com,NULL,Credit Card,Cancelled,0.2,1
+ORD-28035,Laptop Stand,Electronics,1,390.7,45059,Laura Gonzalez,laura.gonzalez@outlook.com,new york,Bank Transfer,Refunded,0.08,2
+ORD-22184,Clock,Home & Garden,4,434.79,06/13/2023,Michael Martinez,michael.martinez@icloud.com,Chicago,Money,Completed,0.07,5
+ORD-62602,Face Mask,Health,2,184.8,45236,Maria Gonzalez,maria.gonzalez@yahoo.com,Indianapolis,NULL,Completed,0.05,5
+ORD-48070,Biography,Books,5,6.08,45541,John Martinez,john.martinez@aol.com,CHARLOTTE,Cash on Delivery,Returned,0.09,4
+ORD-99142,Lamp,Home & Garden,4,258.095,45410,Jane Brown,jane.brown@aol.com,Phoenix,Card,Refunded,0.13,2
+ORD-93904,Scarf,Clothing,5,184.12,45373,Chris Lopez,chris.lopez@icloud.com,Jacksonville,PayPal,Pending,0.05,5
+ORD-43070,Wiper Blade,Automotive,3,260.44,45349,Jane Davis,,,Debit Card,Cancelled,0.14,2
+ORD-42846,Floor Mat,Automotive,5,258.095,44936,Unknown,sarah.garcia@yahoo.com,San Francisco,Google Pay,Returned,0.22,4
+ORD-30757,Science Kit,Toys,4,335.58,44958,Sarah Hernandez,sarah.hernandez@aol.com,Charlotte,Cash on Delivery,Returned,0.15,1
+ORD-41671,Biography,Books,5,350.95,,,william.williams@outlook.com,Dallas,Debit Card,Pending,0.23,3
+ORD-17589,Face Mask,Health,2,352.24,45462,,michael.lopez@outlook.com,Denver,Bank Transfer,Shipped,0.2,1
+ORD-15488,Webcam,Electronics,5,258.095,10/13/2024,John Jones,john.jones@icloud.com,Dallas,Apple Pay,Refunded,0.06,2
+ORD-50462,Tennis Racket,Sports,4,405.91,45161,  Jane Smith  ,jane.smith@icloud.com,Denver,PayPal,Shipped,0.22,
+ORD-91526,Headphones,Electronics,5,462.19,45284,William Lopez,william.lopez@outlook.com,Jacksonville,Bank Transfer,Shipped,0,5
+ORD-84226,Lamp,Home & Garden,5,141.05,45009,Michael Rodriguez,,Philadelphia,Debit Card,Cancelled,0.25,
+ORD-18349,Phone Mount,Automotive,1,17.31,08/23/2023,Sarah Williams,sarah.williams@icloud.com,UNKNOWN CITY,Credit Card,Refunded,0.17,3
+ORD-18782,Tennis Racket,Sports,4,436.21,45157,David Jones,david.jones@outlook.com,Seattle,Cash on Delivery,Completed,0.03,1
+ORD-64041,Toothbrush,Health,1,384.75,45158,Sarah Smith,sarah.smith@outlook.com,San Jose,Apple Pay,Returned,0.08,5
+ORD-91624,Scarf,Clothing,4,438.6,45598,John Williams,john.williams@yahoo.com,philadelphia,Credit Card,Refunded,0.14,5
+ORD-35242,Monitor,Electronics,1,44.13,45389,  Emily Martinez  ,emily.martinez@gmail.com,New York,Credit Card,Returned,1.5,4
+ORD-82253,Shorts,Clothing,3,112.25,45604,Robert,robert.garcia@outlook.com,Houston,Bank Transfer,Refunded,0.02,1
+ORD-99610,Tennis Racket,Sports,5,454.89,,David Rodriguez,david.rodriguez@aol.com,WASHINGTON,Debit Card,Returned,0.21,4
+ORD-36997,Scarf,Clothing,1,261.37,45068,Robert Davis,robert.davis@aol.com,New York,Google Pay,Shipped,0.08,2
+ORD-67672,Monitor,Electronics,1,207.3,45058,Robert Williams,robert.williams@icloud.com,San Jose,Google Pay,Cancelled,0.07,5
+ORD-77585,Gym Bag,Sports,3,424.08,45204,Robert Miller,robert.miller@gmail.com,Austin,Credit Card,Shipped,0.29,3
+ORD-53096,Building Blocks,Toys,2,258.095,45523,Lisa Jones,lisa.jones@yahoo.com,Dallas,PayPal,,0.01,5
+ORD-73681,Headphones,Electronics,2,317.45,45344,Laura Williams,laura.williams@outlook.com,New York,Bank Transfer,Refunded,0.03,1
+ORD-60838,Shelf,Books,2,374.92,45302,JAMES WILLIAMS,james.williams@hotmail.com,Dallas,Bank Transfer,Pending,0.11,3
+ORD-57040,Oil Filter,Automotive,4,246.84,45079,James Gonzalez,james.gonzalez@aol.com,  San Antonio  ,Bank Transfer,Shipped,0.29,1
+ORD-97334,Headphones,Electronics,3,314.65,44979,Maria Miller,maria.miller@gmail.com,Chicago,Debit Card,Cancelled,0.03,4
+ORD-16653,Running Shoes,Sports,1,482.44,45595,Emily Gonzalez,emily.gonzalez@icloud.com,Los Angeles,Credit Card,Cancelled,,3
+ORD-92482,Comic,Books,1,288,45168,Robert Miller,robert.miller@hotmail.com,  Jacksonville  ,Credit Card,Returned,0.26,
+ORD-69636,Phone Mount,Automotive,1,129.9,01/25/2023,  David Smith  ,david.smith@icloud.com,Chicago,Debit Card,Refunded,0.25,4
+ORD-76574,Wiper Blade,Automotive,2,147.94,45493,James Johnson,james.johnson@icloud.com,San Jose,Credit Card,Completed,5,5
+ORD-47435,Gym Bag,Sports,3,336.68,45569,James Jones,james.jones@icloud.com,San Diego,Credit Card,Cancelled,0.04,1
+ORD-59362,Smart Watch,Electronics,5,472.86,45605,John Jones,john.jones@gmail.com,Washington,Card,Shipped,0.05,3
+ORD-31592,Seat Cover,Automotive,2,449.82,45532,William Garcia,william.garcia@outlook.com,San Diego,Bank Transfer,Completed,0.02,2
+ORD-63362,Sneakers,Clothing,2,246.25,45498,JAMES MARTINEZ,james.martinez@outlook.com,San Diego,,Refunded,0,3
+ORD-72044,Phone Mount,Automotive,3,258.095,03/21/2024,Robert Miller,robert.miller@outlook.com,Seattle,Credit Card,Completed,0.14,3
+ORD-60847,Face Mask,Health,5,236.43,45204,James Davis,james.davis@yahoo.com,Charlotte,Credit Card,Completed,0.03,4
+ORD-98241,Massage Roller,Health,4,163.92,45116,John Jones,john.jones@outlook.com,Chicago,Cash on Delivery,Cancelled,0.14,4
+ORD-40872,Clock,Home & Garden,3,402.4,45423,Chris Lopez,chris.lopez@yahoo.com,New York,Cash on Delivery,Refunded,0.09,1
+ORD-94825,Floor Mat,Automotive,4,343.9,2023-13-45,David Martinez,david.martinez@yahoo.com,Houston,Google Pay,Pending,0.06,1
+ORD-85007,Running Shoes,Sports,4,483.73,45062,Lisa Gonzalez,lisa.gonzalez@hotmail.com,San Jose,Google Pay,Shipped,0.08,3
+ORD-25181,Vitamins,Health,1,280.28,45016,David Jones,david.jones@yahoo.com,Dallas,Apple Pay,Returned,0.1,3
+ORD-87524,Biography,Books,5,80.82,45025,Sarah Rodriguez,sarah.rodriguez@yahoo.com,Houston,PayPal,Refunded,0.18,2
+ORD-92359,First Aid Kit,Health,4,428.58,45419,sarah gonzalez,invalid_email,San Jose,Cash on Delivery,Cancelled,0.12,3
+ORD-22749,Tennis Racket,Sports,4,391.95,45330,James Smith,james.smith@outlook.com,Washington,Bank Transfer,Cancelled,0.08,
+ORD-39493,Supplements,Health,3,353.28,44938,Emily Gonzalez,emily.gonzalez@gmail.com,Austin,Apple Pay,Returned,0.27,4
+ORD-41689,Cookbook,Books,3,104.9,02/27/2023,Sarah Davis,sarah.davis@hotmail.com,San Jose,Cash on Delivery,Cancelled,0.01,Good
+ORD-53357,Phone Mount,Automotive,3,382.28,45422,Anna Brown,anna.brown@gmail.com,,Debit Card,Pending,0.26,4
+ORD-88415,Shelf,Books,2,102.01,12/28/2024,David Jones,david.jones@outlook.com,AUSTIN,Debit Card,Cancelled,0.12,1
+ORD-99571,Power Bank,Electronics,3,201.81,45124,Jane Hernandez,jane.hernandez@yahoo.com,San Francisco,PayPal,Returned,0.14,4
+ORD-23305,Curtain,Home & Garden,5,189.79,45477,Anna Davis,anna.davis@outlook.com,Fort Worth,Debit Card,Refunded,0.21,3
+ORD-87499,Floor Mat,Automotive,3,280.29,45465,Michael Martinez,michael.martinez@outlook.com,San Jose,PayPal,,0.05,3
+ORD-47188,History Book,Books,1,322.14,45497,Chris Jones,chris.jones@yahoo.com,Jacksonville,Debit Card,Cancelled,0.16,2
+ORD-71161,T-Shirt,Clothing,4,58.07,,Maria Jones,maria.jones@icloud.com,Indianapolis,,Pending,0.02,4
+ORD-32787,Shelf,Books,1,331.59,45115,Jane,jane.johnson@outlook.com,Indianapolis,,Returned,0.28,3
+ORD-88584,Comic,Books,3,98.34,44987,James Miller,james.miller@yahoo.com,Indianapolis,PayPal,Pending,0.09,
+ORD-92046,Massage Roller,Health,4,76.86,10/14/2024,Lisa Johnson,lisa.johnson@yahoo.com,Houston,PayPal,Refunded,0.12,4
+ORD-39439,Jeans,Clothing,4,251.07,44960,William Smith,no_email,Dallas,Apple Pay,Shipped,0.06,5
+ORD-48456,Air Freshener,Automotive,3,258.095,44964,Emily Williams,emily.williams@gmail.com,Philadelphia,Cash on Delivery,Returned,0.21,5
+ORD-11505,Action Figure,Toys,3,450.61,07/20/2023,Maria Garcia,maria.garcia@hotmail.com,LA,Bank Transfer,Cancelled,0,3
+ORD-93755,Vitamins,Health,2,57.97,01/14/2024,Chris Johnson,chris.johnson@aol.com,Jacksonville,PayPal,,0.24,1
+ORD-91785,Hoodie,Clothing,3,166.24,45359,Daniel Miller,daniel.miller@yahoo.com,Seattle,Cash on Delivery,Returned,0.15,5
+ORD-24517,Massage Roller,Health,4,258.095,45091,Jane Rodriguez,jane.rodriguez@hotmail.com,Chicago,Credit Card,,0.2,5
+ORD-24528,Toothbrush,Health,4,298,45476,Sarah Johnson,,New York,Credit Card,Refunded,,5
+ORD-54766,Laptop Stand,Electronics,1,334.05,44943,Anna Smith,anna.smith@yahoo.com,Washington,Debit Card,Pending,0.03,1
+ORD-20735,Board Came,Toys,3,298.82,45027,William Williams,william.williams@yahoo.com,Chicago,Google Pay,Returned,0.04,2
+ORD-40169,Led Bulb,Automotive,4,258.095,45198,Chris Rodriguez,chris.rodriguez@gmail.com,Austin,Cash on Delivery,Refunded,0.23,1
+ORD-78853,Monitor,Electronics,4,283.16,44944,Emily Lopez,emily.lopez@yahoo.com,Los Angeles,Cash on Delivery,Cancelled,0.19,
+ORD-55523,T-Shirt,Clothing,3,45.72,44957,Lisa Lopez,lisa.lopez@aol.com,Fort Worth,PayPal,Refunded,0.01,1
+ORD-19064,Supplements,Health,2,41.61,45337,William Garcia,william.garcia@yahoo.com,Washington,Bank Transfer,OK,0.22,2
+ORD-78662,Sunscreen,Health,2,489,44927,Laura Hernandez,laura.hernandez@gmail.com,Chicago,Cash on Delivery,Completed,0.05,4
+ORD-18860,Resistance Band,Sports,4,303.85,45443,James Lopez,james.lopez@aol.com,Austin,Credit Card,Refunded,0.17,3
+ORD-17115,Lamp,Home & Garden,5,235.47,03/24/2024,Maria Lopez,maria.lopez@gmail.com,Los Angeles,Cash on Delivery,Refunded,0.1,5
+ORD-99226,Poetry,Books,3,152.32,45648,Daniel Gonzalez,daniel.gonzalez@outlook.com,Phoenix,Apple Pay,Pending,0.28,5
+ORD-77679,Tire Pressure Gauge,Automotive,5,457.81,45469,Robert Williams,robert.williams@hotmail.com,New York,PayPal,Cancelled,0.01,4
+ORD-21533,Card Came,Toys,2,258.095,45363,lisa miller,lisa.miller@icloud.com,Chicago,Apple Pay,Cancelled,0.07,2
+ORD-44170,Shorts,Clothing,3,218.84,44995,John Hernandez,john.hernandez@yahoo.com,NYC,Cash on Delivery,Shipped,0.14,5
+ORD-63468,Jacket,Clothing,3,434.03,45180,Robert Rodriguez,robert.rodriguez@icloud.com,Los Angeles,Bank Transfer,Cancelled,0.1,1
+ORD-43792,Running Shoes,Sports,0,51.04,03/19/2023,Sarah Brown,sarah.brown@outlook.com,San Diego,Google Pay,Completed,0.2,5
+ORD-79420,Hand Sanitizer,Health,1,258.095,45051,Daniel Lopez,daniel.lopez@hotmail.com,Indianapolis,Google Pay,Cancelled,0.14,4
+ORD-36581,Biography,Books,3,120.23,45291,Laura Miller,laura.miller@yahoo.com,San Antonio,Cash on Delivery,Returned,0.19,5
+ORD-29942,Usb-C Cable,Electronics,4,79.59,45246,Laura Lopez,laura.lopez@outlook.com,,Bank Transfer,Cancelled,0.06,2
+ORD-31149,Resistance Band,Sports,1,21.63,45101,Emily Garcia,emily.garcia@outlook.com,philadelphia,Debit Card,Completed,0.17,1
+ORD-69289,Face Mask,Health,1,51.11,45557,James Jones,james.jones@aol.com,Austin,Cash on Delivery,Cancelled,0.12,1
+ORD-48121,Vitamins,Health,2,479.22,45203,Chris Rodriguez,chris.rodriguez@yahoo.com,Dallas,Apple Pay,Shipped,0.28,
+ORD-37461,Jeans,Clothing,3,116.5,45415,Maria Johnson,maria.johnson@outlook.com,  Indianapolis  ,Cash on Delivery,Cancelled,0.25,1
+ORD-28706,Hand Sanitizer,Health,4,258.095,45395,Sarah Hernandez,sarah.hernandez@icloud.com,Houston,Cash on Delivery,Refunded,0.3,1
+ORD-35013,Tire Pressure Gauge,Automotive,2,32.75,45054,John Jones,john.jones@outlook.com,San Jose,Apple Pay,Cancelled,0.21,5
+ORD-59685,Doll,Toys,4,355.46,,John Johnson,john.johnson@outlook.com,Indianapolis,Bank Transfer,Cancelled,,Good
+ORD-17465,Board Came,Toys,4,48.5,45237,Robert Gonzalez,robert.gonzalez@gmail.com,Austin,Credit Card,Refunded,0.12,2
+ORD-55123,Monitor,Electronics,3,258.095,45294,Emily Miller,emily.miller@icloud.com,Phoenix,PayPal,Pending,0,4
+ORD-59734,Car Charger,Automotive,1,197.49,45429,Jane Miller,jane.miller@yahoo.com,San Francisco,Debit Card,Returned,0.21,3
+ORD-69259,History Book,Books,4,258.095,45551,William Johnson,william.johnson@icloud.com,LA,Apple Pay,Cancelled,0.14,3
+ORD-70238,Soccer Ball,Sports,4,145.27,45442,Michael Lopez,michael.lopez@hotmail.com,San Diego,Apple Pay,Cancelled,0.11,1
+ORD-62768,Hand Sanitizer,Health,2,19.49,45462,Anna Johnson,anna.johnson@yahoo.com,Fort Worth,Cash on Delivery,Pending,0.07,5
+ORD-38584,Webcam,Electronics,4,344.92,45111,John Hernandez,john.hernandez@yahoo.com,Austin,Google Pay,Shipped,0.06,2
+ORD-53202,Laptop Stand,Electronics,5,22.5,45539,  Laura Williams  ,laura.williams@outlook.com,    ,Google Pay,NULL,0.23,4
+ORD-88684,History Book,Books,5,394.89,02/13/2023,Chris Rodriguez,chris.rodriguez@yahoo.com,San Jose,Debit Card,Pending,0.09,5
+ORD-59620,Magazine,Books,1,258.095,03/15/2023,Sarah Martinez,sarah.martinez@outlook.com,Chicago,,Completed,0.28,5
+ORD-89421,First Aid Kit,Health,3,212.93,45350,James Lopez,james.lopez@icloud.com,New York,PayPal,Done,0.16,4
+ORD-44832,Gym Bag,Sports,1,88.49,,Jane Johnson,jane.johnson@gmail.com,Fort Worth,,Pending,0.15,1
+ORD-46863,Rc Car,Toys,1,331.45,45600,Emily Rodriguez,emily.rodriguez@gmail.com,San Francisco,Google Pay,Cancelled,0.2,2
+ORD-25913,T-Shirt,Clothing,3,117.04,45304,Anna Smith,anna.smith@hotmail.com,Fort Worth,PayPal,Refunded,0.12,5
+ORD-35166,Table,Home & Garden,5,23.69,05/15/2023,Anna Lopez,anna.lopez@aol.com,Washington,Debit Card,Pending,0.3,4
+ORD-13847,Poetry,Books,3,192.69,45210,Maria Jones,maria.jones@hotmail.com,San Francisco,Bank Transfer,Shipped,0.29,2
+ORD-49257,Keyboard,Electronics,2,67.79,45061,Emily Lopez,emily.lopez@gmail.com,New York,Cash on Delivery,Pending,0.18,1
+ORD-34150,Socks,Clothing,1,258.095,12/13/2024,Chris Garcia,chris.garcia@gmail.com,  Los Angeles  ,Apple Pay,Refunded,0.21,5
+ORD-88604,Shelf,Books,4,159.35,45323,John Hernandez,john.hernandez@yahoo.com,Seattle,PayPal,Refunded,0.01,1
+ORD-89973,Bandages,Health,3,474.11,45050,James Davis,james.davis@yahoo.com,Columbus,Google Pay,Cancelled,0.22,1
+ORD-63887,Textbook,Books,4,429.77,,Laura Williams,laura.williams@outlook.com,san jose,Google Pay,Pending,0.08,2
+ORD-29638,Webcam,Electronics,5,258.095,45320,EMILY BROWN,emily.brown@hotmail.com,  Fort Worth  ,PayPal,,0.08,3
+ORD-97429,Clock,Home & Garden,4,348.85,45154,John Lopez,john.lopez@outlook.com,Phoenix,Google Pay,Shipped,0.17,1
+ORD-98068,Jeans,Clothing,3,452.09,45278,Lisa Lopez,lisa.lopez@icloud.com,  Philadelphia  ,,Returned,0.04,3
+ORD-99355,Vase,Home & Garden,2,452.8,45215,Anna Williams,anna.williams@hotmail.com,Austin,Apple Pay,Pending,0.13,3
+ORD-37962,Sunscreen,Health,1,479.87,05/25/2023,William Rodriguez,william.rodriguez@gmail.com,Washington,PayPal,Returned,0.23,2
+ORD-50645,Rug,Home & Garden,4,137.9,45507,David Johnson,david.johnson@yahoo.com,San Francisco,Debit Card,Shipped,0.09,1
+ORD-60122,Sneakers,Clothing,3,415.48,10/18/2024,laura smith,laura.smith@hotmail.com,Jacksonville,Credit Card,Returned,0.12,3
+ORD-21062,Resistance Band,Sports,2,47.99,44932,  Daniel Rodriguez  ,daniel.rodriguez@aol.com,Los Angeles,Cash on Delivery,OK,0.05,4
+ORD-13124,Thermometer,Health,5,289.66,11/21/2023,,laura.garcia@gmail.com,New York,Debit Card,Pending,0.19,4
+ORD-99415,Gloves,Clothing,3,480.84,03/17/2024,Robert Jones,robert.jones@hotmail.com,San Francisco,Cash on Delivery,Pending,0.05,5
+ORD-46381,Keyboard,Electronics,1,446.56,45022,Emily Brown,emily.brown@yahoo.com,San Jose,PayPal,Shipped,0.26,1
+ORD-67400,First Aid Kit,Health,5,258.095,45387,Maria Martinez,maria.martinez@outlook.com,Indianapolis,,Pending,0.05,2
+ORD-32216,Oil Filter,Automotive,5,163.23,45088,Robert Lopez,robert.lopez@yahoo.com,Denver,,Returned,-0.1,5
+ORD-70417,Smart Watch,Electronics,5,260.59,44936,David Martinez,david.martinez@aol.com,Charlotte,Cash on Delivery,Returned,0.19,5
+ORD-35186,Cookbook,Books,2,376.23,02/27/2023,,anna.lopez@aol.com,Chicago,,Refunded,,3
+ORD-17087,Running Shoes,Sports,4,258.095,05/25/2023,Lisa Rodriguez,lisa.rodriguez@hotmail.com,Columbus,Cash on Delivery,Cancelled,0.12,5
+ORD-22905,Novel,Books,3,258.095,45080,Michael Smith,michael.smith@gmail.com,Los Angeles,Cash on Delivery,Refunded,0.3,5
+ORD-20084,Action Figure,Toys,4,43.2,05/30/2023,Emily Rodriguez,emily.rodriguez@outlook.com,Indianapolis,Bank Transfer,,0.18,3
+ORD-26528,Lamp,Home & Garden,3,239.88,45516,John Rodriguez,john.rodriguez@yahoo.com,Houston,,Refunded,0.03,5
+ORD-27973,Table,Home & Garden,2,315.9,45394,Jane Williams,jane.williams@yahoo.com,San Diego,Money,Refunded,0.09,2
+ORD-92653,Doll,Toys,4,425.4,45164,William Smith,william.smith@hotmail.com,,Credit Card,Returned,0.23,4
+ORD-54286,Scarf,Clothing,3,411.04,45067,  James Martinez  ,no_email,  San Diego  ,Debit Card,,0.19,2
+ORD-10617,Running Shoes,Sports,5,495.01,,Sarah Smith,sarah.smith@hotmail.com,Philadelphia,Cash on Delivery,Refunded,0.08,4
+ORD-72446,Dash Cam,Automotive,1,111.8,2023-13-45,Laura Jones,laura.jones@hotmail.com,New York,Google Pay,Returned,0.13,1
+ORD-85450,Biography,Books,4,451.79,45148,Laura Williams,laura.williams@yahoo.com,San Francisco,PayPal,Cancelled,0.22,5
+ORD-53785,Chair,Home & Garden,3,115.98,45009,Sarah Martinez,sarah.martinez@aol.com,Fort Worth,Debit Card,Cancelled,0.1,2
+ORD-19110,Chair,Home & Garden,4,50.71,05/24/2024,,,Denver,PayPal,Shipped,0.24,1
+ORD-31875,Dash Cam,Automotive,0,477.09,45109,,john.brown@icloud.com,Denver,Bank Transfer,Shipped,0.09,2
+ORD-18926,Phone Mount,Automotive,1,144.19,09/24/2023,Robert Hernandez,robert.hernandez@icloud.com,  Charlotte  ,Google Pay,Refunded,0.26,4
+ORD-13830,Plush Toy,Toys,4,334.41,45430,Daniel Martinez,daniel.martinez@aol.com,Seattle,Debit Card,Returned,0.28,3
+ORD-89289,Headphones,Electronics,5,181.17,45293,William Martinez,william.martinez@outlook.com,Indianapolis,PayPal,Completed,0.06,1
+ORD-50371,Wiper Blade,Automotive,3,171.38,45011,John Williams,john.williams@aol.com,Indianapolis,Cash on Delivery,Returned,,
+ORD-84690,Sci-Fi Book,Books,4,454.28,45641,MARIA LOPEZ,maria.lopez@icloud.com,Fort Worth,Cash on Delivery,OK,0.21,2
+ORD-16608,Puzzle,Toys,3,166.33,45315,Laura Rodriguez,laura.rodriguez@aol.com,Fort Worth,Credit Card,Shipped,0.18,2
+ORD-15018,Scarf,Clothing,3,475.43,45008,William Brown,william.brown@aol.com,Indianapolis,PayPal,Refunded,,4
+ORD-84770,Doll,Toys,4,33.22,45167,,,Los Angeles,,Shipped,0.01,2
+ORD-65531,Cookbook,Books,2,199.18,45546,James Hernandez,james.hernandez@hotmail.com,Washington,Credit Card,Shipped,0.28,5
+ORD-67732,Soccer Ball,Sports,3,192.78,44996,Maria Rodriguez,maria.rodriguez@hotmail.com,,Card,Cancelled,0.17,2
+ORD-32087,Magazine,Books,2,287.51,45498,Laura Gonzalez,laura.gonzalez@hotmail.com,San Jose,Cash on Delivery,Pending,0.19,1
+ORD-54752,Plant Pot,Home & Garden,4,98.21,44990,,james.lopez@hotmail.com,Los Angeles,Cash on Delivery,Shipped,0.06,2
+ORD-16089,Running Shoes,Sports,2,147.03,45476,Daniel Garcia,daniel.garcia@outlook.com,Houston,Debit Card,Pending,0.27,5
+ORD-54808,Wiper Blade,Automotive,4,228.4,45066,Maria Davis,maria.davis@icloud.com,New York,PayPal,Cancelled,0.3,3
+ORD-89116,Headphones,Electronics,2,343.49,44955,Michael Davis,michael.davis@hotmail.com,Indianapolis,Google Pay,Pending,0.14,
+ORD-52539,Phone Mount,Automotive,2,54.56,45024,William Jones,,San Diego,,Completed,0.27,3
+ORD-95582,Card Came,Toys,2,193.52,45473,Daniel Hernandez,daniel.hernandez@yahoo.com,Phoenix,PayPal,Completed,0.16,5
+ORD-24148,Supplements,Health,2,275.02,06/16/2024,Chris Brown,chris.brown@aol.com,San Francisco,Cash on Delivery,Refunded,0.11,1
+ORD-14719,Laptop Stand,Electronics,5,232.83,06/21/2023,Emily Miller,emily.miller@aol.com,Columbus,PayPal,Completed,0.15,2
+ORD-56037,Massage Roller,Health,1,258.095,45430,William Miller,william.miller@outlook.com,,Google Pay,Shipped,0.27,1
+ORD-30676,Soccer Ball,Sports,3,258.095,45219,Sarah Lopez,sarah.lopez@yahoo.com,  Los Angeles  ,Debit Card,,0.14,4
+ORD-98736,Mirror,Home & Garden,2,477.03,,,,Charlotte,Debit Card,Pending,0.05,4
+ORD-57896,Keyboard,Electronics,1,67.52,45493,Robert Williams,robert.williams@yahoo.com,Jacksonville,Credit Card,Pending,0.05,5
+ORD-37343,Vase,Home & Garden,1,498.81,45371,Laura Miller,laura.miller@outlook.com,Washington,Debit Card,Cancelled,,2
+ORD-56669,Wiper Blade,Automotive,1,39.93,45411,Chris Davis,chris.davis@icloud.com,Phoenix,Debit Card,Completed,0.02,5
+ORD-21800,Thermometer,Health,3,209.54,45534,Anna Lopez,anna.lopez@icloud.com,Indianapolis,Credit Card,Cancelled,0.09,
+ORD-99278,Gym Bag,Sports,2,258.095,44936,Anna Miller,anna.miller@icloud.com,Seattle,Credit Card,Cancelled,0.09,1
+ORD-46627,Textbook,Books,3,167.99,45460,Robert Williams,robert.williams@hotmail.com,Los Angeles,Google Pay,Returned,0.02,2
+ORD-76455,Scarf,Clothing,1,8.68,44935,  Maria Hernandez  ,maria.hernandez@hotmail.com,Jacksonville,Google Pay,Completed,,2
+ORD-93461,Soccer Ball,Sports,5,205.89,45279,David Davis,david.davis@aol.com,San Jose,Credit Card,Cancelled,0,5
+ORD-57630,Scarf,Clothing,5,134.57,45163,Maria Williams,maria.williams@gmail.com,Washington,Bank Transfer,Completed,0.23,5
+ORD-56136,T-Shirt,Clothing,4,374.99,45114,Lisa Smith,lisa.smith@aol.com,Fort Worth,Credit Card,Refunded,0.14,2
+ORD-24146,Led Bulb,Automotive,3,258.095,45459,Laura Martinez,laura.martinez@aol.com,San Francisco,Debit Card,Cancelled,0.18,4
+ORD-17718,Novel,Books,1,444.56,45237,David Lopez,david.lopez@hotmail.com,Philadelphia,Google Pay,Cancelled,0.19,4
+ORD-80173,Poetry,Books,3,101.94,45556,Anna Garcia,,San Antonio,Cash on Delivery,Cancelled,0.26,4
+ORD-28847,Geat Cover,Automotive,2,141.83,05/17/2024,Emily Lopez,emily.lopez@gmail.com,Denver,Apple Pay,Completed,0.3,4
+ORD-84615,Scienee Kit,Toys,2,314.39,45525,david gonzalez,david.gonzalez@yahoo.com,Houston,Debit Card,,0.02,1
+ORD-38377,Thermometer,Health,5,123.97,45119,DANIEL GARCIA,daniel.garcia@gmail.com,Phoenix,Google Pay,Shipped,0.21,2
+ORD-44701,Dumbbell,Sports,1,242.25,45358,Maria Williams,maria.williams@outlook.com,new york,Bank Transfer,NULL,0.15,2
+ORD-11063,Water Bottle,Sports,4,384.63,45637,Laura Davis,laura.davis@outlook.com,Los Angeles,Cash on Delivery,Returned,0.12,4
+ORD-82903,Bandages,Health,3,263.13,45213,Laura Jones,laura.jones@hotmail.com,Los Angeles,Google Pay,Shipped,0.23,5
+ORD-93390,Wiper Blade,Automotive,5,258.095,45420,David Garcia,david.garcia@hotmail.com,San Jose,Cash on Delivery,Returned,0.18,5
+ORD-66302,Running Shoes,Sports,5,97.55,45195,James Garcia,james.garcia@icloud.com,San Jose,PayPal,Returned,0.18,4
+ORD-38687,Massage Roller,Health,5,307.55,,Lisa Williams,lisa.williams@icloud.com,San Antonio,Google Pay,Pending,0.23,4
+ORD-26972,Gym Bag,Sports,3,397.24,44957,david miller,david.miller@icloud.com,Jacksonville,Apple Pay,Refunded,0.19,5
+ORD-72086,Resistance Band,Sports,3,201.56,04/15/2024,Laura Gonzalez,laura.gonzalez@gmail.com,Phoenix,Google Pay,Returned,0.21,4
+ORD-82755,Lego Set,Toys,3,482.65,04/24/2024,Jane Smith,jane.smith@icloud.com,Austin,Cash on Delivery,Refunded,0.04,7
+ORD-57931,Soccer Ball,Sports,1,258.095,45349,Anna Martinez,anna.martinez@hotmail.com,Austin,Apple Pay,Completed,0.3,
+ORD-32734,Thermometer,Health,3,333.96,11/29/2024,Daniel Davis,daniel.davis@outlook.com,philadelphia,Debit Card,Refunded,0.13,5
+ORD-67997,Cycling Helmet,Sports,2,44.1,45412,  n/a  ,jane.johnson@outlook.com,Charlotte,Google Pay,,0,1
+ORD-36033,Sneakers,Clothing,2,22.2,45553,Sarah Miller,,  Philadelphia  ,Debit Card,Pending,0,4
+ORD-91797,Soccer Ball,Sports,3,258.095,44961,  Emily Gonzalez  ,emily.gonzalez@hotmail.com,San Jose,Cash on Delivery,OK,0.15,3
+ORD-23428,Shelf,Books,5,15.7,45355,ANNA HERNANDEZ,anna.hernandez@hotmail.com,Dallas,PayPal,Refunded,0.25,10
+ORD-49986,Plush Toy,Toys,4,108.1,45308,Chris Miller,chris.miller@icloud.com,Dallas,Cash on Delivery,Refunded,0.26,4
+ORD-57762,Bandages,Health,1,454.17,45643,Anna Garcia,anna.garcia@icloud.com,Austin,Apple Pay,Shipped,0.03,5
+ORD-17509,Cookbook,Books,3,338.1,45606,Michael Gonzalez,michael.gonzalez@yahoo.com,Philadelphia,PayPal,Cancelled,0.28,4
+ORD-94619,Doll,Toys,4,327.05,45075,  Daniel Jones  ,daniel.jones@aol.com,Los Angeles,Credit Card,Returned,0.26,1
+ORD-50258,Jacket,Clothing,1,19.15,45198,Emily Williams,emily.williams@gmail.com,Columbus,Google Pay,Returned,0.03,5
+ORD-45549,Vitamins,Health,2,476.67,45141,Michael Johnson,michael.johnson@icloud.com,San Francisco,Google Pay,Shipped,0.22,1
+ORD-11246,Monitor,Electronics,4,381.88,45272,Daniel Garcia,daniel.garcia@gmail.com,LA,Google Pay,Returned,0.14,5
+ORD-62513,Car Charger,Automotive,3,437.6,45604,David Miller,,PHILADELPHIA,Bank Transfer,Completed,0.02,2
+ORD-81266,T-Shirt,Clothing,5,496.04,45345,Robert Davis,robert.davis@icloud.com,Washington,Debit Card,Returned,0.23,4
+ORD-21539,Hand Sanitizer,Health,1,475.28,45470,Emily Brown,,San Jose,Cash on Delivery,Cancelled,0.28,2
+ORD-22480,Wireless Mouse,Electronics,3,258.095,45616,Guest,william.rodriguez@yahoo.com,Houston,Apple Pay,Completed,0.29,4
+ORD-40009,Cookbook,Books,4,468.94,45332,  David Miller  ,david.miller@icloud.com,Los Angeles,Credit Card,Completed,0.27,1
+ORD-33429,Plush Toy,Toys,1,119.66,44972,Laura Miller,laura.miller@aol.com,INDIANAPOLIS,Cash on Delivery,Returned,0.07,1
+ORD-60506,Soccer Ball,Sports,4,290.4,03/13/2024,Robert Miller,robert.miller@hotmail.com,Jacksonville,PayPal,Refunded,0.29,1
+ORD-86008,Wireless Mouse,Electronics,4,199.19,45175,Laura Miller,laura.miller@hotmail.com,Philadelphia,Bank Transfer,Cancelled,0.26,4
+ORD-87976,Tire Pressure Gauge,Automotive,1,74.15,07/27/2023,Anna Johnson,,Chicago,Credit Card,Refunded,0.1,2
+ORD-76542,Wireless Mouse,Electronics,3,17.81,,Jane Martinez,Jane@,Houston,Cash on Delivery,Refunded,0.2,5
+ORD-12343,Clock,Home & Garden,5,136.65,45586,robert brown,robert.brown@outlook.com,  Denver  ,Credit Card,Shipped,0.2,4
+ORD-33895,Plush Toy,Toys,5,490.54,45056,John Lopez,john.lopez@aol.com,San Francisco,Cash on Delivery,Cancelled,0.2,3
+ORD-87726,Face Mask,Health,2,113.99,45635,Michael Smith,michael.smith@icloud.com,Houston,Money,Cancelled,0.26,1
+ORD-28181,Jacket,Clothing,2,163.6,45129,Michael Davis,michael.davis@gmail.com,Dallas,Cash on Delivery,Shipped,0.12,4
+ORD-30390,Headphones,Electronics,4,228.28,45019,  Laura Jones  ,no_email,San Diego,Credit Card,Returned,0.09,3
+ORD-43307,Gym Bag,Sports,3,258.095,45562,William Hernandez,william.hernandez@gmail.com,Phoenix,Google Pay,Shipped,0.03,1
+ORD-54188,Mirror,Home & Garden,4,177.2,45466,Maria Rodriguez,maria.rodriguez@gmail.com,Dallas,Debit Card,Cancelled,0.28,4
+ORD-26688,Resistance Band,Sports,3,272.32,45615,David Williams,david.williams@gmail.com,Philadelphia,Bank Transfer,Cancelled,0.2,2
+ORD-45406,Seat Cover,Automotive,3,258.095,45105,Emily Miller,emily.miller@yahoo.com,Los Angeles,PayPal,Completed,0.14,2
+ORD-11025,Magazine,Books,4,345.94,45627,Michael Rodriguez,michael.rodriguez@yahoo.com,Los Angeles,Debit Card,Cancelled,0.15,3
+ORD-40491,Jacket,Clothing,1,451.58,45054,Sarah Davis,sarah.davis@outlook.com,Los Angeles,Apple Pay,Cancelled,0.18,3
+ORD-73238,Cookbook,Books,3,95.73,45275,,william.jones@yahoo.com,Columbus,Debit Card,,0.29,
+ORD-33210,Lego Set,Toys,5,48.33,45537,David Jones,david.jones@hotmail.com,Denver,Debit Card,Shipped,0.07,1
+ORD-93032,Biography,Books,5,258.095,01/17/2024,James Martinez,james.martinez@outlook.com,Philadelphia,Google Pay,Shipped,0.14,1
+ORD-90013,Comic,Books,4,106.13,45560,James Martinez,james.martinez@gmail.com,Chicago,PayPal,Completed,0.27,
+ORD-54027,Power Bank,Electronics,5,480.25,45582,,anna.smith@aol.com,Jacksonville,,Cancelled,0.16,3
+ORD-34113,Toothbrush,Health,5,105.51,44932,MARIA DAVIS,maria.davis@hotmail.com,Jacksonville,Debit Card,Shipped,0.21,5
+ORD-37288,Water Bottle,Sports,3,287.18,04/14/2024,John Garcia,john.garcia@gmail.com,jacksonville,Cash on Delivery,Pending,0.21,3
+ORD-59623,Jeans,Clothing,3,426.17,45373,William Johnson,william.johnson@outlook.com,Unknown City,Apple Pay,Shipped,0.06,4
+ORD-50738,Car Charger,Automotive,5,221.75,45474,Robert Jones,robert.jones@gmail.com,Charlotte,Apple Pay,Returned,0.09,3
+ORD-18916,Novel,Books,4,117.52,45461,Robert Williams,,Austin,Credit Card,Returned,0.18,2
+ORD-36980,T-Shirt,Clothing,2,384.59,,Anna Rodriguez,anna.rodriguez@hotmail.com,Los Angeles,Credit Card,Pending,0.02,4
+ORD-61786,Jeans,Clothing,4,285.35,45141,Chris Garcia,,Denver,,,0.27,4
+ORD-25264,Sneakers,Clothing,3,337.68,44966,Robert Hernandez,robert.hernandez@icloud.com,San Antonio,Debit Card,Completed,-0.1,5
+ORD-31587,Building Blocks,Toys,5,410.58,45344,James Davis,james.davis@icloud.com,Chicago,PayPal,Pending,0.04,1
+ORD-90702,Puzzle,Toys,1,243.01,45115,William Jones,william.jones@icloud.com,San Diego,,Completed,0.27,3
+ORD-26176,Water Bottle,Sports,2,103.07,45084,Maria Smith,maria.smith@hotmail.com,Washington,PayPal,Returned,0.21,5
+ORD-49309,Floor Mat,Automotive,5,287.57,,David Rodriguez,david.rodriguez@hotmail.com,San Jose,Bank Transfer,Returned,0.13,3
+ORD-96737,Scarf,Clothing,3,208.04,44959,Robert Lopez,robert.lopez@outlook.com,Chicago,PayPal,Refunded,0.11,5
+ORD-27383,Webcam,Electronics,2,381.74,45424,John Williams,john.williams@yahoo.com,Houston,Cash on Delivery,Refunded,0.3,5
+ORD-95092,Clock,Home & Garden,4,258.095,09/18/2024,Anna Martinez,anna.martinez@hotmail.com,San Jose,Cash on Delivery,Refunded,0.01,2
+ORD-54676,Laptop Stand,Electronics,5,359.38,,William Jones,william.jones@aol.com,Dallas,Apple Pay,Shipped,0.28,4
+ORD-47260,Bluetooth Speaker,Electronics,2,270.04,45512,Emily Rodriguez,,Phoenix,Cash on Delivery,Completed,0.08,1
+ORD-50696,Biography,Books,2,489.74,45021,james rodriguez,james.rodriguez@icloud.com,Columbus,Cash on Delivery,Returned,0.23,1
+ORD-59418,Table,Home & Garden,4,240.47,45476,Laura Jones,laura.jones@outlook.com,Denver,PayPal,Returned,0.03,3
+ORD-81242,Usb-C Cable,Electronics,3,334.47,45344,David Johnson,david.johnson@outlook.com,columbus,Credit Card,Shipped,0.07,5
+ORD-44221,Sci-Fi Book,Books,1,258.095,45114,James Lopez,james.lopez@outlook.com,San Jose,Cash on Delivery,Refunded,0.24,2
+ORD-53071,Curtain,Home & Garden,5,31.65,08/23/2023,Emily Johnson,emily.johnson@gmail.com,san antonio,Credit Card,Completed,0.15,
+ORD-55852,Hat,Clothing,3,87.9,45252,Michael Rodriguez,michael.rodriguez@icloud.com,New York,PayPal,Returned,0.04,4
+ORD-86358,Chair,Home & Garden,3,496.81,44986,Michael Williams,michael.williams@hotmail.com,Philadelphia,,Cancelled,-0.1,3
+ORD-49187,Jacket,Clothing,3,409.01,09/21/2023,William Williams,william.williams@aol.com,Seattle,PayPal,Returned,0.08,5
+ORD-63612,Mirror,Home & Garden,3,227.8,44970,Emily,emily.lopez@outlook.com,Charlotte,Bank Transfer,Returned,0.12,1
+ORD-66925,Sneakers,Clothing,4,163.06,45641,David Davis,david.davis@yahoo.com,Denver,Apple Pay,Pending,0.12,5
+ORD-50590,Usb-C Cable,Electronics,4,258.095,45137,Chris Hernandez,chris.hernandez@gmail.com,Seattle,Debit Card,Cancelled,1.5,5
+ORD-51932,Curtain,Home & Garden,5,93.65,2023-13-45,Sarah Martinez,sarah.martinez@yahoo.com,Fort Worth,Bank Transfer,Pending,0.08,5
+ORD-13153,Plush Toy,Toys,2,385.31,45621,Maria Smith,maria.smith@gmail.com,Washington,Credit Card,Refunded,0.12,3
+ORD-22813,Novel,Books,1,280.04,45049,Chris Garcia,chris.garcia@outlook.com,Indianapolis,Google Pay,Returned,0.03,5
+ORD-33009,Running Shoes,Sports,5,478.56,06/26/2023,Daniel Williams,daniel.williams@aol.com,Phoenix,PayPal,Refunded,0.09,4
+ORD-65373,Vitamins,Health,3,19.48,45088,Maria Miller,maria.miller@gmail.com,Philadelphia,Apple Pay,Refunded,0.01,2
+ORD-63523,Jacket,Clothing,4,230.14,45340,Robert Davis,robert.davis@gmail.com,San Jose,Google Pay,Shipped,0.03,4
+ORD-32923,First Aid Kit,Health,1,412.11,44962,Lisa Davis,lisa.davis@yahoo.com,Seattle,Credit Card,,0.2,5
+ORD-37339,Oil Filter,Automotive,1,457.08,45141,Sarah Lopez,sarah.lopez@outlook.com,LA,Debit Card,Completed,0.09,
+ORD-24696,Jacket,Clothing,1,385.17,45507,Daniel Miller,no_email,Washington,Google Pay,Returned,0.15,3
+ORD-71652,Car Charger,Automotive,5,84.16,02/13/2024,Michael Brown,michael.brown@aol.com,San Antonio,Credit Card,Completed,0.01,
+ORD-75599,Chair,Home & Garden,5,160.95,45627,Emily Williams,emily.williams@aol.com,San Diego,Google Pay,OK,0.15,5
+ORD-58870,Hand Sanitizer,Health,3,340.8,45362,Lisa Hernandez,lisa.hernandez@icloud.com,Seattle,Bank Transfer,Refunded,5,2
+ORD-81040,Biography,Books,3,29.6,,Laura Miller,laura.miller@icloud.com,Columbus,Bank Transfer,Refunded,0.19,5
+ORD-37784,Poetry,Books,3,336.13,45060,Lisa Rodriguez,lisa.rodriguez@gmail.com,Houston,PayPal,Completed,0.09,
+ORD-97948,Comic,Books,2,134.84,45485,Jane Jones,jane.jones@yahoo.com,  New York  ,Cash on Delivery,Shipped,0.12,2
+ORD-93518,Poetry,Books,3,202.84,45585,Maria Martinez,maria.martinez@gmail.com,San Jose,Bank Transfer,Completed,0.24,4
+ORD-54657,Soccer Ball,Sports,2,159.58,44949,David Gonzalez,david.gonzalez@icloud.com,San Francisco,Bank Transfer,Refunded,0.29,4
+ORD-66093,Comic,Books,5,258.095,45367,Chris Lopez,chris.lopez@outlook.com,Indianapolis,Money,Returned,0.16,2
+ORD-82510,Plush Toy,Toys,4,442.96,45216,  Emily Lopez  ,emily.lopez@gmail.com,Austin,Bank Transfer,Shipped,0.15,2
+ORD-72064,Hand Sanitizer,Health,5,374.3,45092,Maria Miller,maria.miller@outlook.com,Fort Worth,Credit Card,Completed,0.2,4
+ORD-15723,Curtain,Home & Garden,1,112.54,45493,Jane Rodriguez,@gmail.com,FORT WORTH,Debit Card,Cancelled,0.07,3
+ORD-79244,Doll,Toys,3,437.58,45365,lisa gonzalez,lisa.gonzalez@outlook.com,austin,Bank Transfer,Refunded,0.19,1
+ORD-59711,Chair,Home & Garden,3,388.53,,James Garcia,james.garcia@aol.com,Jacksonville,Bank Transfer,Shipped,-0.1,2
+ORD-58082,Usb-C Cable,Electronics,3,414.64,45581,Emily Gonzalez,emily.gonzalez@yahoo.com,Unknown City,Bank Transfer,Pending,0.11,
+ORD-22817,Shelf,Home & Garden,3,472.36,45253,Jane Williams,,Seattle,PayPal,Returned,0,2
+ORD-38330,Gloves,Clothing,3,96.63,45494,Michael Miller,,Washington,,Refunded,0.08,5
+ORD-58484,Plush Toy,Toys,1,400.45,45175,Daniel Jones,daniel.jones@gmail.com,Denver,Debit Card,OK,0.09,3
+ORD-31020,Tire Pressure Gauge,Automotive,1,418.44,45019,Jane Jones,jane.jones@yahoo.com,Jacksonville,,Pending,0.11,1
+ORD-16224,Face Mask,Health,5,119.67,45230,Anna Rodriguez,anna.rodriguez@icloud.com,Denver,Apple Pay,Refunded,0.15,5
+ORD-65591,Running Shoes,Sports,1,309.39,45173,LAURA MARTINEZ,laura.martinez@gmail.com,San Diego,Cash on Delivery,Pending,0.12,5
+ORD-69391,Supplements,Health,5,273.95,45617,Jane Martinez,jane.martinez@gmail.com,Washington,,Returned,0.11,3
+ORD-29655,Cycling Helmet,Sports,1,19.43,45490,,laura.gonzalez@outlook.com,Chicago,Google Pay,Refunded,0.23,1
+ORD-50494,Webcam,Electronics,2,258.095,45051,Michael Johnson,michael.johnson@hotmail.com,Dallas,Apple Pay,Returned,0.03,1
+ORD-13871,Cookbook,Books,3,248.01,44996,Chris Hernandez,chris.hernandez@yahoo.com,Indianapolis,Debit Card,Returned,0.24,3
+ORD-95206,First Aid Kit,Health,1,84.95,07/31/2023,Anna Garcia,anna.garcia@hotmail.com,San Jose,Debit Card,Shipped,0.08,5
+ORD-32582,Hoodie,Clothing,2,327.87,45377,Anna Davis,anna.davis@hotmail.com,Philadelphia,Credit Card,Completed,0.08,4
+ORD-47448,Usb-C Cable,Electronics,5,318.44,45271,LAURA GONZALEZ,laura.gonzalez@aol.com,Austin,Bank Transfer,Returned,0.02,5
+ORD-52712,Shorts,Clothing,2,479.93,2023-13-45,Guest,laura.garcia@outlook.com,Los Angeles,,Shipped,0.01,4
+ORD-16303,T-Shirt,Clothing,1,241.3,45113,David Johnson,david.johnson@outlook.com,Columbus,Bank Transfer,Completed,0.05,4
+ORD-82519,Running Shoes,Sports,4,258.095,44972,Lisa Miller,,Indianapolis,Cash on Delivery,Shipped,0.2,1
+ORD-72072,Lego Set,Toys,1,383.23,45014,Daniel Lopez,daniel.lopez@aol.com,Los Angeles,Bank Transfer,Returned,0.14,1
+ORD-37017,Action Figure,Toys,5,258.095,45006,James Miller,james.miller@gmail.com,New York,Bank Transfer,Shipped,0,1
+ORD-27537,Gym Bag,Sports,4,11.83,45633,Maria Martinez,maria.martinez@aol.com,San Francisco,Bank Transfer,Cancelled,0.08,4
+ORD-34586,Headphones,Electronics,5,225.06,45235,  Jane Jones  ,jane.jones@yahoo.com,Los Angeles,,Cancelled,,4
+ORD-66969,Tennis Racket,Sports,1,259.85,45085,Chris Rodriguez,chris.rodriguez@outlook.com,Dallas,Apple Pay,Refunded,0.13,5
+ORD-84384,Magazine,Books,4,287.68,45345,Daniel Brown,daniel.brown@icloud.com,Philadelphia,PayPal,Pending,0.28,4
+ORD-58081,Puzzle,Toys,1,374.44,44970,,emily.garcia@yahoo.com,San Antonio,Debit Card,Refunded,0.15,5
+ORD-73260,Jeans,Clothing,2,314.54,45265,  Michael Martinez  ,michael.martinez@yahoo.com,Phoenix,Credit Card,Returned,0.15,2
+ORD-15620,Mirror,Home & Garden,1,44.59,45002,James Hernandez,james.hernandez@gmail.com,philadelphia,Apple Pay,Completed,,2
+ORD-52233,Yoga Mat,Sports,1,326.11,45249,Jane Martinez,jane.martinez@icloud.com,Washington,Google Pay,Completed,0.29,4
+ORD-66416,T-Shirt,Clothing,3,192.32,45489,,lisa.williams@yahoo.com,Washington,Apple Pay,Shipped,0.29,1
+ORD-44547,Wiper Blade,Automotive,1,342.22,45610,Robert Gonzalez,robert.gonzalez@outlook.com,Houston,NULL,Refunded,0.14,2
+ORD-61457,Mirror,Home & Garden,1,134.93,45058,  Chris Miller  ,chris.miller@hotmail.com,LOS ANGELES,PayPal,Shipped,0.24,5
+ORD-66682,Textbook,Books,1,218.16,45573,WILLIAM RODRIGUEZ,william.rodriguez@hotmail.com,Charlotte,PayPal,Shipped,0.01,5
+ORD-50469,Wiper Blade,Automotive,4,276.01,45345,Unknown,john.hernandez@icloud.com,  Washington  ,Debit Card,Completed,0.21,4
+ORD-33502,Air Freshener,Automotive,2,182.09,45129,Michael Jones,michael.jones@aol.com,Seattle,Cash on Delivery,Refunded,0.02,4
+ORD-28071,Wiper Blade,Automotive,2,63.37,,Chris Miller,chris.miller@icloud.com,washington,Apple Pay,Returned,0.08,2
+ORD-16698,Car Charger,Automotive,5,258.095,45432,Robert Gonzalez,robert.gonzalez@outlook.com,Denver,Debit Card,,0.01,1
+ORD-86955,Tire Pressure Gauge,Automotive,2,135.78,45389,Chris,chris.garcia@icloud.com,Charlotte,Debit Card,Shipped,0.18,3
+ORD-40647,Board Came,Toys,3,482.84,45141,William Jones,william.jones@outlook.com,Fort Worth,Apple Pay,Completed,0.2,4
+ORD-67741,Textbook,Books,5,67.09,45175,Anna Gonzalez,anna.gonzalez@yahoo.com,Jacksonville,Cash on Delivery,Completed,0.02,
+ORD-35024,Board Came,Toys,4,463.46,,Chris Hernandez,chris.hernandez@icloud.com,,PayPal,Pending,0.07,3
+ORD-19158,Laptop Stand,Electronics,2,125,45400,William Williams,william.williams@gmail.com,  Austin  ,PayPal,Cancelled,0.25,4
+ORD-97674,Doll,Toys,5,312.82,45536,Robert Smith,robert.smith@outlook.com,Dallas,Google Pay,,0.06,3
+ORD-80009,Supplements,Health,2,112.26,45092,William Martinez,william.martinez@icloud.com,Philadelphia,Bank Transfer,Shipped,0.27,4
+ORD-87711,Sneakers,Clothing,1,414.83,45515,Laura Johnson,laura.johnson@gmail.com,Denver,Debit Card,Cancelled,0.21,1
+ORD-52946,Power Bank,Electronics,3,258.095,45312,Maria Rodriguez,Maria@,,Apple Pay,Shipped,0.15,2
+ORD-25397,Curtain,Home & Garden,3,163.68,45454,Laura Martinez,laura.martinez@yahoo.com,Chicago,Google Pay,Pending,0.08,3
+ORD-16446,Vase,Home & Garden,5,258.095,45389,David Davis,david.davis@icloud.com,New York,Google Pay,Returned,0.29,4
+ORD-30214,Shelf,Home & Garden,3,48.21,45451,ROBERT JOHNSON,robert.johnson@aol.com,San Diego,Debit Card,Pending,0.15,2
+ORD-28328,Smart Watch,Electronics,1,151.05,45611,Chris Johnson,chris.johnson@outlook.com,Dallas,Apple Pay,Refunded,0.24,4
+ORD-87428,Soccer Ball,Sports,3,5.71,45361,michael davis,michael.davis@icloud.com,Los Angeles,Debit Card,Refunded,0.16,3
+ORD-19078,Novel,Books,5,137.74,45267,Lisa Lopez,lisa.lopez@icloud.com,Jacksonville,Apple Pay,Cancelled,0.11,4
+ORD-52515,Supplements,Health,3,74.02,,,william.hernandez@outlook.com,New York,Debit Card,Returned,0.26,3
+ORD-22091,Tire Pressure Gauge,Automotive,4,494.06,45232,John Gonzalez,john.gonzalez@outlook.com,Washington,Bank Transfer,Returned,0.07,5
+ORD-32781,Dumbbell,Sports,4,122.59,45015,Maria Miller,,New York,Credit Card,Cancelled,,5
+ORD-67503,Power Bank,Electronics,4,273.65,45483,Anna Martinez,anna.martinez@hotmail.com,san francisco,PayPal,Refunded,0.2,3
+ORD-49916,Scarf,Clothing,4,333.91,45350,Jane Martinez,jane.martinez@gmail.com,Charlotte,Debit Card,Refunded,0.09,3
+ORD-47104,Resistance Band,Sports,2,428.21,45549,,chris.smith@outlook.com,San Diego,Bank Transfer,Returned,0.1,2
+ORD-46167,Plush Toy,Toys,5,457.93,45240,NULL,david.martinez@hotmail.com,San Francisco,Cash on Delivery,Cancelled,0.29,5
+ORD-34408,Scarf,Clothing,4,258.095,45380,Lisa Lopez,lisa.lopez@yahoo.com,Houston,,Pending,0.29,2
+ORD-48654,Cycling Helmet,Sports,2,347.5,44930,Laura Garcia,,Phoenix,Apple Pay,Returned,0.27,4
+ORD-83495,Magazine,Books,3,246.62,45561,ANNA BROWN,,Seattle,,Refunded,0.01,3
+ORD-92721,Mirror,Home & Garden,5,56.78,45089,Daniel Johnson,daniel.johnson@outlook.com,Denver,Cash on Delivery,Returned,0.28,5
+ORD-34713,Puzzle,Toys,3,369.71,45373,jane williams,jane.williams@hotmail.com,  Denver  ,Debit Card,Returned,,1
+ORD-42361,Chair,Home & Garden,4,414.02,12/19/2024,Lisa Smith,lisa.smith@gmail.com,Los Angeles,Debit Card,Refunded,0.01,2
+ORD-29554,Lamp,Home & Garden,1,322.47,45476,MICHAEL GARCIA,michael.garcia@yahoo.com,Phoenix,Apple Pay,Cancelled,0.25,2
+ORD-85432,Face Mask,Health,4,32.02,44986,Jane Davis,jane.davis@aol.com,  San Jose  ,Credit Card,Cancelled,0.04,1
+ORD-47486,Sunscreen,Health,2,258.095,45405,Emily Hernandez,emily.hernandez@aol.com,San Antonio,Credit Card,Completed,0,1
+ORD-37931,Toothbrush,Health,1,216.78,45127,James Jones,james.jones@aol.com,Austin,Debit Card,Shipped,0.24,3
+ORD-94320,Cookbook,Books,5,349.56,45605,John Jones,john.jones@outlook.com,Austin,Debit Card,Cancelled,0.13,4
+ORD-46007,Lego Set,Toys,2,258.095,45141,David Williams,david.williams@aol.com,  Houston  ,Debit Card,,0.01,
+ORD-19025,Vitamins,Health,2,227.28,45338,Emily Johnson,,Seattle,Debit Card,Pending,0.28,1
+ORD-85290,Doll,Toys,4,295.46,45408,Maria Jones,maria.jones@icloud.com,Dallas,PayPal,Cancelled,0.05,1
+ORD-71377,Textbook,Books,5,95.76,45259,Jane Garcia,jane.garcia@icloud.com,Houston,Apple Pay,Pending,0.12,5
+ORD-66606,Plush Toy,Toys,4,116.24,45418,Robert Jones,robert.jones@aol.com,Los Angeles,Debit Card,Shipped,0.14,5
+ORD-42986,Plush Toy,Toys,1,125.16,45608,Anna Martinez,anna.martinez@icloud.com,Houston,Cash on Delivery,Cancelled,0.19,10
+ORD-90463,Cycling Helmet,Sports,2,434.99,45206,Laura Davis,laura.davis@gmail.com,Indianapolis,Bank Transfer,Completed,0.19,4
+ORD-19471,Oil Filter,Automotive,2,488.34,44968,Chris Rodriguez,chris.rodriguez@hotmail.com,Phoenix,Debit Card,Returned,0.03,1
+ORD-93450,Sunscreen,Health,3,310.51,45068,Jane Miller,jane.miller@aol.com,Washington,Money,Completed,0.21,2
+ORD-68859,Phone Mount,Automotive,1,387.42,08/18/2024,Emily Lopez,emily.lopez@icloud.com,Los Angeles,Credit Card,Completed,0.1,3
+ORD-91032,Power Bank,Electronics,5,329.54,45351,  David Johnson  ,david.johnson@outlook.com,Phoenix,PayPal,Completed,0.13,4
+ORD-26515,Sci-Fi Book,Books,2,272.27,45238,Anna Garcia,anna.garcia@outlook.com,Charlotte,Cash on Delivery,Refunded,0.09,5
+ORD-68933,Smart Watch,Electronics,2,302.27,45002,  Robert Johnson  ,robert.johnson@aol.com,New York,Google Pay,Completed,0.17,4
+ORD-46409,Sunscreen,Health,3,258.095,44980,William Gonzalez,william.gonzalez@outlook.com,Houston,Bank Transfer,Done,0.12,5
+ORD-30123,Supplements,Health,5,258.095,45036,Anna Davis,anna.davis@gmail.com,Jacksonville,Money,Pending,0.15,5
+ORD-49681,Tennis Racket,Sports,3,448.21,45333,Robert Lopez,robert.lopez@aol.com,Charlotte,Bank Transfer,Cancelled,0.28,4
+ORD-46849,Sci-Fi Book,Books,1,94.69,45576,John Jones,john.jones@gmail.com,San Diego,Credit Card,Shipped,0.07,1
+ORD-45232,Science Kit,Toys,2,449.13,45541,Maria Davis,maria.davis@icloud.com,Philadelphia,Credit Card,Cancelled,0.18,3
+ORD-14398,Sunscreen,Health,2,245.49,45098,Laura Hernandez,laura.hernandez@hotmail.com,Houston,Credit Card,Completed,0.29,4
+ORD-94887,Webcam,Electronics,3,230.15,45342,,maria.hernandez@hotmail.com,Washington,Debit Card,Returned,,3
+ORD-40293,Mirror,Home & Garden,2,133.2,45064,Daniel Williams,daniel.williams@gmail.com,San Antonio,Debit Card,Cancelled,,4
+ORD-48969,Jeans,Clothing,1,39.44,45049,Maria Gonzalez,maria.gonzalez@gmail.com,Los Angeles,Cash on Delivery,Pending,-0.1,5
+ORD-97639,Biography,Books,5,197.82,45547,Jane Brown,jane.brown@yahoo.com,San Antonio,Cash on Delivery,Completed,0.2,3
+ORD-80761,Socks,Clothing,2,238.8,45410,David Williams,david.williams@aol.com,Seattle,,Pending,0.17,3
+ORD-50540,Bandages,Health,1,94.48,45481,Lisa Gonzalez,lisa.gonzalez@yahoo.com,San Jose,Google Pay,Completed,0.05,3
+ORD-56405,Smart Watch,Electronics,5,225.92,03/15/2024,James Williams,james.williams@outlook.com,San Antonio,Cash on Delivery,Pending,0.07,2
+ORD-60127,Thermometer,Health,5,128.78,45329,Jane Hernandez,jane.hernandez@icloud.com,Phoenix,,Shipped,0.24,3
+ORD-10220,Water Bottle,Sports,2,114.96,45398,Laura Hernandez,Laura@,Houston,PayPal,Cancelled,0.05,2
+ORD-34795,Phone Mount,Automotive,5,464.94,45384,,jane.lopez@aol.com,Indianapolis,Debit Card,Pending,-0.1,1
+ORD-95095,Sci-Fi Book,Books,4,6.51,45481,Maria Davis,maria.davis@outlook.com,Jacksonville,Debit Card,Returned,0.12,5
+ORD-99965,Wiper Blade,Automotive,3,98.87,45336,John Johnson,john.johnson@hotmail.com,Jacksonville,PayPal,Pending,,3
+ORD-85440,T-Shirt,Clothing,4,437.56,45457,James Davis,james.davis@hotmail.com,Charlotte,Google Pay,Shipped,0.21,10
+ORD-84229,Sunscreen,Health,2,425.52,45346,Maria Miller,maria.miller@hotmail.com,San Antonio,Apple Pay,Returned,0.26,5
+ORD-36100,Laptop Stand,Electronics,4,101.25,45176,Anna Gonzalez,anna.gonzalez@outlook.com,Houston,Google Pay,Cancelled,0.15,2
+ORD-49462,Action Figure,Toys,2,245.03,04/15/2023,William Rodriguez,william.rodriguez@gmail.com,Houston,Debit Card,Refunded,0.05,1
+ORD-43127,Usb-C Cable,Electronics,4,281.78,45463,James Martinez,,Indianapolis,Google Pay,Pending,0.07,5
+ORD-47255,Chair,Home & Garden,2,289.17,45262,Anna Jones,anna.jones@aol.com,Charlotte,Debit Card,Returned,0.28,4
+ORD-43031,Curtain,Home & Garden,1,258.095,45497,n/a,john.rodriguez@gmail.com,Washington,Cash on Delivery,Refunded,0.25,0
+ORD-30218,Textbook,Books,2,308.95,45422,NULL,lisa.hernandez@aol.com,Seattle,Cash on Delivery,Refunded,0.15,2
+ORD-29929,Hoodie,Clothing,4,412.01,45084,John Miller,john.miller@aol.com,San Jose,Google Pay,Returned,0.13,3
+ORD-81834,Jeans,Clothing,3,41.25,12/16/2024,Emily Martinez,emily.martinez@aol.com,Charlotte,Google Pay,Pending,0.16,5
+ORD-45532,Supplements,Health,4,258.095,45064,William Brown,william.brown@gmail.com,Philadelphia,Credit Card,NULL,0.28,1
+ORD-93685,Face Mask,Health,5,173.37,03/28/2024,MICHAEL SMITH,michael.smith@hotmail.com,New York,Cash on Delivery,Returned,0.17,1
+ORD-63057,Gym Bag,Sports,5,400.42,45509,Lisa Lopez,lisa.lopez@gmail.com,Austin,Cash on Delivery,Cancelled,0.16,2
+ORD-28829,Tire Pressure Gauge,Automotive,3,434.95,45094,Anna Martinez,anna.martinez@aol.com,  Austin  ,Google Pay,Completed,0.07,3
+ORD-27985,Supplements,Health,5,278.26,45117,Anna Lopez,anna.lopez@gmail.com,Houston,Google Pay,Shipped,0.27,1
+ORD-35489,Sneakers,Clothing,3,27.48,45086,Maria Jones,maria.jones@yahoo.com,Seattle,Cash on Delivery,Pending,0.27,1
+ORD-38880,Laptop Stand,Electronics,4,424.4,45080,N/A,,San Francisco,Cash on Delivery,Returned,0.06,2
+ORD-25591,Plush Toy,Toys,3,296.9,44969,Sarah Smith,sarah.smith@outlook.com,Jacksonville,Apple Pay,Shipped,0.22,4
+ORD-88605,Puzzle,Toys,5,396.27,45604,Anna Brown,anna.brown@aol.com,Charlotte,,Returned,0.03,2
+ORD-68008,Running Shoes,Sports,2,178.8,45288,  Michael Gonzalez  ,michael.gonzalez@yahoo.com,san diego,Google Pay,Returned,0.16,1
+ORD-19756,Plush Toy,Toys,1,258.095,45548,Sarah Hernandez,sarah.hernandez@yahoo.com,SAN FRANCISCO,Bank Transfer,Completed,0.15,1
+ORD-21123,Tire Pressure Gauge,Automotive,5,397.41,,John Garcia,john.garcia@outlook.com,Seattle,,Refunded,,3
+ORD-53940,Lego Set,Toys,3,258.095,44964,Maria,maria.martinez@yahoo.com,phoenix,Google Pay,Completed,0.01,1
+ORD-23879,Mirror,Home & Garden,5,194.43,45004,Laura Smith,laura.smith@gmail.com,Chicago,Debit Card,,0.16,1
+ORD-88258,Mirror,Home & Garden,1,453.53,45481,CHRIS JONES,chris.jones@hotmail.com,COLUMBUS,Google Pay,Pending,0.12,5
+ORD-81017,Gym Bag,Sports,3,289.02,44976,David Jones,david.jones@icloud.com,Chicago,Cash on Delivery,Shipped,0,4
+ORD-20778,Basketball,Sports,2,397.36,45063,Emily Johnson,invalid_email,Washington,Cash on Delivery,Refunded,0.03,A
+ORD-79616,Supplements,Health,1,331.85,45653,Daniel Martinez,daniel.martinez@icloud.com,San Jose,,Returned,0.07,4
+ORD-82175,First Aid Kit,Health,1,336.39,45492,Laura Johnson,laura.johnson@outlook.com,Charlotte,Credit Card,Completed,0.28,4
+ORD-37462,Massage Roller,Health,1,264.86,06/24/2023,Emily Davis,emily.davis@gmail.com,San Antonio,Google Pay,Completed,0.08,4
+ORD-11672,Laptop Stand,Electronics,3,258.095,44986,Jane Martinez,jane.martinez@aol.com,Seattle,Credit Card,Shipped,0.28,2
+ORD-71597,Gloves,Clothing,5,81.17,44989,Robert Martinez,robert.martinez@gmail.com,New York,Google Pay,Refunded,0.08,1
+ORD-17733,Lego Set,Toys,1,160.92,02/14/2023,ANNA GONZALEZ,,Indianapolis,Google Pay,Returned,0.24,4
+ORD-34498,Sneakers,Clothing,4,325.39,45235,Robert Smith,robert.smith@outlook.com,New York,PayPal,Cancelled,0.18,2
+ORD-51079,First Aid Kit,Health,2,130.88,45310,David Davis,david.davis@aol.com,Washington,Bank Transfer,Cancelled,0.11,2
+ORD-70784,Air Freshener,Automotive,1,387.7,12/17/2024,David Martinez,david.martinez@hotmail.com,Los Angeles,Apple Pay,Refunded,0.04,2
+ORD-89751,Water Bottle,Sports,2,258.095,45156,Jane Lopez,jane.lopez@aol.com,Seattle,PayPal,,0.08,4
+ORD-60780,Toothbrush,Health,5,207.34,45203,,anna.johnson@gmail.com,Denver,Bank Transfer,Completed,0.22,1
+ORD-30459,Science Kit,Toys,5,128.74,45425,  WILLIAM GARCIA  ,william.garcia@yahoo.com,San Antonio,Credit Card,Refunded,0.05,2
+ORD-55444,Water Bottle,Sports,5,135.41,45421,Anna Martinez,anna.martinez@hotmail.com,Indianapolis,Apple Pay,,0.29,3
+ORD-39787,Vase,Home & Garden,4,348.15,44982,Michael Jones,michael.jones@aol.com,San Jose,Bank Transfer,Completed,0.09,2
+ORD-24780,Led Bulb,Automotive,1,226.02,45551,,robert.johnson@yahoo.com,New York,Debit Card,Refunded,0.06,1
+ORD-98832,Magazine,Books,1,422.95,45457,,john.lopez@yahoo.com,New York,PayPal,Completed,0.14,3
+ORD-53297,Bluetooth Speaker,Electronics,3,375.77,45492,Sarah Brown,sarah.brown@icloud.com,San Jose,Bank Transfer,Returned,0.14,4
+ORD-54935,Phone Mount,Automotive,1,294.98,45543,Jane Johnson,jane.johnson@outlook.com,Chicago,Bank Transfer,Returned,,2
+ORD-38177,Mirror,Home & Garden,5,431.32,45223,  chris hernandez  ,chris.hernandez@yahoo.com,Denver,PayPal,Pending,0.22,5
+ORD-49979,Plush Toy,Toys,3,258.095,01/30/2024,Sarah Garcia,sarah.garcia@icloud.com,San Francisco,Debit Card,Refunded,0.07,
+ORD-25691,Doll,Toys,5,343.28,45537,Jane Brown,Jane@,San Jose,Credit Card,,0.23,2
+ORD-95971,Lego Set,Toys,3,492.06,45558,Lisa Hernandez,lisa.hernandez@aol.com,Phoenix,PayPal,Completed,0.2,3
+ORD-56273,Air Freshener,Automotive,3,296.61,45602,Emily Smith,emily.smith@hotmail.com,Dallas,Apple Pay,Cancelled,0.27,3
+ORD-37663,Floor Mat,Automotive,5,144.6,45507,Maria Davis,maria.davis@gmail.com,Philadelphia,,Pending,0.13,4
+ORD-30487,Wireless Mouse,Electronics,4,258.095,45569,Sarah Hernandez,invalid_email,Los Angeles,Cash on Delivery,Cancelled,0.09,4
+ORD-21092,Air Freshener,Automotive,1,325.5,45337,Laura Brown,laura.brown@gmail.com,Phoenix,PayPal,Returned,0.2,
+ORD-39522,Magazine,Books,2,57.35,45238,Michael Davis,michael.davis@gmail.com,San Diego,Bank Transfer,Returned,0.27,2
+ORD-93814,Air Freshener,Automotive,4,448.41,2023-13-45,Daniel Rodriguez,daniel.rodriguez@aol.com,Washington,Debit Card,Cancelled,0.24,5
+ORD-49592,Lego Set,Toys,1,109.76,,James Smith,james.smith@hotmail.com,Dallas,Google Pay,Refunded,5,2
+ORD-16077,Vase,Home & Garden,3,223.51,44932,Michael Garcia,michael.garcia@hotmail.com,Charlotte,Cash on Delivery,Shipped,0.03,
+ORD-33306,Action Figure,Toys,4,269.28,44940,John Hernandez,john.hernandez@yahoo.com,San Jose,Google Pay,Pending,0.07,
+ORD-53010,Doll,Toys,2,121.56,45571,David Lopez,david.lopez@icloud.com,Seattle,PayPal,Shipped,0.22,2
+ORD-85746,Usb-C Cable,Electronics,2,351.16,44975,William Garcia,william.garcia@yahoo.com,San Antonio,Apple Pay,Completed,0.16,3
+ORD-65603,Bandages,Health,2,258.095,45450,Emily Smith,emily.smith@gmail.com,Phoenix,Bank Transfer,Completed,0.24,1
+ORD-15289,Board Came,Toys,2,116.76,45325,  Daniel Garcia  ,daniel.garcia@outlook.com,Los Angeles,PayPal,Cancelled,0.04,
+ORD-78035,Basketball,Sports,1,147.23,07/15/2023,Michael Davis,michael.davis@icloud.com,,Credit Card,Shipped,0.01,2
+ORD-13947,Mirror,Home & Garden,4,106.07,45496,Laura Martinez,laura.martinez@aol.com,New York,Bank Transfer,Shipped,,4
+ORD-61748,Tire Pressure Gauge,Automotive,3,6.34,45082,,chris.miller@outlook.com,Austin,Card,Shipped,0.29,4
+ORD-53457,Plant Pot,Home & Garden,4,139.19,45271,David Jones,david.jones@outlook.com,Charlotte,Google Pay,Shipped,0.29,4
+ORD-84965,Wireless Mouse,Electronics,3,67.93,45246,Daniel Garcia,daniel.garcia@icloud.com,Chicago,Credit Card,Pending,0.19,
+ORD-16822,Shorts,Clothing,3,83.61,45239,Daniel Martinez,daniel.martinez@yahoo.com,San Francisco,Google Pay,Pending,0.13,5
+ORD-23181,Resistance Band,Sports,4,409.47,11/22/2024,Sarah Johnson,sarah.johnson@aol.com,Chicago,Bank Transfer,Pending,0.2,3
+ORD-86515,Car Charger,Automotive,3,415.03,45196,Laura Miller,laura.miller@aol.com,Austin,Cash on Delivery,Shipped,0.08,3
+ORD-70992,Massage Roller,Health,3,161.6,45290,Chris Hernandez,chris.hernandez@aol.com,  Washington  ,Credit Card,Completed,0.27,3
+ORD-82255,Hoodie,Clothing,4,22.46,12/29/2023,Robert Davis,robert.davis@aol.com,Washington,Apple Pay,,0.03,
+ORD-99857,Shelf,Books,4,298.28,45244,Lisa Martinez,lisa.martinez@gmail.com,New York,,Pending,0.1,5
+ORD-39123,Basketball,Sports,3,343.81,45272,Sarah Miller,sarah.miller@yahoo.com,Jacksonville,Cash on Delivery,Returned,0.12,5
+ORD-67133,Plant Pot,Home & Garden,1,392.63,45107,Daniel Williams,daniel.williams@gmail.com,Seattle,PayPal,Completed,0.08,1
+ORD-28659,Biography,Books,4,496.56,45621,Jane Davis,jane.davis@yahoo.com,Charlotte,Bank Transfer,Cancelled,0.13,2
+ORD-94974,Vitamins,Health,4,386.91,45305,Michael Rodriguez,,Phoenix,Google Pay,Shipped,0.22,4
+ORD-70593,Cycling Helmet,Sports,3,68.46,45026,John Jones,john.jones@gmail.com,Jacksonville,Credit Card,Completed,0.12,4
+ORD-86349,Magazine,Books,4,145.89,45398,James Johnson,james.johnson@hotmail.com,Denver,Credit Card,Shipped,0.17,5
+ORD-68567,Air Freshener,Automotive,3,258.095,45358,,john.hernandez@yahoo.com,San Antonio,Debit Card,Returned,0.15,2
+ORD-89325,Mirror,Home & Garden,5,129.54,10/23/2023,Daniel Garcia,daniel.garcia@icloud.com,Washington,PayPal,Pending,0.16,5
+ORD-98060,First Aid Kit,Health,2,374.9,45534,,james.hernandez@gmail.com,Austin,Apple Pay,Cancelled,0.24,1
+ORD-27783,Car Charger,Automotive,1,468.92,45315,,laura.johnson@gmail.com,Austin,Credit Card,Returned,0.2,3
+ORD-97670,Toothbrush,Health,5,258.095,05/19/2023,David Garcia,david.garcia@outlook.com,New York,Credit Card,Completed,0.01,1
+ORD-78113,Hat,Clothing,4,415.08,45060,James Rodriguez,james.rodriguez@aol.com,Indianapolis,Apple Pay,Returned,,2
+ORD-83899,Curtain,Home & Garden,3,234.13,,David Williams,david.williams@aol.com,Houston,Google Pay,Completed,0.25,3
+ORD-62168,Poetry,Books,3,478.32,45100,Chris Martinez,chris.martinez@gmail.com,Columbus,PayPal,Cancelled,0.1,1
+ORD-29637,Action Figure,Toys,5,196.14,,William Williams,no_email,Philadelphia,PayPal,Shipped,0.21,6
+ORD-80432,Webcam,Electronics,4,103.38,45039,David Brown,david.brown@yahoo.com,Philadelphia,Debit Card,Returned,0.03,3
+ORD-60934,History Book,Books,5,465.72,,Chris Rodriguez,chris.rodriguez@outlook.com,Chicago,Google Pay,Refunded,0.12,10
+ORD-91453,Supplements,Health,4,19.26,45170,Lisa Miller,lisa.miller@outlook.com,Phoenix,Cash on Delivery,Completed,0.28,4
+ORD-48748,Air Freshener,Automotive,5,454.68,,Maria Garcia,maria.garcia@gmail.com,Columbus,Debit Card,Refunded,,1
+ORD-15411,Cycling Helmet,Sports,3,230.75,45087,David Gonzalez,david.gonzalez@outlook.com,chicago,Apple Pay,Returned,0.19,5
+ORD-93575,History Book,Books,3,197.31,45390,John Johnson,john.johnson@icloud.com,Seattle,PayPal,Refunded,0.12,4
+ORD-30550,Vase,Home & Garden,5,297.83,03/14/2024,David Martinez,,Indianapolis,Bank Transfer,Cancelled,0.23,2
+ORD-68817,Seat Cover,Automotive,3,483.65,45483,Chris Johnson,@gmail.com,PHILADELPHIA,Cash on Delivery,Refunded,0.05,10
+ORD-85170,Sneakers,Clothing,2,258.095,07/26/2024,David Gonzalez,david.gonzalez@outlook.com,Los Angeles,Google Pay,Returned,0.09,4
+ORD-50234,Gloves,Clothing,3,487.16,04/14/2024,Michael Rodriguez,michael.rodriguez@aol.com,Houston,Google Pay,Returned,0.03,1
+ORD-46469,Headphones,Electronics,2,72.18,45109,Anna Lopez,anna.lopez@gmail.com,San Diego,PayPal,Shipped,0.19,3
+ORD-58125,Monitor,Electronics,4,258.095,06/25/2023,Anna Davis,invalid_email,San Francisco,PayPal,Refunded,,3
+ORD-33943,Tire Pressure Gauge,Automotive,1,371.48,,ROBERT LOPEZ,robert.lopez@gmail.com,Jacksonville,PayPal,Refunded,0.2,4
+ORD-25765,Shelf,Books,2,303.73,45392,Jane Hernandez,,Los Angeles,Cash on Delivery,Refunded,0.27,5
+ORD-85233,Comic,Books,5,182.94,44944,Robert,robert.davis@icloud.com,Houston,PayPal,Returned,0.06,4
+ORD-63904,Monitor,Electronics,1,495.74,45338,Robert Davis,robert.davis@icloud.com,San Diego,Credit Card,Returned,0.3,1
+ORD-33813,Yoga Mat,Sports,1,427.03,45208,Jane Gonzalez,jane.gonzalez@gmail.com,Fort Worth,Cash on Delivery,Completed,0.04,2
+ORD-18668,Clock,Home & Garden,3,417.1,45172,John Martinez,john.martinez@hotmail.com,San Diego,Cash on Delivery,Completed,0.07,1
+ORD-76325,Novel,Books,5,372.12,05/26/2023,Sarah Smith,sarah.smith@gmail.com,Philadelphia,PayPal,Pending,0.28,5
+ORD-96797,Seat Cover,Automotive,4,293.37,45653,David Gonzalez,david.gonzalez@yahoo.com,NYC,PayPal,Returned,0.19,1
+ORD-20190,Supplements,Health,1,85.62,01/16/2023,Robert Martinez,robert.martinez@icloud.com,San Antonio,Credit Card,Shipped,0.18,5
+ORD-80697,Monitor,Electronics,3,285.84,45263,Laura Rodriguez,laura.rodriguez@aol.com,Fort Worth,Credit Card,Completed,0.07,
+ORD-69800,Cycling Helmet,Sports,4,204.36,45180,Laura Gonzalez,laura.gonzalez@icloud.com,  Fort Worth  ,Google Pay,Pending,0.09,5
+ORD-28894,Smart Watch,Electronics,2,415.08,45318,Emily Smith,,Austin,PayPal,Cancelled,0,1
+ORD-58773,Doll,Toys,5,47.79,45294,Anna Hernandez,anna.hernandez@icloud.com,Philadelphia,Bank Transfer,Cancelled,0.16,3
+ORD-38016,Usb-C Cable,Electronics,4,366.6,45425,JOHN MARTINEZ,john.martinez@icloud.com,Chicago,Apple Pay,Pending,0.02,3
+ORD-63440,Puzzle,Toys,4,152.42,45583,Maria Hernandez,maria.hernandez@icloud.com,  San Diego  ,Google Pay,Refunded,0.23,1
+ORD-10183,Hoodie,Clothing,5,82.03,45178,Chris Gonzalez,chris.gonzalez@yahoo.com,Los Angeles,Cash on Delivery,Shipped,1.5,2
+ORD-90534,Vase,Home & Garden,5,25.39,45583,William Martinez,william.martinez@hotmail.com,FORT WORTH,PayPal,Returned,0.1,5
+ORD-59400,Tire Pressure Gauge,Automotive,3,46.43,45129,Maria Gonzalez,,New York,Apple Pay,Returned,0.02,4
+ORD-14904,Gloves,Clothing,2,191.93,45131,Chris Brown,invalid_email,Phoenix,Credit Card,Returned,0.25,3
+ORD-90114,Jeans,Clothing,1,406.7,11/29/2023,William Brown,william.brown@outlook.com,PHILADELPHIA,Google Pay,,0.28,3
+ORD-31109,Led Bulb,Automotive,1,451.01,,Emily Davis,emily.davis@aol.com,  Houston  ,Credit Card,Refunded,0.25,5
+ORD-24626,Led Bulb,Automotive,1,369.52,04/23/2023,Jane Gonzalez,jane.gonzalez@yahoo.com,Seattle,Apple Pay,Refunded,0.13,5
+ORD-52972,Floor Mat,Automotive,1,410.43,45371,,laura.garcia@outlook.com,Indianapolis,Cash on Delivery,Completed,0.03,4
+ORD-14988,Doll,Toys,4,98.87,44995,Daniel Garcia,daniel.garcia@aol.com,Charlotte,Apple Pay,Returned,0.11,5
+ORD-56076,Massage Roller,Health,4,193.25,45339,John Davis,john.davis@hotmail.com,Houston,Bank Transfer,Pending,0.28,2
+ORD-86066,Keyboard,Electronics,5,357.54,45325,Maria Jones,maria.jones@aol.com,Indianapolis,Bank Transfer,Shipped,0.04,4
+ORD-16993,Shelf,Home & Garden,3,423.17,45341,,sarah.lopez@yahoo.com,Columbus,Debit Card,Refunded,0.01,1
+ORD-76476,Webcam,Electronics,4,78.87,07/13/2023,null,james.rodriguez@gmail.com,Philadelphia,Bank Transfer,Cancelled,5,1
+ORD-25338,Cookbook,Books,1,258.095,45474,NULL,james.williams@icloud.com,New York,Apple Pay,Completed,0.09,4
+ORD-30770,Curtain,Home & Garden,3,260.93,,Maria Williams,maria.williams@yahoo.com,San Francisco,Debit Card,Completed,0.19,5
+ORD-85009,Soccer Ball,Sports,3,257.93,45565,Daniel Lopez,daniel.lopez@yahoo.com,Indianapolis,Apple Pay,Shipped,0.26,2
+ORD-92208,Jacket,Clothing,1,25.77,45493,,daniel.johnson@aol.com,Jacksonville,PayPal,Completed,0.04,3
+ORD-14089,Smart Watch,Electronics,5,187.18,45308,Chris Gonzalez,chris.gonzalez@yahoo.com,New York,Cash on Delivery,Refunded,0.01,2
+ORD-87453,Sci-Fi Book,Books,3,372.5,45112,Jane Gonzalez,jane.gonzalez@gmail.com,Indianapolis,Apple Pay,Completed,0.28,2
+ORD-25899,Cycling Helmet,Sports,2,484.87,45491,Daniel Williams,,Phoenix,PayPal,Returned,0.02,2
+ORD-32757,Lego Set,Toys,1,259.51,45646,Jane Rodriguez,jane.rodriguez@yahoo.com,Columbus,Google Pay,Pending,0.13,1
+ORD-40913,Sci-Fi Book,Books,3,205.81,45305,Lisa Hernandez,lisa.hernandez@hotmail.com,Austin,Apple Pay,Cancelled,0.15,2
+ORD-94071,Doll,Toys,3,300.42,45324,Sarah Williams,sarah.williams@gmail.com,Indianapolis,Google Pay,Refunded,0.12,5
+ORD-60895,Thermometer,Health,5,19.01,45544,Emily Lopez,emily.lopez@aol.com,Philadelphia,Credit Card,Cancelled,0.17,2
+ORD-93395,Toothbrush,Health,5,258.095,45441,Michael Hernandez,michael.hernandez@yahoo.com,San Antonio,PayPal,Returned,0.1,4
+ORD-12472,Hand Sanitizer,Health,3,18.6,05/16/2024,David,david.lopez@hotmail.com,Columbus,Bank Transfer,Pending,0.21,5
+ORD-45159,Hand Sanitizer,Health,3,324.35,45537,Sarah Davis,sarah.davis@gmail.com,Washington,Apple Pay,Refunded,0.18,4
+ORD-61489,Supplements,Health,2,174.38,45487,Jane Hernandez,jane.hernandez@yahoo.com,Chicago,PayPal,Shipped,0.03,
+ORD-86993,Thermometer,Health,3,57.32,45327,,robert.miller@outlook.com,San Jose,Cash on Delivery,Cancelled,0.1,5
+ORD-46040,Lamp,Home & Garden,4,75.21,45006,Emily Miller,emily.miller@yahoo.com,Austin,PayPal,Completed,0.1,1
+ORD-75423,Gym Bag,Sports,4,27.29,06/14/2023,Sarah Jones,sarah.jones@gmail.com,San Francisco,Cash on Delivery,NULL,0.26,10
+ORD-64610,Wireless Mouse,Electronics,3,55.89,08/19/2024,Anna Rodriguez,anna.rodriguez@aol.com,Phoenix,PayPal,Pending,0.21,4
+ORD-96039,Tennis Racket,Sports,4,296.73,45389,  John Martinez  ,john.martinez@aol.com,Seattle,Apple Pay,Pending,0.08,5
+ORD-98363,First Aid Kit,Health,5,258.095,45019,Jane Williams,jane.williams@gmail.com,Dallas,Debit Card,Shipped,0.19,3
+ORD-42053,Plush Toy,Toys,1,371.63,45353,Jane Martinez,jane.martinez@gmail.com,Charlotte,Card,Shipped,0.11,2
+ORD-80791,Floor Mat,Automotive,2,299.86,45013,Lisa Jones,lisa.jones@aol.com,INDIANAPOLIS,Debit Card,Refunded,0.01,2
+ORD-67013,Monitor,Electronics,1,165.81,45543,Lisa Martinez,lisa.martinez@outlook.com,,Bank Transfer,Returned,0.28,3
+ORD-17969,Board Came,Toys,4,384.45,45233,David Gonzalez,david.gonzalez@gmail.com,,Credit Card,Cancelled,,4
+ORD-35127,Magazine,Books,1,212.41,44949,Michael Jones,michael.jones@outlook.com,San Francisco,Bank Transfer,Pending,0.07,5
+ORD-50817,First Aid Kit,Health,3,258.095,45250,JAMES,james.miller@hotmail.com,San Francisco,PayPal,Completed,0.16,1
+ORD-19806,Thermometer,Health,5,229.27,45592,Sarah Garcia,sarah.garcia@aol.com,Seattle,Apple Pay,Returned,,1
+ORD-78786,Basketball,Sports,3,108.57,45242,Maria Johnson,maria.johnson@yahoo.com,Houston,,Returned,0.19,2
+ORD-57566,Socks,Clothing,1,258.095,45423,Sarah Miller,sarah.miller@yahoo.com,San Jose,Apple Pay,Returned,0.06,4
+ORD-14873,Floor Mat,Automotive,5,129.59,45389,,maria.davis@gmail.com,San Antonio,Cash on Delivery,Shipped,0,2
+ORD-42581,Toothbrush,Health,3,237.3,45430,John Rodriguez,john.rodriguez@icloud.com,,Apple Pay,Completed,0.29,5
+ORD-68794,Doll,Toys,2,275.77,45358,Laura Rodriguez,laura.rodriguez@gmail.com,Washington,Debit Card,Pending,0.03,3
+ORD-70613,Action Figure,Toys,3,233.02,45481,Sarah Garcia,sarah.garcia@yahoo.com,Los Angeles,Debit Card,Refunded,,5
+ORD-23178,Card Came,Toys,5,72.46,45085,Laura Gonzalez,laura.gonzalez@aol.com,San Diego,Cash on Delivery,Pending,0,3
+ORD-40305,Shorts,Clothing,3,258.095,45104,Daniel Rodriguez,daniel.rodriguez@yahoo.com,San Jose,Apple Pay,Pending,0.05,1
+ORD-47679,Webcam,Electronics,1,416.75,44952,Unknown,william.martinez@hotmail.com,Dallas,PayPal,Returned,0.15,5
+ORD-26548,Tennis Racket,Sports,2,58.56,45390,William Martinez,william.martinez@aol.com,Jacksonville,Debit Card,Completed,0.2,1
+ORD-34388,Running Shoes,Sports,3,172.24,45423,Anna Smith,anna.smith@hotmail.com,,Cash on Delivery,Refunded,0.21,2
+ORD-70672,Shelf,Books,2,71.4,45638,N/A,daniel.johnson@outlook.com,Phoenix,PayPal,NULL,0.09,4
+ORD-93101,Sci-Fi Book,Books,5,460.96,09/16/2023,James,james.rodriguez@gmail.com,  Columbus  ,,Returned,0.02,2
+ORD-84041,Smart Watch,Electronics,5,425.59,04/24/2023,William Gonzalez,william.gonzalez@icloud.com,Houston,Google Pay,Cancelled,0.25,
+ORD-13824,Tire Pressure Gauge,Automotive,3,406.34,11/18/2023,Robert Brown,robert.brown@outlook.com,Dallas,Apple Pay,Pending,0.24,3
+ORD-88128,Vitamins,Health,5,33.68,45053,CHRIS BROWN,chris.brown@yahoo.com,San Antonio,Debit Card,Shipped,0.26,
+ORD-36736,Magazine,Books,2,398.31,45424,Chris Miller,chris.miller@outlook.com,Fort Worth,Cash on Delivery,Shipped,0.18,3
+ORD-66155,Sunscreen,Health,1,80.66,45537,Laura Rodriguez,laura.rodriguez@icloud.com,Austin,Cash on Delivery,Pending,0.19,2
+ORD-51180,Toothbrush,Health,3,498.07,45198,Daniel Brown,daniel.brown@aol.com,Seattle,Credit Card,Pending,0.22,3
+ORD-65905,Puzzle,Toys,3,35.5,44988,William Lopez,william.lopez@hotmail.com,Chicago,Bank Transfer,Cancelled,,3
+ORD-94823,Sci-Fi Book,Books,2,233.42,45306,Sarah Garcia,sarah.garcia@icloud.com,Phoenix,Google Pay,Pending,0.19,5
+ORD-91721,Jacket,Clothing,5,100.64,45311,James Lopez,james.lopez@gmail.com,San Francisco,Cash on Delivery,Shipped,0.02,5
+ORD-68167,Sci-Fi Book,Books,4,258.095,45583,Sarah Williams,sarah.williams@yahoo.com,San Francisco,Google Pay,Refunded,0.22,4
+ORD-39428,History Book,Books,1,93.14,45622,Chris Garcia,chris.garcia@aol.com,Phoenix,Bank Transfer,Completed,0.22,2
+ORD-52601,Rug,Home & Garden,3,312,45446,Robert Williams,robert.williams@aol.com,Denver,Credit Card,Shipped,0.12,4
+ORD-37884,Tire Pressure Gauge,Automotive,1,404.57,45563,James Lopez,james.lopez@gmail.com,Fort Worth,Google Pay,Shipped,0.1,1
+ORD-98571,Building Blocks,Toys,4,452.24,45284,Robert Miller,robert.miller@aol.com,Dallas,Debit Card,Completed,0.01,4
+ORD-54650,Floor Mat,Automotive,5,76.17,45208,David Lopez,david.lopez@gmail.com,Columbus,Google Pay,Pending,0.23,4
+ORD-93465,Phone Mount,Automotive,5,118.7,45464,Michael Rodriguez,michael.rodriguez@gmail.com,NYC,Credit Card,Cancelled,0.18,5
+ORD-63708,Car Charger,Automotive,4,25.24,02/21/2024,Lisa Williams,lisa.williams@gmail.com,Jacksonville,Bank Transfer,Returned,0.05,2
+ORD-54228,Hoodie,Clothing,2,258.095,45457,David Lopez,david.lopez@hotmail.com,Denver,PayPal,Completed,0.08,3
+ORD-48922,Cycling Helmet,Sports,2,308,,Sarah Johnson,sarah.johnson@hotmail.com,Unknown City,Google Pay,Pending,0.09,2
+ORD-18476,Rc Car,Toys,3,391.47,03/15/2024,James Gonzalez,james.gonzalez@outlook.com,  AUSTIN  ,Debit Card,Returned,0.23,1
+ORD-82199,Tennis Racket,Sports,3,26.33,,Laura Johnson,laura.johnson@gmail.com,San Francisco,Cash on Delivery,Pending,0.08,2
+ORD-63609,Doll,Toys,4,137.82,44973,Daniel Williams,,New York,Bank Transfer,Completed,0.06,2
+ORD-96646,Lamp,Home & Garden,1,372.15,45414,  Jane Davis  ,jane.davis@icloud.com,New York,Apple Pay,Completed,0.04,3
+ORD-72843,Euzzle,Toys,3,258.095,45340,Sarah Jones,,Seattle,Bank Transfer,Cancelled,0.04,5
+ORD-81351,Yoga Mat,Sports,1,115.76,45422,Maria Gonzalez,maria.gonzalez@aol.com,Fort Worth,Credit Card,Pending,0.06,1
+ORD-70604,Novel,Books,5,351.69,,David Williams,david.williams@outlook.com,Fort Worth,Cash on Delivery,Refunded,0.29,3
+ORD-27865,Led Bulb,Automotive,4,399.99,45488,David Miller,david.miller@gmail.com,Washington,Bank Transfer,Completed,0.19,5
+ORD-87433,Shelf,Books,4,5.72,09/17/2023,Lisa Johnson,lisa.johnson@gmail.com,,PayPal,Completed,0.13,1
+ORD-90828,Jacket,Clothing,5,222.91,10/28/2024,Lisa Lopez,lisa.lopez@aol.com,San Diego,Google Pay,Pending,0.29,4
+ORD-48293,Dash Cam,Automotive,3,374.99,45074,David Brown,david.brown@hotmail.com,Charlotte,Google Pay,Cancelled,0.13,
+ORD-60067,Poetry,Books,3,429.82,45371,Michael Davis,michael.davis@aol.com,Philadelphia,Apple Pay,Cancelled,0.22,4
+ORD-29672,Table,Home & Garden,4,258.095,,Unknown,robert.gonzalez@outlook.com,New York,Bank Transfer,Completed,0.26,3
+ORD-86718,Monitor,Electronics,1,265.05,11/30/2023,William Davis,william.davis@outlook.com,San Francisco,Google Pay,Cancelled,-0.1,3
+ORD-22039,Plush Toy,Toys,3,258.095,45495,Lisa Miller,lisa.miller@aol.com,Phoenix,Cash on Delivery,Shipped,0.06,2
+ORD-87194,Massage Roller,Health,1,198.84,44960,Lisa Brown,lisa.brown@hotmail.com,Chicago,Credit Card,Completed,0.22,4
+ORD-48509,Webcam,Electronics,4,258.095,45305,John Lopez,,,Google Pay,Refunded,0.23,4
+ORD-53624,Running Shoes,Sports,4,171.69,45585,Michael Martinez,,San Diego,Bank Transfer,Returned,0.19,2
+ORD-53914,Air Freshener,Automotive,1,258.095,45272,Anna Hernandez,anna.hernandez@yahoo.com,LA,Debit Card,Shipped,0.02,4
+ORD-94862,Scarf,Clothing,5,288.85,45479,William Miller,william.miller@yahoo.com,  San Diego  ,Credit Card,Shipped,0.15,1
+ORD-74833,Vase,Home & Garden,3,138.02,44985,,lisa.lopez@aol.com,San Diego,Cash on Delivery,Pending,0.07,
+ORD-19562,Sci-Fi Book,Books,4,372.94,45421,Lisa Brown,lisa.brown@icloud.com,San Jose,Card,Cancelled,0.22,2
+ORD-50815,Soccer Ball,Sports,1,472.37,45063,David Hernandez,david.hernandez@outlook.com,,Apple Pay,Cancelled,0.18,1
+ORD-12583,Water Bottle,Sports,3,72.03,45199,Lisa Garcia,lisa.garcia@hotmail.com,San Diego,,Cancelled,0.05,2
+ORD-34063,Supplements,Health,3,474.55,45424,,maria.lopez@aol.com,Austin,Debit Card,Shipped,0.15,1
+ORD-14707,Sunscreen,Health,4,143.88,45257,Laura Miller,laura.miller@icloud.com,Charlotte,Debit Card,Refunded,0.18,4
+ORD-59264,Oil Filter,Automotive,2,375.93,45648,Daniel Jones,daniel.jones@aol.com,Indianapolis,Credit Card,Cancelled,0.13,5
+ORD-83327,Science Kit,Toys,1,452.63,45261,Laura Miller,laura.miller@gmail.com,Austin,Debit Card,Refunded,0.15,5
+ORD-83393,Scarf,Clothing,1,297.37,45446,Maria Garcia,Maria@,New York,PayPal,Cancelled,0.04,2
+ORD-43089,Floor Mat,Automotive,5,194.18,45178,  Anna Miller  ,anna.miller@gmail.com,san antonio,Cash on Delivery,Refunded,0.22,1
+ORD-56569,Socks,Clothing,2,351.72,05/25/2024,Chris Smith,chris.smith@yahoo.com,Austin,Debit Card,Returned,0.23,5
+ORD-10110,Building Blocks,Toys,1,105.08,45178,Emily Williams,emily.williams@aol.com,  Charlotte  ,Money,Completed,0.07,3
+ORD-30473,Yoga Mat,Sports,3,226.56,45602,Sarah Smith,sarah.smith@yahoo.com,Fort Worth,Debit Card,Shipped,0.11,5
+ORD-23423,Cycling Helmet,Sports,1,388.94,45529,Michael Gonzalez,michael.gonzalez@icloud.com,San Jose,Cash on Delivery,Cancelled,0.26,2
+ORD-25142,Comic,Books,3,468.29,01/28/2024,David Lopez,david.lopez@outlook.com,SEATTLE,Credit Card,Shipped,0.01,5
+ORD-99899,Socks,Clothing,1,72.51,45633,daniel gonzalez,,Seattle,Debit Card,Refunded,0.19,5
+ORD-12751,Hoodie,Clothing,4,315.55,45086,Maria Hernandez,maria.hernandez@icloud.com,Columbus,Cash on Delivery,Pending,0.04,4
+ORD-66573,Hoodie,Clothing,2,258.095,45259,Daniel Williams,daniel.williams@hotmail.com,San Francisco,Google Pay,Refunded,,2
+ORD-58258,Hand Sanitizer,Health,1,134.36,,William Johnson,william.johnson@icloud.com,Philadelphia,Cash on Delivery,Returned,0.22,3
+ORD-22395,Floor Mat,Automotive,1,253.38,04/16/2023,Michael Garcia,michael.garcia@yahoo.com,Indianapolis,Debit Card,Shipped,0.22,3
+ORD-20484,Power Bank,Electronics,3,435.69,12/22/2024,David Williams,,Dallas,PayPal,Cancelled,0.25,
+ORD-62439,Biography,Books,3,125.14,45304,  Chris Gonzalez  ,chris.gonzalez@aol.com,JACKSONVILLE,Cash on Delivery,Pending,-0.1,3
+ORD-92596,Lamp,Home & Garden,3,116.44,45572,Sarah Rodriguez,sarah.rodriguez@outlook.com,Jacksonville,Apple Pay,Cancelled,,1
+ORD-65058,Cycling Helmet,Sports,5,293.65,45416,John Williams,john.williams@outlook.com,Seattle,Credit Card,Returned,0.25,3
+ORD-15704,Vitamins,Health,2,258.095,45333,Daniel Gonzalez,daniel.gonzalez@yahoo.com,San Diego,Cash on Delivery,Refunded,0.05,2
+ORD-35929,Cycling Helmet,Sports,2,134.59,45067,Emily Jones,emily.jones@icloud.com,Chicago,Google Pay,Refunded,0.28,5
+ORD-16169,Webcam,Electronics,5,22.82,45568,Emily Hernandez,emily.hernandez@outlook.com,Denver,Credit Card,Pending,0.24,5
+ORD-24478,T-Shirt,Clothing,2,20.75,45428,Emily,emily.martinez@gmail.com,Jacksonville,Cash on Delivery,Refunded,0.09,1
+ORD-64596,Monitor,Electronics,5,293.84,45561,JAMES BROWN,james.brown@aol.com,Washington,PayPal,Returned,0.29,5
+ORD-10746,Poetry,Books,5,433.21,,Emily Rodriguez,emily.rodriguez@yahoo.com,Chicago,Bank Transfer,Completed,0.01,3
+ORD-30118,Hand Sanitizer,Health,1,206.36,45150,Unknown,emily.jones@gmail.com,San Jose,Google Pay,Refunded,0.1,5
+ORD-22567,Rc Car,Toys,1,169.96,44928,Laura Hernandez,laura.hernandez@outlook.com,San Diego,Debit Card,Shipped,0.22,6
+ORD-24026,Plant Pot,Home & Garden,3,479.85,45640,Anna Hernandez,anna.hernandez@gmail.com,Columbus,Google Pay,Returned,0.01,
+ORD-37228,Sci-Fi Book,Books,2,477.9,45176,Anna Miller,anna.miller@hotmail.com,New York,PayPal,Refunded,0.23,2
+ORD-91075,Cookbook,Books,1,312.22,44974,Maria Garcia,maria.garcia@icloud.com,  Jacksonville  ,Apple Pay,Shipped,0.28,
+ORD-25221,Cookbook,Books,4,327.03,45187,Chris Lopez,chris.lopez@outlook.com,San Francisco,Credit Card,Refunded,0.24,1
+ORD-86429,Gym Bag,Sports,3,271.33,,LISA RODRIGUEZ,lisa.rodriguez@outlook.com,Jacksonville,Bank Transfer,Pending,0.03,2
+ORD-43179,Supplements,Health,1,459.76,45603,Daniel Miller,daniel.miller@outlook.com,Los Angeles,Card,,0.2,4
+ORD-42397,Biography,Books,2,396.54,45324,Laura Williams,laura.williams@hotmail.com,Denver,PayPal,Cancelled,0.11,1
+ORD-72391,Tennis Racket,Sports,3,94.1,45569,John Rodriguez,john.rodriguez@icloud.com,San Antonio,Apple Pay,Completed,0.06,4
+ORD-54368,Soccer Ball,Sports,5,306.74,44997,John Gonzalez,john.gonzalez@icloud.com,Jacksonville,Google Pay,Pending,0.09,1
+ORD-39272,Comic,Books,3,31.57,09/27/2024,Anna Hernandez,anna.hernandez@yahoo.com,Charlotte,Debit Card,Returned,0.06,2
+ORD-51063,Water Bottle,Sports,4,331.26,45117,John Gonzalez,john.gonzalez@aol.com,phoenix,Bank Transfer,Cancelled,0.08,1
+ORD-62037,Jeans,Clothing,4,145.67,,Sarah Davis,sarah.davis@aol.com,Charlotte,Cash on Delivery,Cancelled,0.13,A
+ORD-72238,Dumbbell,Sports,4,27.57,45324,Sarah Hernandez,sarah.hernandez@icloud.com,,Credit Card,Shipped,1.5,
+ORD-57281,Massage Roller,Health,1,18.27,45055,William Davis,william.davis@outlook.com,Charlotte,Credit Card,Returned,0.15,10
+ORD-47976,Table,Home & Garden,4,237.44,09/13/2023,Jane Gonzalez,jane.gonzalez@icloud.com,Charlotte,Cash on Delivery,Completed,0.04,2
+ORD-82911,Massage Roller,Health,1,287.16,45379,Sarah Rodriguez,sarah.rodriguez@outlook.com,Houston,Credit Card,Cancelled,,2
+ORD-96620,Card Came,Toys,2,414.75,44959,Laura Martinez,laura.martinez@hotmail.com,san jose,Bank Transfer,Completed,0.13,4
+ORD-71481,Plant Pot,Home & Garden,3,356.55,45547,Michael Smith,michael.smith@aol.com,San Francisco,Bank Transfer,Pending,0.24,3
+ORD-31983,Building Blocks,Toys,2,430.5,44991,Lisa Martinez,lisa.martinez@yahoo.com,New York,Debit Card,Cancelled,0.24,5
+ORD-20262,Lego Set,Toys,5,305.32,45037,James Martinez,james.martinez@yahoo.com,  Washington  ,Debit Card,Shipped,0.07,3
+ORD-28251,Chair,Home & Garden,5,464.33,45477,,michael.miller@hotmail.com,Denver,Apple Pay,Completed,0.3,3
+ORD-92689,Seat Cover,Automotive,3,215.03,45011,Daniel Miller,daniel.miller@hotmail.com,San Francisco,Google Pay,Shipped,0.17,4
+ORD-29917,Basketball,Sports,2,132.16,45085,John Brown,john.brown@icloud.com,,Credit Card,Returned,0.03,1
+ORD-86009,Comic,Books,3,55.63,45521,Lisa Hernandez,lisa.hernandez@gmail.com,  Philadelphia  ,Bank Transfer,Completed,0.17,2
+ORD-58653,Dash Cam,Automotive,5,290.45,45416,David Hernandez,no_email,Houston,PayPal,Shipped,0.06,4
+ORD-73738,Shelf,Books,3,213.33,45243,Chris Martinez,chris.martinez@yahoo.com,LOS ANGELES,,Returned,0.13,1
+ORD-61498,Air Freshener,Automotive,5,107.44,45411,Laura Davis,laura.davis@outlook.com,Dallas,PayPal,Completed,0.12,1
+ORD-63896,Doll,Toys,5,102.55,45453,Sarah Brown,sarah.brown@aol.com,Dallas,Bank Transfer,Returned,0.08,3
+ORD-87330,Scarf,Clothing,3,429.68,45038,Jane Miller,jane.miller@yahoo.com,San Diego,Apple Pay,Refunded,0.22,3
+ORD-37779,Hoodie,Clothing,5,435.32,11/25/2023,Sarah Hernandez,sarah.hernandez@yahoo.com,,Google Pay,Cancelled,0.08,3
+ORD-46449,Gym Bag,Sports,4,39.91,45427,Maria Jones,maria.jones@icloud.com,Fort Worth,Apple Pay,Completed,0.07,1
+ORD-59554,Basketball,Sports,1,440.09,05/16/2023,Robert Brown,robert.brown@icloud.com,NYC,Credit Card,Shipped,0.12,2
+ORD-90976,Hand Sanitizer,Health,1,258.095,45551,Emily Davis,emily.davis@hotmail.com,Washington,Credit Card,,0.22,4
+ORD-69887,Laptop Stand,Electronics,2,8.82,45628,Lisa Smith,lisa.smith@icloud.com,Washington,PayPal,,0.26,5
+ORD-72058,History Book,Books,3,76.13,45568,Michael Williams,michael.williams@aol.com,New York,Google Pay,Cancelled,0.13,4
+ORD-23949,Textbook,Books,1,258.095,45349,CHRIS GONZALEZ,chris.gonzalez@aol.com,Phoenix,Credit Card,Completed,0.02,1
+ORD-15921,Sci-Fi Book,Books,1,171.16,45485,Laura Smith,laura.smith@icloud.com,  San Francisco  ,Cash on Delivery,Completed,0.29,2
+ORD-45305,Thermometer,Health,5,103.24,45060,,chris.gonzalez@yahoo.com,San Jose,PayPal,Done,0.14,4
+ORD-70284,Water Bottle,Sports,4,368.06,45299,Robert Brown,robert.brown@icloud.com,Columbus,Google Pay,Refunded,0.1,5
+ORD-79355,Smart Watch,Electronics,1,432.35,45287,Daniel Davis,daniel.davis@icloud.com,JACKSONVILLE,Credit Card,Shipped,0.27,2
+ORD-83051,Jacket,Clothing,3,208.57,45579,Emily Johnson,emily.johnson@icloud.com,New York,Google Pay,Pending,,1
+ORD-87404,Seat Cover,Automotive,1,115.28,45311,Robert Hernandez,robert.hernandez@outlook.com,Fort Worth,Cash on Delivery,Returned,0.24,3
+ORD-81859,Oil Filter,Automotive,1,156.5,12/15/2023,John Gonzalez,john.gonzalez@icloud.com,Charlotte,PayPal,Refunded,0.01,5
+ORD-56312,Monitor,Electronics,1,166.27,45352,Michael Smith,michael.smith@outlook.com,  New York  ,Credit Card,Shipped,0.15,2
+ORD-91953,Cycling Helmet,Sports,1,458.7,45082,  Robert Williams  ,robert.williams@yahoo.com,Fort Worth,,Completed,0.28,5
+ORD-58069,Shorts,Clothing,3,310.88,44987,William Williams,william.williams@hotmail.com,NULL,,Cancelled,0.07,4
+ORD-84403,Gym Bag,Sports,5,5.34,05/14/2023,Anna Garcia,anna.garcia@icloud.com,Jacksonville,Debit Card,Cancelled,0.19,5
+ORD-46780,Clock,Home & Garden,1,317.66,45531,Robert Rodriguez,robert.rodriguez@aol.com,San Francisco,Bank Transfer,Returned,0.13,2
+ORD-17560,Usb-C Cable,Electronics,3,258.095,45572,Robert Garcia,robert.garcia@gmail.com,Unknown City,Apple Pay,Done,0.11,1
+ORD-31241,Curtain,Home & Garden,1,66.72,45416,Jane Brown,jane.brown@hotmail.com,Jacksonville,Debit Card,Shipped,0.25,
+ORD-99069,Lamp,Home & Garden,3,384.24,09/13/2024,john martinez,john.martinez@hotmail.com,Houston,Credit Card,Cancelled,0.08,5
+ORD-42017,Basketball,Sports,2,309.89,45553,Maria Miller,maria.miller@icloud.com,San Francisco,PayPal,Returned,0.03,4
+ORD-94640,Biography,Books,3,336.07,45036,Lisa Rodriguez,lisa.rodriguez@yahoo.com,Philadelphia,Credit Card,Cancelled,,5
+ORD-30699,Magazine,Books,3,211.76,45131,,daniel.gonzalez@icloud.com,Denver,Cash on Delivery,Cancelled,0.08,5
+ORD-56944,Water Bottle,Sports,2,119.12,45472,William Rodriguez,william.rodriguez@aol.com,  Denver  ,Bank Transfer,OK,,6
+ORD-88383,Wireless Mouse,Electronics,4,182.26,45300,David Brown,david.brown@yahoo.com,Fort Worth,Money,Pending,0.13,1
+ORD-37295,Gym Bag,Sports,2,448.41,45299,John Gonzalez,john.gonzalez@aol.com,  Indianapolis  ,Credit Card,Pending,0.18,
+ORD-67823,Jacket,Clothing,1,258.095,,Robert Johnson,robert.johnson@aol.com,Austin,Google Pay,Cancelled,,3
+ORD-95236,First Aid Kit,Health,1,258.095,45335,Laura Brown,Laura@,Los Angeles,Card,Refunded,0.03,5
+ORD-37707,Supplements,Health,5,356.24,45463,Daniel Brown,daniel.brown@hotmail.com,FORT WORTH,PayPal,Refunded,0.27,0
+ORD-24920,Phone Mount,Automotive,4,258.095,45090,james davis,james.davis@yahoo.com,,Bank Transfer,Refunded,0.29,5
+ORD-17337,Biography,Books,3,418.55,45584,LISA RODRIGUEZ,lisa.rodriguez@gmail.com,Houston,Bank Transfer,Shipped,0.11,5
+ORD-37681,Chair,Home & Garden,5,28.74,44976,,jane.rodriguez@outlook.com,Dallas,Google Pay,Completed,0.18,2
+ORD-74006,Laptop Stand,Electronics,1,323.93,45364,Daniel Williams,,Austin,Apple Pay,Shipped,0.24,5
+ORD-20528,Floor Mat,Automotive,3,279.03,45303,  James Miller  ,james.miller@gmail.com,Philadelphia,Card,Pending,0.11,4
+ORD-38878,Led Bulb,Automotive,2,481.8,45333,William Jones,invalid_email,Indianapolis,Cash on Delivery,Shipped,0.19,3
+ORD-87309,Plant Pot,Home & Garden,3,221.23,45396,Michael Davis,michael.davis@outlook.com,Dallas,PayPal,Cancelled,0.13,2
+ORD-99760,Oil Filter,Automotive,5,169.57,45336,Maria Miller,maria.miller@aol.com,San Antonio,,Shipped,0.05,2
+ORD-89099,Cycling Helmet,Sports,3,265.28,07/28/2024,Sarah Rodriguez,sarah.rodriguez@aol.com,San Francisco,Credit Card,Cancelled,,3
+ORD-69252,Table,Home & Garden,4,466.69,45210,William Hernandez,william.hernandez@outlook.com,Charlotte,Debit Card,Pending,0.02,5
+ORD-58752,Jeans,Clothing,4,486.93,45397,Chris Williams,chris.williams@yahoo.com,Seattle,Bank Transfer,Pending,0.21,3
+ORD-83832,Lamp,Home & Garden,5,109.32,45640,Lisa Jones,lisa.jones@aol.com,Charlotte,Google Pay,OK,,3
+ORD-49648,Shelf,Books,3,49.22,03/31/2023,Michael Martinez,michael.martinez@outlook.com,Phoenix,Credit Card,Cancelled,0.26,1
+ORD-21736,Massage Roller,Health,5,85.55,45032,James Rodriguez,james.rodriguez@yahoo.com,Los Angeles,,,0.02,4
+ORD-99557,Socks,Clothing,3,452.77,44932,william hernandez,william.hernandez@gmail.com,San Diego,Credit Card,Pending,0.26,3
+ORD-35990,Hand Sanitizer,Health,1,315.46,44994,NULL,james.jones@yahoo.com,Columbus,Debit Card,Pending,0.27,2
+ORD-68971,Jeans,Clothing,1,396.15,12/14/2023,Jane Garcia,jane.garcia@icloud.com,San Diego,Credit Card,Refunded,0.26,2
+ORD-56544,Oil Filter,Automotive,2,464.64,45341,Sarah Brown,sarah.brown@outlook.com,Denver,PayPal,Returned,0.05,
+ORD-55010,Plush Toy,Toys,2,208.75,45614,John Martinez,john.martinez@aol.com,Chicago,Apple Pay,Completed,0.1,3
+ORD-23141,Toothbrush,Health,3,425.96,01/31/2024,David Smith,david.smith@icloud.com,Charlotte,Apple Pay,Cancelled,0.07,1
+ORD-79493,Seat Cover,Automotive,1,309.61,45208,EMILY GONZALEZ,,Columbus,Apple Pay,Completed,0.27,1
+ORD-29937,Biography,Books,3,371.49,45084,James Davis,,Los Angeles,Apple Pay,Refunded,0.05,4
+ORD-43373,Puzzle,Toys,4,98.85,12/28/2023,Robert Martinez,robert.martinez@outlook.com,San Antonio,,Refunded,0.2,5
+ORD-31955,Tire Pressure Gauge,Automotive,5,266.92,45232,james miller,james.miller@aol.com,Philadelphia,Apple Pay,Shipped,0.18,5
+ORD-42447,Mirror,Home & Garden,2,437.84,45296,James Williams,,Indianapolis,Credit Card,Cancelled,0.07,1
+ORD-70548,Rug,Home & Garden,1,494.45,45109,William Lopez,william.lopez@gmail.com,San Francisco,Cash on Delivery,Refunded,0.14,3
+ORD-11321,Keyboard,Electronics,2,355.26,45327,Sarah Lopez,sarah.lopez@aol.com,Phoenix,Bank Transfer,Refunded,0.23,4
+ORD-67264,Floor Mat,Automotive,3,258.095,45476,Chris Gonzalez,chris.gonzalez@hotmail.com,  Phoenix  ,Apple Pay,Shipped,0.1,4
+ORD-67250,Vitamins,Health,5,493.25,,,laura.garcia@outlook.com,charlotte,Cash on Delivery,Cancelled,0.06,
+ORD-65552,Toothbrush,Health,3,493.39,45311,Chris Miller,chris.miller@outlook.com,San Jose,Credit Card,Shipped,0.14,4
+ORD-27037,Science Kit,Toys,3,256.23,44963,Daniel Williams,daniel.williams@aol.com,Charlotte,Cash on Delivery,Refunded,0.04,5
+ORD-92434,Sunscreen,Health,1,18.04,,  David Martinez  ,david.martinez@yahoo.com,New York,Bank Transfer,Cancelled,0.1,1
+ORD-39170,Running Shoes,Sports,5,231.48,44969,David Martinez,david.martinez@gmail.com,Los Angeles,Credit Card,Returned,0.13,3
+ORD-91257,Toothbrush,Health,2,124.41,44987,Maria Garcia,maria.garcia@outlook.com,Indianapolis,Debit Card,Cancelled,0.3,4
+ORD-96122,Face Mask,Health,5,276.38,45467,Robert Davis,robert.davis@hotmail.com,Houston,Credit Card,Shipped,0.13,2
+ORD-33623,Building Blocks,Toys,3,198.59,01/29/2023,Jane Hernandez,jane.hernandez@hotmail.com,San Francisco,Google Pay,Refunded,0.05,5
+ORD-93751,Thermometer,Health,4,258.095,45036,Chris Hernandez,chris.hernandez@hotmail.com,Washington,Cash on Delivery,Pending,0.07,4
+ORD-97900,Face Mask,Health,1,158.1,10/30/2023,David Hernandez,david.hernandez@hotmail.com,Denver,Google Pay,Returned,0.15,2
+ORD-42483,Cookbook,Books,5,116.68,45480,Michael Davis,,indianapolis,,Refunded,0.24,2
+ORD-40961,Webcam,Electronics,3,287.85,45136,Unknown,,  Houston  ,Bank Transfer,Pending,,5
+ORD-45003,Gloves,Clothing,5,394.12,45622,Lisa Brown,invalid_email,Columbus,Credit Card,Returned,0.26,10
+ORD-64808,Thermometer,Health,2,438.14,45572,Chris Johnson,chris.johnson@outlook.com,Houston,Apple Pay,Cancelled,,3
+ORD-57638,Seat Cover,Automotive,3,366.07,45222,,william.miller@aol.com,Columbus,Debit Card,Completed,0.22,3
+ORD-79559,Phone Mount,Automotive,2,94.95,45290,Laura Smith,laura.smith@yahoo.com,Charlotte,PayPal,Refunded,-0.1,4
+ORD-20401,Lamp,Home & Garden,2,201.14,45200,John Smith,john.smith@hotmail.com,PHILADELPHIA,Credit Card,Returned,,3
+ORD-49122,History Book,Books,5,266.52,45028,Sarah Rodriguez,sarah.rodriguez@aol.com,Philadelphia,Credit Card,Refunded,0.28,1
+ORD-94090,Yoga Mat,Sports,5,338.48,45045,James Martinez,james.martinez@aol.com,Austin,Bank Transfer,Returned,0.08,4
+ORD-57932,Running Shoes,Sports,3,81,44980,John Garcia,john.garcia@outlook.com,Seattle,Debit Card,Cancelled,0.06,2
+ORD-60524,Vase,Home & Garden,5,313.94,45302,James Rodriguez,james.rodriguez@yahoo.com,Chicago,Debit Card,Returned,,
+ORD-53013,Shelf,Books,2,84.14,04/18/2023,Emily Rodriguez,emily.rodriguez@yahoo.com,,Card,Cancelled,0.09,4
+ORD-40434,Thermometer,Health,1,412.16,06/17/2024,  Chris Miller  ,chris.miller@yahoo.com,Dallas,Credit Card,Completed,0.23,4
+ORD-72553,Floor Mat,Automotive,4,201.4,45604,Robert Johnson,robert.johnson@gmail.com,Phoenix,PayPal,Shipped,0.19,A
+ORD-82215,Power Bank,Electronics,3,293.8,45211,Laura Hernandez,laura.hernandez@icloud.com,Jacksonville,Credit Card,Cancelled,0.22,4
+ORD-18800,Cookbook,Books,5,229.14,45039,Maria Davis,maria.davis@outlook.com,Austin,Apple Pay,Completed,0.1,1
+ORD-51027,Plush Toy,Toys,4,181.77,45233,Maria Hernandez,maria.hernandez@gmail.com,Phoenix,Card,Pending,0.24,3
+ORD-61626,Air Freshener,Automotive,4,183.64,45243,jane martinez,jane.martinez@hotmail.com,phoenix,,Completed,0.03,3
+ORD-61140,History Book,Books,2,134.64,,Maria Martinez,maria.martinez@gmail.com,San Jose,Google Pay,Refunded,0.07,2
+ORD-91173,Face Mask,Health,1,314.84,45265,  Jane Rodriguez  ,jane.rodriguez@yahoo.com,Phoenix,PayPal,Shipped,0.03,
+ORD-47575,Sneakers,Clothing,4,354.09,45637,Maria Williams,maria.williams@yahoo.com,New York,NULL,Pending,0.12,4
+ORD-35295,Yoga Mat,Sports,2,155.07,45432,Daniel Lopez,daniel.lopez@hotmail.com,Seattle,PayPal,Completed,0.26,3
+ORD-90669,Monitor,Electronics,4,391.53,45172,Chris Gonzalez,chris.gonzalez@aol.com,San Diego,Apple Pay,Shipped,0.28,5
+ORD-91736,Curtain,Home & Garden,4,214.5,45195,David Jones,david.jones@gmail.com,San Diego,PayPal,Completed,0.16,5
+ORD-96889,Card Came,Toys,1,320.07,45594,NULL,lisa.lopez@icloud.com,Charlotte,Apple Pay,Cancelled,0.27,2
+ORD-36563,Hat,Clothing,1,258.095,,Daniel Miller,daniel.miller@hotmail.com,Columbus,Debit Card,Completed,0.09,5
+ORD-22750,Running Shoes,Sports,2,436.62,02/21/2024,John Gonzalez,,Seattle,Credit Card,Cancelled,0.17,
+ORD-64149,Rc Car,Toys,1,337.04,45619,  Emily Garcia  ,emily.garcia@hotmail.com,Austin,Cash on Delivery,Shipped,0.02,2
+ORD-16658,Massage Roller,Health,3,354.31,45634,Lisa Rodriguez,lisa.rodriguez@gmail.com,San Diego,Google Pay,Pending,,3
+ORD-73826,Monitor,Electronics,4,279.67,45484,Daniel Jones,Daniel@,Jacksonville,Cash on Delivery,Cancelled,0.13,
+ORD-32912,Gym Bag,Sports,3,97.32,45190,Emily Gonzalez,emily.gonzalez@gmail.com,Chicago,Credit Card,Shipped,0.25,1
+ORD-88854,Wiper Blade,Automotive,2,358.57,45319,Chris Jones,,San Francisco,Debit Card,Completed,0.04,
+ORD-76062,Shelf,Books,5,263.5,45222,  laura smith  ,laura.smith@outlook.com,Jacksonville,Credit Card,Shipped,0.11,2
+ORD-34080,Poetry,Books,1,15.2,05/22/2024,Michael Johnson,invalid_email,Houston,Apple Pay,Returned,0.04,5
+ORD-37988,Seat Cover,Automotive,2,393.82,,John Gonzalez,john.gonzalez@icloud.com,Seattle,Cash on Delivery,Cancelled,0.21,1
+ORD-48202,Soccer Ball,Sports,4,359.94,45276,David,david.rodriguez@outlook.com,Dallas,Cash on Delivery,Cancelled,0.04,1
+ORD-88519,Bandages,Health,4,352.09,09/22/2023,,michael.gonzalez@outlook.com,Indianapolis,Bank Transfer,Cancelled,0.05,4
+ORD-52434,Yoga Mat,Sports,3,240.75,45553,Emily Rodriguez,emily.rodriguez@outlook.com,Houston,Credit Card,Completed,0.23,3
+ORD-49213,Smart Watch,Electronics,3,453.57,,Maria Martinez,maria.martinez@yahoo.com,Washington,Cash on Delivery,Pending,0.02,5
+ORD-71787,Face Mask,Health,3,258.095,45330,Lisa Smith,lisa.smith@hotmail.com,Chicago,PayPal,Cancelled,0.23,4
+ORD-76676,Comic,Books,3,289.71,45001,Daniel Davis,daniel.davis@hotmail.com,New York,Apple Pay,Pending,0.04,1
+ORD-96449,Card Came,Toys,4,263.8,45511,William Martinez,william.martinez@icloud.com,Seattle,,Refunded,0.25,3
+ORD-28946,Dash Cam,Automotive,5,363.7,06/26/2023,John Jones,john.jones@icloud.com,Seattle,Bank Transfer,Pending,1.5,2
+ORD-41958,Sneakers,Clothing,5,144.23,45202,Maria Davis,maria.davis@hotmail.com,Dallas,Bank Transfer,Cancelled,0.01,1
+ORD-29392,Basketball,Sports,2,258.095,01/23/2023,Robert Hernandez,robert.hernandez@aol.com,Charlotte,Bank Transfer,Shipped,0.11,2
+ORD-62892,Comic,Books,3,108.39,45528,Anna Rodriguez,,WASHINGTON,Cash on Delivery,Cancelled,0.22,4
+ORD-76612,Led Bulb,Automotive,5,311.51,45521,Lisa Johnson,lisa.johnson@icloud.com,Philadelphia,Credit Card,Returned,0.28,4
+ORD-74238,Building Blocks,Toys,1,124.98,45638,John Hernandez,john.hernandez@icloud.com,Austin,Google Pay,Shipped,0.19,1
+ORD-36122,Clock,Home & Garden,4,266.57,11/25/2024,Chris Jones,chris.jones@gmail.com,Houston,Credit Card,Shipped,0.01,3
+ORD-45931,Action Figure,Toys,2,357.49,45308,Michael Brown,michael.brown@icloud.com,Seattle,PayPal,Pending,0.23,1
+ORD-26102,Supplements,Health,4,306.93,44985,Jane Williams,Jane@,Phoenix,Bank Transfer,Completed,0.29,1
+ORD-67674,Phone Mount,Automotive,1,450.18,45394,Robert Rodriguez,robert.rodriguez@outlook.com,Dallas,PayPal,Returned,0.11,4
+ORD-64287,Poetry,Books,3,368.3,45341,,james.lopez@gmail.com,San Francisco,Bank Transfer,Completed,0.05,3
+ORD-85740,Toothbrush,Health,2,254.61,45392,,emily.johnson@aol.com,Denver,Cash on Delivery,Returned,0.16,4
+ORD-28721,Supplements,Health,3,258.095,45132,CHRIS GONZALEZ,chris.gonzalez@aol.com,Chicago,Bank Transfer,Cancelled,0.25,1
+ORD-25937,Keyboard,Electronics,3,167.13,45056,Jane Garcia,jane.garcia@outlook.com,San Antonio,Google Pay,Pending,0.15,3
+ORD-49192,Hoodie,Clothing,4,279.63,45000,Lisa Davis,lisa.davis@aol.com,Philadelphia,Cash on Delivery,Completed,0.14,2
+ORD-19836,Air Freshener,Automotive,4,261.82,45243,Robert Brown,robert.brown@yahoo.com,Chicago,Apple Pay,Pending,0.02,1
+ORD-78822,Cycling Helmet,Sports,1,321.61,45063,Emily,emily.brown@gmail.com,Dallas,,Shipped,0.05,5
+ORD-46291,Sci-Fi Book,Books,5,258.095,45229,Maria Smith,maria.smith@aol.com,Jacksonville,PayPal,Returned,0.23,3
+ORD-70623,Cycling Helmet,Sports,2,180.08,45350,William Johnson,william.johnson@outlook.com,Chicago,Apple Pay,Shipped,0.27,1
+ORD-99622,Wiper Blade,Automotive,1,446.89,45180,John Williams,john.williams@hotmail.com,Jacksonville,Debit Card,Returned,0.27,2
+ORD-72931,Thermometer,Health,2,478.81,45215,Jane Hernandez,jane.hernandez@gmail.com,Chicago,PayPal,Pending,0.28,3
+ORD-97779,Socks,Clothing,5,258.095,45505,David Miller,david.miller@aol.com,Indianapolis,Google Pay,Shipped,0.04,4
+ORD-63982,Smart Watch,Electronics,3,206.78,45051,MICHAEL RODRIGUEZ,michael.rodriguez@yahoo.com,WASHINGTON,Google Pay,Completed,0.03,1
+ORD-56784,Building Blocks,Toys,4,258.095,45268,William Smith,william.smith@aol.com,Fort Worth,Cash on Delivery,Pending,0.13,4
+ORD-69451,Jeans,Clothing,4,281.22,45657,William Jones,william.jones@hotmail.com,Washington,Cash on Delivery,Shipped,0.18,1
+ORD-47082,Headphones,Electronics,1,258.095,09/23/2023,David Davis,,San Diego,Bank Transfer,Pending,0,2
+ORD-73787,Jacket,Clothing,1,418.22,45550,David Jones,david.jones@outlook.com,Dallas,Google Pay,Cancelled,,5
+ORD-79181,Cookbook,Books,3,92.71,45523,John Lopez,john.lopez@icloud.com,Charlotte,PayPal,Refunded,0.15,4
+ORD-87969,Curtain,Home & Garden,4,10.42,45393,Sarah,,Seattle,Cash on Delivery,,0.28,2
+ORD-62312,Hand Sanitizer,Health,5,318.29,45451,Robert Johnson,robert.johnson@outlook.com,NYC,Google Pay,Pending,0.21,2
+ORD-40725,Sneakers,Clothing,5,182.6,,Jane Martinez,jane.martinez@icloud.com,San Diego,PayPal,Returned,0.14,
+ORD-28955,Jacket,Clothing,5,302.15,45444,John Miller,invalid_email,Indianapolis,Apple Pay,Completed,0.08,3
+ORD-64005,Action Figure,Toys,1,357.34,45544,Jane Jones,jane.jones@gmail.com,Seattle,Google Pay,Refunded,0.12,4
+ORD-58067,Plush Toy,Toys,1,335.14,45638,Emily Davis,emily.davis@hotmail.com,  Phoenix  ,Bank Transfer,Cancelled,0.11,4
+ORD-93810,Sci-Fi Book,Books,5,19.75,44954,Lisa,lisa.jones@yahoo.com,Houston,Bank Transfer,Completed,0.17,3
+ORD-48089,Laptop Stand,Electronics,5,141.34,45551,Sarah Smith,sarah.smith@yahoo.com,Jacksonville,Credit Card,Pending,0.21,1
+ORD-24563,Card Came,Toys,4,483.27,45529,Anna Miller,anna.miller@hotmail.com,Denver,Bank Transfer,Returned,0.15,1
+ORD-62579,Toothbrush,Health,3,400.61,10/30/2024,Chris Williams,chris.williams@icloud.com,Philadelphia,PayPal,Cancelled,0.11,4
+ORD-67355,Sci-Fi Book,Books,4,395.77,45131,Emily Lopez,emily.lopez@hotmail.com,San Diego,Credit Card,Completed,0.1,2
+ORD-25229,Jacket,Clothing,1,201.8,45543,David Smith,david.smith@gmail.com,Philadelphia,Cash on Delivery,Pending,,4
+ORD-63144,Chair,Home & Garden,3,69.84,45034,Michael Garcia,michael.garcia@gmail.com,San Jose,Apple Pay,Pending,0.13,1
+ORD-99070,Rug,Home & Garden,1,75.13,45138,Laura Lopez,laura.lopez@hotmail.com,Philadelphia,Debit Card,Pending,0.06,5
+ORD-49176,Face Mask,Health,4,148.52,45399,David Hernandez,david.hernandez@yahoo.com,Dallas,Credit Card,Refunded,0.26,1
+ORD-11483,Laptop Stand,Electronics,1,62.5,45309,David Williams,david.williams@hotmail.com,San Antonio,,Refunded,0.04,4
+ORD-64811,Bandages,Health,3,258.095,45259,Michael Johnson,michael.johnson@hotmail.com,Chicago,Cash on Delivery,Refunded,0.01,5
+ORD-35592,Wiper Blade,Automotive,3,258.095,45599,Anna Jones,anna.jones@gmail.com,Chicago,Apple Pay,Pending,0.02,5
+ORD-25566,Face Mask,Health,2,258.095,45073,Daniel Jones,,Indianapolis,Apple Pay,Pending,0.14,3
+ORD-63706,Hat,Clothing,2,332.07,45081,Anna Miller,anna.miller@yahoo.com,Washington,PayPal,Returned,0.22,7
+ORD-46261,Seat Cover,Automotive,5,273.55,12/22/2024,chris martinez,chris.martinez@outlook.com,Philadelphia,Apple Pay,Pending,0.16,4
+ORD-88973,Led Bulb,Automotive,3,258.095,45565,William Jones,william.jones@hotmail.com,Seattle,Cash on Delivery,Completed,0.26,
+ORD-45428,History Book,Books,4,258.095,11/26/2023,James Smith,,PHOENIX,Google Pay,Shipped,0.26,2
+ORD-93619,Basketball,Sports,2,370.8,45313,Maria Lopez,maria.lopez@outlook.com,  San Antonio  ,Debit Card,Returned,0.17,5
+ORD-31420,Supplements,Health,3,272.87,07/28/2023,James Garcia,,New York,Cash on Delivery,Cancelled,0.16,4
+ORD-56934,Card Came,Toys,5,204.69,45606,,william.martinez@aol.com,washington,Bank Transfer,,0.16,
+ORD-71922,Hoodie,Clothing,5,296.85,03/15/2024,Chris Smith,chris.smith@outlook.com,,Bank Transfer,Shipped,0.27,1
+ORD-36379,Puzzle,Toys,5,285.22,45263,Daniel Smith,daniel.smith@yahoo.com,Austin,Credit Card,Completed,0.13,
+ORD-34483,Supplements,Health,5,416.92,45049,Sarah Hernandez,@gmail.com,Dallas,Google Pay,Returned,0.05,5
+ORD-51075,Magazine,Books,2,443.89,45256,Guest,anna.martinez@icloud.com,  Unknown City  ,Google Pay,Refunded,0.08,4
+ORD-63427,Vase,Home & Garden,1,78.46,,Jane Miller,,Philadelphia,Apple Pay,Refunded,0.1,5
+ORD-39135,Sunscreen,Health,5,15.79,45381,Anna Gonzalez,,Columbus,PayPal,Pending,0.26,4
+ORD-96569,Shelf,Books,4,231.92,45293,Anna Smith,anna.smith@icloud.com,Indianapolis,PayPal,Returned,0.14,5
+ORD-73559,Headphones,Electronics,2,209.41,45579,Chris Gonzalez,chris.gonzalez@icloud.com,,Bank Transfer,Refunded,0.28,4
+ORD-36336,Mirror,Home & Garden,4,16.8,45551,william jones,william.jones@icloud.com,Philadelphia,Debit Card,Refunded,0.26,2
+ORD-91043,Board Came,Toys,5,18.71,45064,Maria Davis,maria.davis@hotmail.com,Seattle,Google Pay,Pending,0.01,2
+ORD-34315,Hoodie,Clothing,3,11.02,2023-13-45,Emily Davis,emily.davis@outlook.com,Chicago,Credit Card,Completed,0.23,2
+ORD-90701,Hat,Clothing,5,496.84,45473,,william.miller@aol.com,Chicago,Cash on Delivery,Refunded,0.02,4
+ORD-29976,Doll,Toys,3,43.05,45289,Sarah Brown,sarah.brown@yahoo.com,Dallas,PayPal,Cancelled,5,3
+ORD-74803,Tennis Racket,Sports,3,136.97,45099,Sarah Gonzalez,sarah.gonzalez@gmail.com,Seattle,Google Pay,Cancelled,0.22,1
+ORD-24113,Table,Home & Garden,3,220.49,45614,Emily Davis,emily.davis@hotmail.com,Charlotte,PayPal,Returned,0.27,1
+ORD-14249,Socks,Clothing,3,246.73,45360,Michael Rodriguez,michael.rodriguez@outlook.com,Columbus,Google Pay,Shipped,0.14,2
+ORD-37637,Shelf,Books,1,391.22,11/14/2024,Emily Brown,emily.brown@aol.com,Los Angeles,Debit Card,Completed,0.08,5
+ORD-17492,Led Bulb,Automotive,5,393.27,45481,Maria Gonzalez,maria.gonzalez@outlook.com,Philadelphia,Debit Card,Refunded,,1
+ORD-77402,Face Mask,Health,0,382.46,,Emily Garcia,,  New York  ,Debit Card,Cancelled,0.05,4
+ORD-87837,Running Shoes,Sports,5,495.7,09/21/2023,Anna Gonzalez,anna.gonzalez@icloud.com,Fort Worth,Apple Pay,Shipped,0.12,1
+ORD-10378,Headphones,Electronics,4,452.03,45062,Lisa Johnson,,Philadelphia,Credit Card,Returned,0.19,1
+ORD-64135,History Book,Books,1,258.095,45353,Maria Davis,maria.davis@yahoo.com,,Apple Pay,Cancelled,0.2,3
+ORD-16522,Textbook,Books,3,175.86,45534,David Martinez,,Columbus,Bank Transfer,Cancelled,0.01,5
+ORD-25398,Hoodie,Clothing,3,103.85,45326,Chris Rodriguez,chris.rodriguez@gmail.com,Los Angeles,Card,Cancelled,0.29,4
+ORD-30431,Car Charger,Automotive,3,364.69,45391,michael lopez,michael.lopez@outlook.com,Fort Worth,Google Pay,Completed,0.06,3
+ORD-20541,Tire Pressure Gauge,Automotive,4,62.28,45427,William Gonzalez,william.gonzalez@gmail.com,Austin,Apple Pay,Pending,0.08,5
+ORD-90911,Dumbbell,Sports,2,179.27,45511,Maria Lopez,maria.lopez@yahoo.com,Columbus,Credit Card,Pending,,3
+ORD-41774,Shorts,Clothing,4,243.55,45646,Lisa Miller,lisa.miller@outlook.com,New York,Bank Transfer,Shipped,0.12,4
+ORD-16528,Thermometer,Health,3,258.095,,  Sarah Rodriguez  ,sarah.rodriguez@aol.com,Fort Worth,Apple Pay,Completed,0.26,1
+ORD-13901,Keyboard,Electronics,2,23.36,45515,Daniel Hernandez,daniel.hernandez@hotmail.com,Phoenix,Bank Transfer,Shipped,0.12,1
+ORD-97432,Plant Pot,Home & Garden,4,258.095,45292,Daniel Rodriguez,daniel.rodriguez@yahoo.com,Jacksonville,Bank Transfer,Returned,0.28,1
+ORD-46837,Face Mask,Health,4,270.15,45628,John Garcia,john.garcia@icloud.com,  Philadelphia  ,PayPal,Refunded,0.26,4
+ORD-91735,Water Bottle,Sports,3,355.07,45651,Jane Brown,,  Seattle  ,Cash on Delivery,Completed,0.12,1
+ORD-26943,Scarf,Clothing,2,494.28,,Lisa Jones,lisa.jones@outlook.com,Houston,Google Pay,Pending,0.28,3
+ORD-48855,Board Came,Toys,2,6.5,11/27/2024,Robert Rodriguez,robert.rodriguez@icloud.com,indianapolis,Bank Transfer,Returned,0.21,4
+ORD-75592,Seat Cover,Automotive,1,34.13,45030,Anna Johnson,anna.johnson@hotmail.com,Jacksonville,Google Pay,Completed,0.16,3
+ORD-61731,T-Shirt,Clothing,2,258.095,45473,Robert Gonzalez,robert.gonzalez@yahoo.com,,,Completed,0.2,6
+ORD-20191,Sci-Fi Book,Books,1,82.65,2023-13-45,Jane Smith,jane.smith@gmail.com,San Diego,Credit Card,Refunded,0.09,2
+ORD-43147,Gloves,Clothing,0,491.78,45470,Sarah Lopez,sarah.lopez@gmail.com,Los Angeles,Google Pay,Pending,0.12,4
+ORD-74629,Card Came,Toys,5,85.51,,Jane Garcia,jane.garcia@gmail.com,Indianapolis,Apple Pay,Pending,0.17,3
+ORD-90388,Tire Pressure Gauge,Automotive,3,392.73,45154,,daniel.smith@outlook.com,Fort Worth,Apple Pay,Returned,0.14,2
+ORD-67124,Smart Watch,Electronics,5,66.9,45378,William Brown,william.brown@gmail.com,CHICAGO,Apple Pay,Returned,0.22,4
+ORD-73624,Soccer Ball,Sports,3,265.5,45329,Emily Gonzalez,emily.gonzalez@gmail.com,Jacksonville,Google Pay,Shipped,0.28,5
+ORD-90505,First Aid Kit,Health,5,406.95,2023-13-45,Chris Lopez,chris.lopez@yahoo.com,  Chicago  ,Bank Transfer,Returned,0.19,1
+ORD-76596,Building Blocks,Toys,4,282.04,44971,Emily Miller,emily.miller@aol.com,Chicago,PayPal,Completed,0.18,2
+ORD-23242,Hand Sanitizer,Health,3,105.77,45221,Daniel Lopez,daniel.lopez@aol.com,  Charlotte  ,PayPal,Pending,0.18,4
+ORD-80549,Led Bulb,Automotive,2,438.6,45081,Michael Johnson,michael.johnson@icloud.com,SAN FRANCISCO,Apple Pay,Cancelled,0.23,2
+ORD-11776,Usb-C Cable,Electronics,3,57.64,12/25/2024,Lisa Davis,lisa.davis@hotmail.com,Los Angeles,,Cancelled,0.09,1
+ORD-23902,Lamp,Home & Garden,4,258.095,45564,  Maria Gonzalez  ,maria.gonzalez@gmail.com,Washington,,Pending,0.09,1
+ORD-45728,Cookbook,Books,2,101.49,45111,,anna.johnson@aol.com,New York,PayPal,Returned,0.18,5
+ORD-75347,Hoodie,Clothing,2,123.09,45190,Maria Hernandez,maria.hernandez@yahoo.com,Houston,Cash on Delivery,Refunded,0.18,4
+ORD-73739,Seat Cover,Automotive,3,302.53,45297,Emily Smith,emily.smith@gmail.com,Charlotte,Bank Transfer,Cancelled,0.05,4
+ORD-97386,Car Charger,Automotive,1,263.36,45553,Maria Lopez,maria.lopez@aol.com,Houston,Credit Card,Returned,,4
+ORD-45632,Textbook,Books,5,489.67,,John Martinez,john.martinez@outlook.com,Denver,,Cancelled,0.2,3
+ORD-55433,Hand Sanitizer,Health,2,363.05,45528,Laura Garcia,laura.garcia@yahoo.com,New York,Credit Card,Shipped,0.21,5
+ORD-82512,Bandages,Health,5,487.67,45274,  Emily Martinez  ,emily.martinez@outlook.com,San Francisco,Google Pay,Shipped,0.15,1
+ORD-41456,Webcam,Electronics,5,119.87,45060,John Brown,john.brown@outlook.com,Philadelphia,Bank Transfer,Pending,0.21,5
+ORD-50908,Lamp,Home & Garden,4,444.32,45042,MICHAEL GONZALEZ,michael.gonzalez@outlook.com,Chicago,Bank Transfer,Returned,0.03,5
+ORD-57303,Building Blocks,Toys,1,359.88,45346,Sarah Hernandez,sarah.hernandez@icloud.com,PHOENIX,PayPal,Pending,0.27,5
+ORD-76782,Supplements,Health,0,130.33,45540,Chris Martinez,chris.martinez@gmail.com,,Credit Card,Completed,0.16,
+ORD-55738,Gloves,Clothing,2,274.32,45191,Maria Rodriguez,maria.rodriguez@gmail.com,San Diego,Apple Pay,Cancelled,0.03,4
+ORD-37267,Webcam,Electronics,3,276.27,,Maria Johnson,,San Francisco,Cash on Delivery,Completed,0.04,1
+ORD-77092,Phone Mount,Automotive,1,394.02,,  Jane Rodriguez  ,jane.rodriguez@outlook.com,San Diego,Bank Transfer,Cancelled,0.26,1
+ORD-24746,Soccer Ball,Sports,3,456.87,45003,John Williams,john.williams@aol.com,San Jose,Google Pay,,0.01,4
+ORD-27899,Wireless Mouse,Electronics,3,228.48,45480,laura johnson,laura.johnson@aol.com,Houston,,Shipped,0.29,3
+ORD-33075,Floor Mat,Automotive,1,304.55,45337,David Brown,david.brown@gmail.com,San Francisco,Cash on Delivery,Refunded,0.2,2
+ORD-67442,Toothbrush,Health,4,36.07,45046,  David Hernandez  ,david.hernandez@hotmail.com,Indianapolis,Apple Pay,Returned,0.26,1
+ORD-64379,Dash Cam,Automotive,4,184.53,45587,Jane Davis,jane.davis@hotmail.com,Denver,Bank Transfer,Pending,0.08,5
+ORD-14317,Gym Bag,Sports,3,264.72,01/30/2024,John Smith,john.smith@icloud.com,  New York  ,Google Pay,Refunded,0.24,1
+ORD-38382,Magazine,Books,2,243.41,45553,Robert Garcia,robert.garcia@yahoo.com,WASHINGTON,Bank Transfer,Shipped,0.13,3
+ORD-19789,Vase,Home & Garden,3,482.49,45198,  James Jones  ,james.jones@gmail.com,Fort Worth,Credit Card,Refunded,0.14,1
+ORD-55124,Socks,Clothing,5,357.19,45297,John Gonzalez,john.gonzalez@icloud.com,San Francisco,Apple Pay,Pending,0.1,2
+ORD-42410,Dash Cam,Automotive,4,122.67,45459,Sarah Johnson,,Denver,PayPal,Completed,0,
+ORD-70293,Headphones,Electronics,3,258.095,45193,  Emily Johnson  ,emily.johnson@hotmail.com,Seattle,Debit Card,Refunded,0.1,5
+ORD-80822,Phone Mount,Automotive,1,314.76,45147,Lisa Brown,Lisa@,Chicago,NULL,Shipped,0.26,4
+ORD-35775,Basketball,Sports,1,258.095,45402,William Lopez,william.lopez@outlook.com,New York,Cash on Delivery,Returned,0.2,5
+ORD-49716,Biography,Books,3,281.52,45310,William Gonzalez,william.gonzalez@yahoo.com,,PayPal,Returned,0.08,3
+ORD-58005,Hand Sanitizer,Health,5,258.095,45455,Anna Smith,anna.smith@gmail.com,Houston,Cash on Delivery,Completed,0.02,2
+ORD-64870,Dash Cam,Automotive,1,401.22,45050,Michael Brown,michael.brown@aol.com,Austin,Apple Pay,Refunded,0.24,4
+ORD-33810,Tennis Racket,Sports,2,251.51,45294,Daniel Miller,daniel.miller@icloud.com,Denver,Bank Transfer,Refunded,0.21,4
+ORD-75773,Power Bank,Electronics,5,215.33,45234,William Lopez,william.lopez@yahoo.com,SAN ANTONIO,Debit Card,Cancelled,0.01,3
+ORD-76167,Rc Car,Toys,3,174.11,01/17/2023,John Martinez,john.martinez@aol.com,Chicago,Bank Transfer,Completed,0.25,1
+ORD-38986,Table,Home & Garden,3,248.61,44936,Maria Davis,maria.davis@aol.com,Los Angeles,Debit Card,Completed,0.16,3
+ORD-15098,Power Bank,Electronics,3,176.05,45507,Daniel Davis,daniel.davis@gmail.com,Houston,Bank Transfer,Shipped,0.01,7
+ORD-26263,Bluetooth Speaker,Electronics,4,242.83,45460,Lisa Martinez,lisa.martinez@outlook.com,Columbus,Google Pay,Completed,0.19,3
+ORD-28726,Power Bank,Electronics,3,385.09,45156,Daniel Williams,daniel.williams@gmail.com,,Credit Card,Refunded,0.14,
+ORD-43008,Shelf,Home & Garden,1,147.3,,John Miller,john.miller@icloud.com,Charlotte,Apple Pay,Pending,0.25,1
+ORD-18873,Magazine,Books,1,166.44,45344,Anna Smith,anna.smith@hotmail.com,Houston,,Refunded,0.16,10
+ORD-57652,Face Mask,Health,5,44.33,45462,Michael Lopez,michael.lopez@icloud.com,San Antonio,Debit Card,Refunded,,1
+ORD-20828,Scarf,Clothing,3,151.34,45097,Maria Garcia,maria.garcia@aol.com,Philadelphia,Credit Card,Returned,0.17,3
+ORD-40456,Poetry,Books,3,492.89,45143,John Gonzalez,john.gonzalez@outlook.com,Fort Worth,Apple Pay,Pending,0.23,5
+ORD-79923,Tennis Racket,Sports,5,499.78,04/27/2023,Maria Miller,maria.miller@outlook.com,Houston,Apple Pay,Pending,0.28,5
+ORD-87867,Lamp,Home & Garden,2,57.33,45574,,laura.jones@yahoo.com,  Austin  ,Credit Card,Returned,0.07,4
+ORD-16312,Shelf,Books,1,115.26,45500,Maria Hernandez,maria.hernandez@icloud.com,  Columbus  ,Credit Card,Shipped,0.19,1
+ORD-46322,Jeans,Clothing,4,134.39,45167,Maria Smith,maria.smith@icloud.com,Austin,Bank Transfer,Shipped,0.15,2
+ORD-51676,Seat Cover,Automotive,4,258.095,44948,Maria Miller,maria.miller@yahoo.com,San Diego,Debit Card,Completed,,3
+ORD-95191,Doll,Toys,4,426.64,10/14/2023,James Lopez,james.lopez@hotmail.com,Phoenix,Bank Transfer,Shipped,0.02,1
+ORD-97633,Board Came,Toys,5,46.6,44980,Lisa Johnson,lisa.johnson@yahoo.com,Charlotte,Bank Transfer,Shipped,0.29,5
+ORD-82023,Clrd Came,Toys,2,104.7,01/20/2024,David Hernandez,,Indianapolis,Cash on Delivery,Returned,0.25,3
+ORD-34401,Smart Watch,Electronics,4,401.2,45429,Lisa Johnson,lisa.johnson@hotmail.com,  Jacksonville  ,Cash on Delivery,Cancelled,0.09,2
+ORD-28575,Scarf,Clothing,3,301.56,44945,Daniel Martinez,daniel.martinez@outlook.com,Denver,,Returned,0.03,2
+ORD-16416,Vitamins,Health,1,385.5,45343,Laura Johnson,laura.johnson@hotmail.com,  LA  ,Debit Card,Completed,0.28,5
+ORD-45783,Vitamins,Health,2,446.04,07/14/2024,Emily Miller,emily.miller@yahoo.com,Los Angeles,Debit Card,Completed,0.06,7
+ORD-66369,Jeans,Clothing,3,385.99,45379,Anna Brown,anna.brown@gmail.com,phoenix,Apple Pay,Returned,0.16,2
+ORD-14187,Vitamins,Health,4,79.98,45475,John Jones,john.jones@icloud.com,Charlotte,Cash on Delivery,Pending,0.25,2
+ORD-12741,Shelf,Home & Garden,2,258.095,45276,David Jones,david.jones@icloud.com,Washington,Cash on Delivery,Shipped,0.26,3
+ORD-12340,Action Figure,Toys,4,401.47,45028,Emily Brown,emily.brown@aol.com,Indianapolis,Cash on Delivery,Shipped,0.24,2
+ORD-12149,Gloses,Clothing,1,258.095,45147,Maria Davis,maria.davis@gmail.com,  San Francisco  ,Debit Card,Returned,0.06,4
+ORD-99162,Webcam,Electronics,2,209.69,45192,,maria.gonzalez@yahoo.com,Phoenix,Bank Transfer,Pending,0.3,2
+ORD-60014,Card Came,Toys,4,353.79,07/13/2024,Emily Jones,emily.jones@gmail.com,,Apple Pay,Pending,0.23,3
+ORD-83757,Poetry,Books,3,242.73,45537,Robert Miller,robert.miller@aol.com,Jacksonville,PayPal,Returned,0.11,
+ORD-36616,Running Shoes,Sports,2,263.39,45452,Anna Lopez,,Washington,Apple Pay,Pending,0.01,5
+ORD-23083,Doll,Toys,1,258.07,45432,  Daniel Miller  ,daniel.miller@yahoo.com,Phoenix,Google Pay,Cancelled,0.28,2
+ORD-66482,Power Bank,Electronics,2,201.66,45216,EMILY JONES,emily.jones@hotmail.com,Jacksonville,Apple Pay,Cancelled,0.2,4
+ORD-98250,Water Bottle,Sports,3,220.46,45028,Chris Johnson,chris.johnson@icloud.com,Los Angeles,PayPal,Shipped,0.14,5
+ORD-43972,Magazine,Books,3,447.05,01/28/2024,David Garcia,,  Denver  ,Bank Transfer,Refunded,0.18,4
+ORD-44364,Scarf,Clothing,1,423.34,45141,  Lisa Rodriguez  ,lisa.rodriguez@gmail.com,Seattle,Bank Transfer,Shipped,0.19,5
+ORD-16295,Vitamins,Health,2,268.52,45604,,michael.brown@yahoo.com,Austin,PayPal,,0.26,
+ORD-36016,Hand Sanitizer,Health,5,73.04,08/19/2023,  Sarah Hernandez  ,sarah.hernandez@gmail.com,San Francisco,Credit Card,Pending,0.3,5
+ORD-46951,Poetry,Books,1,468.06,45487,Daniel Williams,daniel.williams@hotmail.com,Philadelphia,Google Pay,Refunded,0.28,5
+ORD-33128,Comic,Books,5,256.62,45128,Emily Davis,emily.davis@hotmail.com,San Jose,Bank Transfer,Refunded,0.3,2
+ORD-98791,Science Kit,Toys,5,108.77,45638,,anna.rodriguez@hotmail.com,Indianapolis,Google Pay,Refunded,0.28,5
+ORD-64994,Textbook,Books,5,11.99,45052,Guest,john.smith@outlook.com,Austin,Debit Card,Cancelled,0.17,3
+ORD-69468,Seat Cover,Automotive,3,69.45,10/17/2023,David Gonzalez,david.gonzalez@hotmail.com,Unknown City,PayPal,Returned,0.17,4
+ORD-37097,Tire Pressure Gauge,Automotive,2,163.15,45060,Anna Hernandez,anna.hernandez@outlook.com,NULL,Google Pay,Shipped,0.12,5
+ORD-59005,Yasketball,Sports,5,245.03,,Maria Johnson,maria.johnson@gmail.com,NULL,Bank Transfer,Shipped,0.22,1
+ORD-64055,History Book,Books,2,77.85,45070,Michael Smith,michael.smith@hotmail.com,Columbus,Credit Card,Cancelled,0.26,
+ORD-13633,Power Bank,Electronics,5,38.69,45134,  David Miller  ,david.miller@outlook.com,San Diego,Credit Card,Pending,0.22,5
+ORD-93287,Shelf,Books,3,373.87,44968,Anna Johnson,anna.johnson@hotmail.com,Denver,PayPal,Pending,0.18,
+ORD-15230,Card Came,Toys,1,11.16,45641,David Lopez,david.lopez@yahoo.com,Charlotte,Credit Card,Cancelled,0.18,5
+ORD-46758,Supplements,Health,1,411.94,45449,James Brown,james.brown@yahoo.com,Columbus,Cash on Delivery,Refunded,0.23,4
+ORD-75010,Supplements,Health,4,272.96,45428,Chris Davis,chris.davis@aol.com,San Jose,Apple Pay,Pending,0.18,3
+ORD-75256,Sci-Fi Book,Books,5,258.095,08/14/2024,Daniel Martinez,daniel.martinez@hotmail.com,Austin,Cash on Delivery,Returned,0.14,4
+ORD-10817,Floor Mat,Automotive,2,58.82,12/14/2023,JANE JONES,jane.jones@outlook.com,Philadelphia,PayPal,Cancelled,0.01,3
+ORD-26136,Hoodie,Clothing,3,111.33,45494,Laura Jones,laura.jones@outlook.com,San Diego,Credit Card,Completed,5,2
+ORD-17355,Monitor,Electronics,2,320.13,45454,Daniel Hernandez,daniel.hernandez@gmail.com,Columbus,Google Pay,Pending,0.14,3
+ORD-15769,Tennis Racket,Sports,5,213.95,45256,,Sarah@,Denver,Apple Pay,Shipped,1.5,3
+ORD-11249,Dumbbell,Sports,3,301.28,45428,James Brown,james.brown@outlook.com,Denver,Cash on Delivery,Returned,0.01,5
+ORD-10027,Tennis Racket,Sports,3,265.41,44993,William Lopez,william.lopez@hotmail.com,Charlotte,Apple Pay,Shipped,,1
+ORD-94902,Smart Watch,Electronics,0,281.65,45502,Jane Brown,jane.brown@outlook.com,Indianapolis,Apple Pay,Refunded,0.19,3
+ORD-77508,Running Shoes,Sports,2,52.58,45605,,sarah.rodriguez@aol.com,New York,Money,Refunded,0.17,4
+ORD-28753,Power Bank,Electronics,1,83.3,45177,Michael Davis,michael.davis@hotmail.com,New York,Bank Transfer,Cancelled,0.26,5
+ORD-34966,Rug,Home & Garden,2,386.45,45141,Jane Garcia,jane.garcia@outlook.com,Los Angeles,Credit Card,Returned,0.23,2
+ORD-68829,Laptop Stand,Electronics,3,327.83,,Jane Brown,jane.brown@hotmail.com,Washington,Bank Transfer,Pending,0.23,4
+ORD-62669,Hand Sanitizer,Health,4,156.09,45053,Emily Lopez,emily.lopez@aol.com,Seattle,PayPal,Refunded,0.14,2
+ORD-81939,Socks,Clothing,5,68.47,09/26/2024,Laura Garcia,laura.garcia@hotmail.com,Austin,Bank Transfer,Shipped,0.11,2
+ORD-31589,Yoga Mat,Sports,1,102.66,45265,Laura Williams,laura.williams@yahoo.com,Columbus,Credit Card,Completed,0.15,4
+ORD-58474,Doll,Toys,5,127.17,45264,MICHAEL WILLIAMS,michael.williams@outlook.com,San Antonio,Credit Card,Cancelled,0.18,2
+ORD-64839,Vitamins,Health,1,57.89,44975,Laura Williams,laura.williams@icloud.com,,Cash on Delivery,Refunded,0.2,5
+ORD-31393,Usb-C Cable,Electronics,5,343.55,45396,David Davis,david.davis@aol.com,Charlotte,Apple Pay,Shipped,0.08,2
+ORD-98388,Scarf,Clothing,1,206.82,45083,,anna.johnson@icloud.com,Washington,Google Pay,Completed,0.17,1
+ORD-71711,Sci-Fi Book,Books,3,160.66,45503,Maria Davis,maria.davis@aol.com,  Denver  ,Cash on Delivery,Shipped,0.06,2
+ORD-82585,Dash Cam,Automotive,3,54.53,45441,Chris Garcia,chris.garcia@icloud.com,San Jose,Credit Card,Refunded,0.24,1
+ORD-85862,Shelf,Home & Garden,5,412.5,45208,Maria Martinez,maria.martinez@yahoo.com,Washington,Apple Pay,Completed,0.23,1
+ORD-32300,Floor Mat,Automotive,1,36.37,44991,David Garcia,david.garcia@gmail.com,San Francisco,Credit Card,Refunded,0.15,3
+ORD-47802,Dumbbell,Sports,3,87.2,45296,Daniel Gonzalez,,Austin,PayPal,Shipped,0.03,0
+ORD-60794,Soccer Ball,Sports,3,50.94,45043,  John Smith  ,john.smith@hotmail.com,San Francisco,Apple Pay,Done,0.01,3
+ORD-45708,Poetry,Books,5,33.73,45647,Jane Miller,jane.miller@aol.com,Los Angeles,Credit Card,Refunded,0.06,A
+ORD-57892,Air Freshener,Automotive,5,179.51,45330,Laura Jones,laura.jones@aol.com,Washington,Apple Pay,Refunded,,2
+ORD-43734,Puzzle,Toys,1,441.51,45187,Anna Smith,anna.smith@outlook.com,San Antonio,Apple Pay,Cancelled,0.15,1
+ORD-11199,Plant Pot,Home & Garden,3,140.58,45040,Anna Miller,anna.miller@icloud.com,Indianapolis,Apple Pay,Pending,0.24,2
+ORD-27618,First Aid Kit,Health,3,427.23,45026,William Gonzalez,william.gonzalez@yahoo.com,San Jose,Bank Transfer,Pending,0.19,2
+ORD-23173,Thermometer,Health,3,127.71,45050,,jane.hernandez@outlook.com,Philadelphia,Credit Card,Pending,0.1,5
+ORD-42790,Monitor,Electronics,2,332.69,45388,Maria Garcia,maria.garcia@outlook.com,Philadelphia,Cash on Delivery,Shipped,0,1
+ORD-20623,Tire Pressure Gauge,Automotive,3,334.15,09/18/2023,Maria Smith,maria.smith@outlook.com,Denver,Bank Transfer,Returned,0.3,2
+ORD-79391,Face Mask,Health,2,204.34,45655,Laura Brown,laura.brown@outlook.com,San Jose,Cash on Delivery,Pending,0.03,5
+ORD-42485,Yoga Mat,Sports,1,86.16,03/24/2024,Sarah Brown,sarah.brown@outlook.com,Washington,Bank Transfer,Shipped,0.23,2
+ORD-75700,Smart Watch,Electronics,1,116.66,45067,James Martinez,james.martinez@hotmail.com,Seattle,PayPal,Returned,0.13,5
+ORD-64093,Dash Cam,Automotive,3,264.66,45320,Guest,maria.martinez@outlook.com,New York,PayPal,Completed,0.01,2
+ORD-77472,Rug,Home & Garden,3,306.33,07/16/2023,Emily Gonzalez,emily.gonzalez@aol.com,San Antonio,Credit Card,Completed,,1
+ORD-75951,Comic,Books,4,489.35,44975,Unknown,james.miller@gmail.com,Columbus,Bank Transfer,Completed,0.29,1
+ORD-90364,Mirror,Home & Garden,1,447.69,11/28/2023,Daniel Lopez,daniel.lopez@aol.com,Houston,Cash on Delivery,Refunded,0.17,3
+ORD-30547,Mirror,Home & Garden,3,258.095,45318,Jane Williams,jane.williams@gmail.com,Philadelphia,Apple Pay,Refunded,0.07,3
+ORD-68441,Socks,Clothing,3,258.095,45195,,james.hernandez@outlook.com,Phoenix,PayPal,Returned,0.19,4
+ORD-38907,Seat Cover,Automotive,1,252.66,45237,,maria.miller@aol.com,San Antonio,Apple Pay,Cancelled,0.02,3
+ORD-84110,Socks,Clothing,3,105.32,11/18/2023,daniel miller,daniel.miller@yahoo.com,,Cash on Delivery,Refunded,0.04,5
+ORD-41816,Scarf,Clothing,3,366.53,45000,Lisa Williams,lisa.williams@outlook.com,  Phoenix  ,Apple Pay,Shipped,0.14,2
+ORD-14781,Soccer Ball,Sports,5,258.095,10/16/2023,,john.smith@icloud.com,Indianapolis,Google Pay,Shipped,0.15,1
+ORD-36971,Headphones,Electronics,5,65.7,45384,David Miller,david.miller@icloud.com,Fort Worth,PayPal,Refunded,0,4
+ORD-57309,Usb-C Cable,Electronics,5,266.92,45322,William Johnson,william.johnson@aol.com,NYC,Debit Card,Pending,0.01,3
+ORD-83181,Laptop Stand,Electronics,2,396.31,2023-13-45,William,william.garcia@outlook.com,Columbus,Cash on Delivery,Cancelled,0.09,1
+ORD-50760,History Book,Books,2,189.94,45389,James Gonzalez,james.gonzalez@icloud.com,San Francisco,Apple Pay,Refunded,0.13,4
+ORD-39331,T-Shirt,Clothing,3,380.12,45482,Lisa Martinez,lisa.martinez@yahoo.com,San Francisco,Debit Card,Returned,1.5,1
+ORD-93421,Air Freshener,Automotive,5,19.79,45274,Chris Johnson,chris.johnson@gmail.com,Charlotte,,Refunded,0.19,5
+ORD-51109,Power Bank,Electronics,3,475.98,45474,Robert Jones,robert.jones@hotmail.com,  Austin  ,Apple Pay,Shipped,0.08,4
+ORD-61037,Yable,Home & Garden,4,141.72,45566,John Lopez,john.lopez@gmail.com,Jacksonville,Bank Transfer,Completed,0.19,4
+ORD-53309,Cycling Helmet,Sports,5,239.12,45601,Anna Lopez,anna.lopez@gmail.com,Charlotte,Credit Card,Refunded,-0.1,2
+ORD-64527,Soccer Ball,Sports,2,293.15,45225,Chris Hernandez,chris.hernandez@outlook.com,Columbus,Debit Card,Cancelled,0.04,5
+ORD-76592,Tmnnis Racket,Sports,1,143.42,04/25/2023,Anna Garcia,anna.garcia@yahoo.com,Dallas,Bank Transfer,Completed,0.15,4
+ORD-45786,Textbook,Books,3,412.55,45549,  maria hernandez  ,maria.hernandez@aol.com,chicago,Credit Card,Pending,0.1,2
+ORD-95672,Curtain,Home & Garden,5,94.35,45209,William Garcia,william.garcia@aol.com,Austin,Apple Pay,Shipped,0.12,3
+ORD-33827,Doll,Toys,3,440.14,45126,Anna Brown,anna.brown@hotmail.com,SAN FRANCISCO,Credit Card,Cancelled,0.02,4
+ORD-98084,Plant Pot,Home & Garden,5,143.32,45210,Robert Smith,robert.smith@icloud.com,San Jose,Bank Transfer,Refunded,0.28,4
+ORD-29795,Soccer Ball,Sports,1,391.6,45303,David Johnson,,NYC,Card,Shipped,0,2
+ORD-98784,Doll,Toys,4,258.095,45546,Daniel Rodriguez,daniel.rodriguez@outlook.com,Columbus,Apple Pay,Cancelled,0.1,5
+ORD-15037,Sneakers,Clothing,5,316,45591,James Miller,james.miller@icloud.com,Charlotte,PayPal,Pending,0.08,4
+ORD-89616,Massage Roller,Health,2,370.35,45086,John,john.davis@yahoo.com,  Dallas  ,Google Pay,Cancelled,0.28,4
+ORD-52373,Biography,Books,4,317.6,45560,Robert Jones,robert.jones@outlook.com,Columbus,Debit Card,Cancelled,0.17,2
+ORD-35106,Clock,Home & Garden,5,350.58,45036,David Brown,david.brown@icloud.com,  San Jose  ,Debit Card,Returned,0.17,2
+ORD-47275,Sci-Fi Book,Books,3,296.77,45239,Robert Martinez,robert.martinez@gmail.com,  Phoenix  ,Apple Pay,Cancelled,0.08,1
+ORD-41965,Webcam,Electronics,2,170.61,,,@gmail.com,Denver,Google Pay,Pending,0.15,1
+ORD-53642,Laptop Stand,Electronics,4,353.37,45256,James Garcia,james.garcia@aol.com,San Antonio,NULL,Pending,0.25,3
+ORD-51371,Plush Toy,Toys,4,457.81,45210,David Miller,david.miller@outlook.com,San Jose,Google Pay,Shipped,0.27,5
+ORD-56270,Lamp,Home & Garden,3,496.05,45001,Robert Rodriguez,robert.rodriguez@gmail.com,Philadelphia,Cash on Delivery,Cancelled,0.28,1
+ORD-71478,T-Shirt,Clothing,3,143.97,45169,Anna Williams,anna.williams@outlook.com,Columbus,Credit Card,Completed,0.03,2
+ORD-50637,Lamp,Home & Garden,5,486.89,45594,John Williams,,San Antonio,Cash on Delivery,Completed,0.23,3
+ORD-45617,Tennis Racket,Sports,4,258.095,45408,William Jones,william.jones@icloud.com,  Columbus  ,PayPal,,0.13,
+ORD-23933,Hat,Clothing,1,441.02,45548,Robert Miller,robert.miller@outlook.com,San Francisco,PayPal,Completed,0.01,2
+ORD-55601,Sci-Fi Book,Books,4,367.79,45184,William Johnson,william.johnson@aol.com,  San Antonio  ,Bank Transfer,Returned,0.26,5
+ORD-12325,Yoga Mat,Sports,5,381.32,45307,Chris Martinez,@gmail.com,San Francisco,Bank Transfer,Cancelled,0.11,4
+ORD-63010,Table,Home & Garden,1,258.095,45638,Michael Johnson,michael.johnson@outlook.com,,Credit Card,Completed,0.26,5
+ORD-90333,Plush Toy,Toys,3,312.44,45458,John Martinez,john.martinez@hotmail.com,Phoenix,Bank Transfer,Shipped,0,1
+ORD-30181,Magazine,Books,4,194.88,45066,anna miller,anna.miller@icloud.com,Phoenix,Apple Pay,Pending,0.11,3
+ORD-77364,Air Freshener,Automotive,5,77.58,45651,NULL,@gmail.com,  Fort Worth  ,Cash on Delivery,Cancelled,0.11,5
+ORD-53583,Card Came,Toys,4,95.23,04/13/2024,Emily Smith,emily.smith@gmail.com,  Jacksonville  ,Bank Transfer,Returned,0.1,3
+ORD-56372,Novel,Books,5,258.095,45254,Sarah Davis,sarah.davis@gmail.com,NEW YORK,Bank Transfer,Cancelled,0.04,1
+ORD-79955,Mirror,Home & Garden,4,356.51,45493,William Williams,william.williams@hotmail.com,Philadelphia,Bank Transfer,Pending,0.06,2
+ORD-86150,Table,Home & Garden,3,18.55,03/29/2023,Michael Smith,michael.smith@outlook.com,Seattle,Debit Card,Completed,0.11,1
+ORD-80770,Gloves,Clothing,3,402.41,,Lisa Brown,lisa.brown@hotmail.com,,,Refunded,0.02,3
+ORD-88328,Hat,Clothing,4,423.52,11/29/2023,David Gonzalez,david.gonzalez@aol.com,San Antonio,Cash on Delivery,Returned,0.03,5
+ORD-92255,Bandages,Health,3,119.79,45364,Emily Williams,emily.williams@gmail.com,Jacksonville,PayPal,Refunded,0.22,1
+ORD-45368,Face Mask,Health,5,126.08,45262,Laura Hernandez,laura.hernandez@outlook.com,New York,Apple Pay,Cancelled,0.18,
+ORD-19831,Cycling Helmet,Sports,2,258.095,45485,Robert Johnson,robert.johnson@icloud.com,Houston,Google Pay,Refunded,0.03,1
+ORD-25465,Rc Car,Toys,3,209.47,45476,EMILY SMITH,emily.smith@yahoo.com,Fort Worth,Google Pay,Shipped,0.13,5
+ORD-86539,Air Freshener,Automotive,1,418.01,45385,N/A,chris.martinez@hotmail.com,Jacksonville,PayPal,Refunded,0.24,1
+ORD-70850,Gloves,Clothing,5,293.12,45391,Daniel Garcia,daniel.garcia@yahoo.com,Denver,Debit Card,Shipped,0.1,5
+ORD-14312,Running Shoes,Sports,3,61,45212,NULL,daniel.rodriguez@hotmail.com,Washington,Google Pay,Pending,0.23,2
+ORD-67447,Basketball,Sports,2,417.99,45326,Chris Miller,chris.miller@gmail.com,jacksonville,Cash on Delivery,Refunded,0.07,1
+ORD-66387,Toothbrush,Health,1,258.095,45553,ROBERT DAVIS,robert.davis@yahoo.com,San Antonio,PayPal,,0.04,5
+ORD-83882,Lamp,Home & Garden,1,348.5,45142,John Hernandez,john.hernandez@yahoo.com,Dallas,Google Pay,Shipped,0.12,4
+ORD-32832,Biography,Books,3,13.91,45558,,robert.davis@aol.com,  Houston  ,Credit Card,Shipped,0.16,4
+ORD-78671,Smart Watch,Electronics,3,195.56,45115,James Johnson,james.johnson@gmail.com,New York,Apple Pay,Cancelled,0.29,4
+ORD-65789,Jacket,Clothing,3,258.095,45447,,maria.williams@icloud.com,Indianapolis,Bank Transfer,Pending,0.21,2
+ORD-65723,Tennis Racket,Sports,2,413,45406,  Robert Rodriguez  ,no_email,  Denver  ,Google Pay,Cancelled,0.08,4
+ORD-84345,Tennis Racket,Sports,5,300.06,45382,Jane Hernandez,jane.hernandez@gmail.com,DENVER,Google Pay,Cancelled,0.09,3
+ORD-81364,Basketball,Sports,4,274.15,45383,David Williams,no_email,Austin,Debit Card,,0.17,2
+ORD-23061,Action Figure,Toys,3,453.3,45443,Laura Garcia,laura.garcia@hotmail.com,Houston,Google Pay,,,4
+ORD-64920,Keyboard,Electronics,3,443.79,45247,Laura Davis,laura.davis@outlook.com,San Francisco,Credit Card,Refunded,,1
+ORD-32004,Power Bank,Electronics,2,200.56,,NULL,,San Antonio,Cash on Delivery,Refunded,0.18,2
+ORD-51305,Biography,Books,2,477.2,45090,Jane Jones,jane.jones@gmail.com,  Los Angeles  ,Debit Card,Returned,0.03,A
+ORD-18584,Led Bulb,Automotive,5,442.65,45460,Sarah Garcia,sarah.garcia@hotmail.com,Dallas,Bank Transfer,Completed,0.03,2
+ORD-51164,Yoga Mat,Sports,1,258.095,11/24/2023,Daniel Williams,daniel.williams@yahoo.com,Fort Worth,Cash on Delivery,Refunded,0.28,2
+ORD-63373,Power Bank,Electronics,1,383.24,,Chris Hernandez,chris.hernandez@outlook.com,Indianapolis,PayPal,Shipped,0.18,4
+ORD-13404,Science Kit,Toys,1,452.66,45290,Michael Gonzalez,michael.gonzalez@hotmail.com,Phoenix,Credit Card,Pending,0.25,2
+ORD-15861,Gloves,Clothing,1,258.095,45317,John Brown,john.brown@yahoo.com,Los Angeles,Apple Pay,Returned,0.2,1
+ORD-96990,Toothbrush,Health,5,258.095,06/23/2023,  jane jones  ,jane.jones@yahoo.com,  Phoenix  ,Bank Transfer,Shipped,,
+ORD-29622,Plant Pot,Home & Garden,5,474.26,45355,Michael Johnson,,Fort Worth,Cash on Delivery,Completed,0.3,1
+ORD-72890,Hat,Clothing,2,389.76,44937,Jane Brown,Jane@,San Francisco,Google Pay,Refunded,0.07,2
+ORD-91601,Chair,Home & Garden,5,9.31,45624,Laura Miller,laura.miller@aol.com,San Diego,Cash on Delivery,Completed,0.28,4
+ORD-17432,Plant Pot,Home & Garden,1,365.95,45424,David Williams,david.williams@gmail.com,Seattle,NULL,Completed,0.12,4
+ORD-17889,Rug,Home & Garden,3,216.18,45567,David Garcia,david.garcia@hotmail.com,Charlotte,Bank Transfer,Returned,0.05,4
+ORD-43888,Smart Watch,Electronics,4,258.095,,Laura Lopez,laura.lopez@yahoo.com,Columbus,Debit Card,Pending,,4
+ORD-61508,Shelf,Books,2,222.23,45586,Jane Gonzalez,jane.gonzalez@gmail.com,San Francisco,,Completed,,2
+ORD-34345,Bandages,Health,1,489.83,45192,,laura.smith@outlook.com,Houston,Debit Card,Cancelled,0.11,10
+ORD-17026,Cookbook,Books,5,388.97,45231,Lisa Smith,lisa.smith@aol.com,  Seattle  ,Debit Card,Shipped,0.21,5
+ORD-31699,Seat Cover,Automotive,4,173.98,45340,Daniel Davis,daniel.davis@gmail.com,Chicago,Bank Transfer,Shipped,0.19,4
+ORD-93489,Vase,Home & Garden,1,194.91,45267,William Miller,william.miller@outlook.com,Indianapolis,Cash on Delivery,Cancelled,0.28,2
+ORD-85202,Face Mask,Health,1,373.46,45557,David Hernandez,david.hernandez@aol.com,Los Angeles,Google Pay,Refunded,0.28,2
+ORD-96135,Science Kit,Toys,4,222.46,44972,  Jane Lopez  ,jane.lopez@yahoo.com,,Debit Card,Shipped,0.16,1
+ORD-54757,Rug,Home & Garden,2,469.95,45292,  Lisa Rodriguez  ,lisa.rodriguez@yahoo.com,Denver,Credit Card,Refunded,0.06,3
+ORD-15111,Clock,Home & Garden,5,258.095,45210,Daniel Brown,daniel.brown@icloud.com,Indianapolis,Cash on Delivery,Shipped,0.02,1
+ORD-37741,Rug,Home & Garden,2,265.31,45009,James Johnson,james.johnson@gmail.com,Fort Worth,Cash on Delivery,Completed,,5
+ORD-35301,Poetry,Books,1,443.39,45175,Sarah Jones,sarah.jones@gmail.com,Fort Worth,Apple Pay,Returned,0,2
+ORD-39849,Vase,Home & Garden,1,30.58,45633,,anna.lopez@gmail.com,Seattle,Credit Card,Shipped,0.3,1
+ORD-37770,Led Bulb,Automotive,1,234.65,,Robert Jones,robert.jones@aol.com,  Columbus  ,Google Pay,Shipped,0.13,5
+ORD-48652,Face Mask,Health,5,228.52,45391,Sarah Hernandez,sarah.hernandez@gmail.com,Jacksonville,Debit Card,Returned,0.27,3
+ORD-55579,Sunscreen,Health,3,154.38,01/26/2024,Emily Martinez,emily.martinez@gmail.com,Austin,PayPal,Returned,0.17,5
+ORD-87254,Water Bottle,Sports,1,57,45491,Laura Johnson,laura.johnson@aol.com,Austin,Bank Transfer,Refunded,,2
+ORD-89599,Soccer Ball,Sports,3,258.12,45587,Jane Williams,jane.williams@hotmail.com,,Debit Card,Cancelled,0.07,1
+ORD-85225,Plush Toy,Toys,1,196.56,09/24/2023,Chris Lopez,chris.lopez@aol.com,Austin,Debit Card,Returned,0.15,2
+ORD-25379,Novel,Books,2,487.47,,Chris Williams,chris.williams@aol.com,Phoenix,Cash on Delivery,Completed,0.16,5
+ORD-83902,Magazine,Books,3,479.71,06/21/2024,David Smith,david.smith@gmail.com,New York,Google Pay,Returned,0.16,2
+ORD-27268,Chair,Home & Garden,5,477.4,44944,laura gonzalez,laura.gonzalez@aol.com,Phoenix,Cash on Delivery,Returned,0.25,1
+ORD-65346,Phone Mount,Automotive,4,382.96,44984,  Sarah Gonzalez  ,sarah.gonzalez@hotmail.com,San Antonio,Bank Transfer,Cancelled,0.21,
+ORD-30574,Cookbook,Books,1,55.11,09/17/2024,MICHAEL JOHNSON,,Denver,Money,Refunded,0.28,4
+ORD-90842,Cycling Helmet,Sports,1,192.03,45159,Sarah Hernandez,sarah.hernandez@icloud.com,austin,Debit Card,Refunded,0.23,5
+ORD-82336,Sneakers,Clothing,2,33.77,45026,Lisa Rodriguez,lisa.rodriguez@aol.com,Los Angeles,Apple Pay,Returned,0.14,1
+ORD-33525,Dash Cam,Automotive,5,50.14,06/17/2024,Jane Rodriguez,jane.rodriguez@hotmail.com,Indianapolis,Apple Pay,Completed,0.13,2
+ORD-59708,Sunscreen,Health,2,150.11,45242,James Gonzalez,James@,Phoenix,Apple Pay,Pending,0.26,2
+ORD-30137,Water Bottle,Sports,3,343.9,45395,Sarah Johnson,sarah.johnson@gmail.com,Seattle,,Returned,0.16,5
+ORD-76760,Sci-Fi Book,Books,1,449.92,45070,Daniel Jones,daniel.jones@icloud.com,Indianapolis,Bank Transfer,,0.25,3
+ORD-83877,Card Came,Toys,1,468.93,45366,Lisa Brown,lisa.brown@gmail.com,Denver,Cash on Delivery,Pending,0.07,3
+ORD-97921,Wireless Mouse,Electronics,4,258.095,45100,Michael Johnson,michael.johnson@yahoo.com,Dallas,Google Pay,Refunded,0.09,2
+ORD-81600,Hand Sanitizer,Health,2,234.73,45385,john garcia,john.garcia@yahoo.com,  Los Angeles  ,Google Pay,Completed,0.03,A
+ORD-89693,Sneakers,Clothing,2,258.095,02/27/2024,Robert Jones,robert.jones@icloud.com,Jacksonville,Cash on Delivery,Shipped,0.13,1
+ORD-49904,Jeans,Clothing,5,74.61,09/18/2023,Maria Lopez,maria.lopez@aol.com,,Bank Transfer,Pending,0.07,2
+ORD-18182,Table,Home & Garden,2,493.44,45419,Maria Miller,maria.miller@yahoo.com,Los Angeles,Apple Pay,Shipped,0.09,5
+ORD-28499,Textbook,Books,1,58.53,45557,Anna Rodriguez,anna.rodriguez@hotmail.com,Houston,Google Pay,Refunded,0.16,3
+ORD-47295,Building Blocks,Toys,5,233.61,06/28/2023,Lisa Davis,lisa.davis@icloud.com,Seattle,Debit Card,Refunded,0.11,1
+ORD-35167,Cycling Helmet,Sports,5,295.97,45152,John Johnson,john.johnson@hotmail.com,Philadelphia,Cash on Delivery,Refunded,,1
+ORD-97369,Lamp,Home & Garden,2,258.095,45001,Daniel Garcia,daniel.garcia@yahoo.com,Seattle,Apple Pay,Cancelled,0.27,2
+ORD-48567,Lamp,Home & Garden,2,268.54,45012,James Brown,,Jacksonville,Debit Card,Returned,0.1,1
+ORD-77175,Resistance Band,Sports,3,395.99,45233,Laura,laura.davis@hotmail.com,Austin,Google Pay,Refunded,0.16,2
+ORD-67717,Rug,Home & Garden,1,265.09,45106,James Lopez,james.lopez@hotmail.com,Philadelphia,PayPal,Returned,0.22,5
+ORD-27188,Dumbbell,Sports,4,258.095,45358,Chris Jones,chris.jones@hotmail.com,Charlotte,,Completed,0.18,5
+ORD-69474,Toothbrush,Health,4,195.71,45015,David Lopez,,Dallas,,Pending,0.07,5
+ORD-36212,Hiscory Book,Books,2,436.51,01/28/2024,Emily Gonzalez,emily.gonzalez@hotmail.com,  Denver  ,Bank Transfer,Cancelled,0.26,2
+ORD-64711,Wiper Blade,Automotive,5,159.38,45579,David Jones,david.jones@aol.com,San Jose,PayPal,Cancelled,0.05,2
+ORD-72347,Bluetooth Speaker,Electronics,3,52.69,05/19/2024,,laura.davis@gmail.com,Houston,Credit Card,Shipped,0.13,1
+ORD-97821,Shelf,Books,5,240.18,45492,Lisa Johnson,lisa.johnson@aol.com,Denver,Bank Transfer,Shipped,0.25,2
+ORD-56696,Vitamins,Health,3,74.15,45146,Anna Lopez,anna.lopez@outlook.com,Philadelphia,Cash on Delivery,Pending,0.17,5
+ORD-87324,Clock,Home & Garden,2,135.26,45033,William Brown,william.brown@outlook.com,Charlotte,PayPal,Refunded,0.04,1
+ORD-23182,Magazine,Books,3,484.85,45577,David Martinez,david.martinez@hotmail.com,New York,Credit Card,,0.19,5
+ORD-93017,Lamp,Home & Garden,1,442.59,45194,Jane Davis,,Washington,Bank Transfer,Cancelled,0.2,3
+ORD-97806,Cycling Helmet,Sports,1,409.21,08/22/2023,Chris Johnson,,Dallas,Apple Pay,Cancelled,0.12,
+ORD-41655,Plush Toy,Toys,1,399.28,03/27/2023,Anna Lopez,anna.lopez@icloud.com,Indianapolis,PayPal,Cancelled,0.11,1
+ORD-80144,Monitor,Electronics,4,97.38,2023-13-45,John Johnson,john.johnson@gmail.com,Fort Worth,Credit Card,Shipped,0.29,1
+ORD-92016,Lego Set,Toys,1,188.53,45006,Anna Williams,anna.williams@icloud.com,Washington,Cash on Delivery,Shipped,0.12,2
+ORD-90671,Doll,Toys,2,459.26,08/26/2023,Robert Rodriguez,invalid_email,San Jose,Bank Transfer,Returned,0.13,2
+ORD-49248,Rc Car,Toys,5,135.65,45326,Lisa Garcia,lisa.garcia@aol.com,San Francisco,Credit Card,Completed,0.25,5
+ORD-42486,Hoodie,Clothing,1,394.6,45461,  James Gonzalez  ,james.gonzalez@outlook.com,Chicago,Apple Pay,Shipped,0.06,2
+ORD-98527,Cookbook,Books,2,283.95,,Michael Jones,michael.jones@yahoo.com,Denver,Debit Card,OK,0.06,1
+ORD-84276,Tennis Racket,Sports,4,40.48,45534,Chris Jones,chris.jones@icloud.com,  JACKSONVILLE  ,Credit Card,Pending,,3
+ORD-99496,Lego Set,Toys,3,425.65,45497,Laura Garcia,laura.garcia@hotmail.com,Fort Worth,Apple Pay,Completed,0.02,5
+ORD-97555,Hat,Clothing,2,14.02,03/30/2023,Michael Rodriguez,michael.rodriguez@gmail.com,Columbus,PayPal,Refunded,0.3,4
+ORD-64890,Cdcling Helmet,Sports,3,257.77,,Chris Hernandez,chris.hernandez@outlook.com,Indianapolis,Apple Pay,Returned,0.01,1
+ORD-56529,Card Came,Toys,2,357.12,45428,Robert Miller,robert.miller@hotmail.com,Seattle,Cash on Delivery,,0.09,
+ORD-69432,Shorts,Clothing,5,258.095,45050,Michael Hernandez,michael.hernandez@icloud.com,  Washington  ,Google Pay,Refunded,,5
+ORD-78194,Biography,Books,5,487.34,45062,Anna Miller,anna.miller@gmail.com,Phoenix,Credit Card,Shipped,0.28,2
+ORD-96013,Air Freshener,Automotive,4,31.79,45143,Michael Lopez,michael.lopez@icloud.com,Los Angeles,Credit Card,Pending,0.02,
+ORD-27862,Textbook,Books,3,113.49,10/29/2023,John Davis,john.davis@aol.com,San Diego,Cash on Delivery,Refunded,0.01,1
+ORD-48604,Action Figure,Toys,5,470.3,45170,,daniel.williams@hotmail.com,Indianapolis,Apple Pay,Completed,0.02,1
+ORD-21686,Wireless Mouse,Electronics,1,55.54,45027,  David Hernandez  ,david.hernandez@aol.com,Charlotte,Bank Transfer,Cancelled,0.2,4
+ORD-94513,Socks,Clothing,3,434.83,45637,Lisa Smith,lisa.smith@yahoo.com,Jacksonville,Google Pay,Pending,0.03,3
+ORD-82756,Chaib,Home & Garden,1,258.095,45577,William Brown,william.brown@hotmail.com,New York,Credit Card,Cancelled,0.15,2
+ORD-86534,Basketball,Sports,2,258.095,45302,Laura Johnson,laura.johnson@hotmail.com,Austin,Apple Pay,Cancelled,0.1,3
+ORD-88456,Supplements,Health,5,487.03,44963,Sarah Gonzalez,sarah.gonzalez@outlook.com,Houston,PayPal,Refunded,0.18,
+ORD-68318,Smarz Watch,Electronics,1,229.35,,Jane Jones,jane.jones@yahoo.com,Indianapolis,PayPal,Cancelled,0.17,1
+ORD-84393,Table,Home & Garden,5,198.49,45110,Sarah Martinez,,Philadelphia,Debit Card,,0.1,1
+ORD-64680,Jeans,Clothing,3,432.97,45007,MICHAEL MILLER,michael.miller@hotmail.com,San Jose,Google Pay,Cancelled,0.21,3
+ORD-76778,Tennis Racket,Sports,3,113.52,44965,James Gonzalez,james.gonzalez@yahoo.com,Austin,Bank Transfer,Cancelled,0.06,1
+ORD-28132,Gym Bag,Sports,1,240.72,,Anna Davis,anna.davis@gmail.com,San Antonio,Credit Card,Shipped,0.11,2
+ORD-32984,Table,Home & Garden,3,355.03,44932,Jane Smith,jane.smith@gmail.com,San Francisco,Bank Transfer,Pending,0.28,4
+ORD-75772,Hat,Clothing,5,442.96,45449,  Maria Jones  ,maria.jones@hotmail.com,San Antonio,Google Pay,Pending,0.09,4
+ORD-52689,Smart Watch,Electronics,1,83.82,12/22/2023,Anna Lopez,anna.lopez@hotmail.com,San Antonio,Bank Transfer,Pending,0.29,1
+ORD-93633,Lego Set,Toys,3,244.85,45283,Anna Lopez,anna.lopez@icloud.com,San Francisco,Google Pay,Cancelled,0.16,1
+ORD-27792,Jqans,Clothing,3,281.12,45584,William Martinez,william.martinez@yahoo.com,San Diego,Bank Transfer,Pending,0.13,1
+ORD-20929,Hoodie,Clothing,1,60.2,45126,Chris Gonzalez,chris.gonzalez@hotmail.com,Seattle,Apple Pay,Pending,0.29,1
+ORD-92328,Vitamins,Health,3,401.94,45186,Emily Jones,emily.jones@yahoo.com,Seattle,PayPal,Shipped,0.24,3
+ORD-30026,Laptop Stand,Electronics,1,192.91,45335,Robert Garcia,robert.garcia@gmail.com,Charlotte,PayPal,Shipped,0.14,1
+ORD-10802,Bluetooth Speaker,Electronics,4,437.94,45293,Chris Davis,chris.davis@outlook.com,Philadelphia,Apple Pay,Returned,0.23,2
+ORD-85385,Board Came,Toys,4,306.66,44928,Jane Lopez,jane.lopez@icloud.com,San Antonio,,Returned,0.17,2
+ORD-22105,Sci-Fi Book,Books,5,151.85,45153,Daniel Johnson,Daniel@,Jacksonville,Apple Pay,Completed,0.28,5
+ORD-73463,Massage Roller,Health,5,14.77,45469,Emily Hernandez,emily.hernandez@hotmail.com,San Antonio,Credit Card,Shipped,0.29,1
+ORD-87670,Bluetooth Speaker,Electronics,2,319.1,45629,Michael Brown,michael.brown@icloud.com,SAN DIEGO,Bank Transfer,Completed,0.12,3
+ORD-79054,Card Came,Toys,5,456.46,45180,Maria Gonzalez,invalid_email,Denver,,Cancelled,0.06,
+ORD-10521,History Book,Books,4,325.89,12/21/2023,Emily Brown,,Charlotte,Bank Transfer,Pending,0.01,4
+ORD-12993,Vase,Home & Garden,2,368.79,45128,Jane Brown,jane.brown@aol.com,San Antonio,Apple Pay,Completed,0.2,1
+ORD-16358,Yoga Mat,Sports,3,247.24,45429,  William Williams  ,william.williams@gmail.com,Los Angeles,PayPal,Refunded,,
+ORD-23820,Led Bulb,Automotive,4,298.49,45607,Anna Brown,anna.brown@outlook.com,,NULL,Cancelled,0.05,2
+ORD-73413,Action Figure,Toys,4,198.37,45617,  Robert Johnson  ,robert.johnson@gmail.com,Charlotte,PayPal,Returned,0.15,3
+ORD-78745,Clock,Home & Garden,3,285.86,45042,NULL,Jane@,Los Angeles,Credit Card,,0.22,3
+ORD-16006,Cookbook,Books,4,188.24,11/30/2024,Emily Williams,emily.williams@hotmail.com,San Diego,Google Pay,Returned,0.19,5
+ORD-77844,Novel,Books,1,412.06,45481,Laura Garcia,laura.garcia@hotmail.com,San Antonio,Bank Transfer,Completed,0.22,1
+ORD-81842,T-Shirt,Clothing,2,258.095,45578,William Davis,william.davis@hotmail.com,San Jose,,Shipped,0.21,1
+ORD-98339,Rc Car,Toys,3,455.03,05/30/2023,Anna Martinez,anna.martinez@gmail.com,Columbus,,Pending,0.15,1
+ORD-80230,Cookbook,Books,4,260.06,45025,William Smith,,Indianapolis,PayPal,Completed,0.18,3
+ORD-52910,Supplements,Health,1,43.49,45428,John Smith,john.smith@aol.com,Unknown City,PayPal,Shipped,0.18,3
+ORD-54037,Novel,Books,3,258.095,45028,Michael Rodriguez,michael.rodriguez@hotmail.com,Austin,Cash on Delivery,Pending,0.08,3
+ORD-64209,Magazine,Books,4,163.95,45482,John Miller,john.miller@aol.com,San Francisco,Bank Transfer,Shipped,0.08,2
+ORD-44224,Dash Cam,Automotive,5,124.28,12/27/2023,Sarah Jones,sarah.jones@aol.com,San Jose,Bank Transfer,Refunded,0.12,5
+ORD-56841,Soccer Ball,Sports,4,131.76,45400,William Miller,william.miller@aol.com,San Diego,,Cancelled,0.05,1
+ORD-35700,Card Came,Toys,5,406.97,09/25/2023,Emily Gonzalez,Emily@,Houston,Credit Card,Pending,0.24,3
+ORD-82964,Board Came,Toys,1,474.22,45609,William Martinez,william.martinez@aol.com,Seattle,Debit Card,Cancelled,0.14,
+ORD-61791,Majsage Roller,Health,4,258.095,45268,Laura Gonzalez,laura.gonzalez@yahoo.com,Philadelphia,Google Pay,Pending,0.19,1
+ORD-30005,Clock,Home & Garden,0,336.47,44968,,lisa.davis@yahoo.com,New York,Google Pay,Refunded,0.27,A
+ORD-16880,Biography,Books,5,35.28,44967,  Chris Brown  ,chris.brown@aol.com,Jacksonville,PayPal,Refunded,0.01,2
+ORD-73833,Science Kit,Toys,2,146.12,45264,William Lopez,,New York,Cash on Delivery,Cancelled,0.17,3
+ORD-12981,Floor Mat,Automotive,4,258.095,45237,  William Martinez  ,william.martinez@aol.com,San Francisco,Bank Transfer,Refunded,-0.1,2
+ORD-17705,Hoodie,Clothing,1,267.97,45415,Anna Lopez,anna.lopez@aol.com,NEW YORK,,Pending,0.14,4
+ORD-22585,Dash Cam,Automotive,2,177.9,45262,chris garcia,chris.garcia@gmail.com,  New York  ,Apple Pay,Shipped,0.13,3
+ORD-24209,Gym Bag,Sports,4,419.98,45023,Robert Rodriguez,robert.rodriguez@yahoo.com,Philadelphia,Google Pay,Refunded,0.1,5
+ORD-66505,Comic,Books,1,279.34,45582,Daniel Garcia,daniel.garcia@aol.com,Denver,Credit Card,Completed,0.28,
+ORD-10676,Oil Filter,Automotive,5,258.095,45109,David Williams,david.williams@hotmail.com,Indianapolis,Credit Card,Returned,0.1,1
+ORD-45874,Tennis Racket,Sports,5,334.68,45050,James Garcia,james.garcia@yahoo.com,Los Angeles,Debit Card,Completed,0.08,0
+ORD-49103,Lamp,Home & Garden,1,54.32,45026,Anna Lopez,anna.lopez@gmail.com,  San Antonio  ,Apple Pay,Refunded,0.21,1
+ORD-46277,Comic,Books,5,478.72,05/20/2023,Lisa Williams,lisa.williams@yahoo.com,Phoenix,Debit Card,Shipped,0.23,4
+ORD-35893,Doll,Toys,5,240.89,12/29/2024,Anna Hernandez,anna.hernandez@yahoo.com,New York,Credit Card,Refunded,0.13,4
+ORD-79143,First Aid Kit,Health,3,102.95,45237,Lisa Jones,lisa.jones@hotmail.com,San Diego,PayPal,Pending,0.01,5
+ORD-51211,Air Freshener,Automotive,1,63.24,45428,,laura.rodriguez@hotmail.com,Austin,Bank Transfer,Completed,0.14,2
+ORD-63878,Plant Pot,Home & Garden,2,258.095,45115,,invalid_email,Houston,Debit Card,Refunded,0.03,2
+ORD-18450,Vase,Home & Garden,3,211.49,45330,William Johnson,william.johnson@icloud.com,Dallas,PayPal,Completed,0.16,A
+ORD-50924,Socks,Clothing,1,197.74,45296,William Garcia,william.garcia@gmail.com,Charlotte,Apple Pay,Cancelled,,1
+ORD-85934,Basketball,Sports,4,109.72,45597,,maria.martinez@outlook.com,San Antonio,PayPal,Pending,0.05,2
+ORD-21616,Gloves,Clothing,3,478.74,45523,Maria Hernandez,@gmail.com,Fort Worth,Debit Card,Completed,0.16,
+ORD-62222,Textbolk,Books,1,170.85,45238,anna smith,anna.smith@aol.com,Jacksonville,Credit Card,,0.12,3
+ORD-62582,Thermometer,Health,3,258.095,45601,Laura Brown,laura.brown@yahoo.com,Jacksonville,Money,Refunded,0.1,
+ORD-68078,Wireless Mouse,Electronics,2,257.78,01/20/2024,  James Garcia  ,james.garcia@yahoo.com,Los Angeles,Google Pay,Pending,0.06,5
+ORD-30377,Face Mask,Health,1,453.39,45027,Laura Rodriguez,laura.rodriguez@aol.com,  San Diego  ,Bank Transfer,Shipped,0.04,1
+ORD-57028,Tire Pressure Gauge,Automotive,2,197.11,44967,Robert Hernandez,robert.hernandez@aol.com,Chicago,Debit Card,,0.26,5
+ORD-11707,Dumbbell,Sports,3,38.45,45628,James Johnson,james.johnson@gmail.com,Fort Worth,Apple Pay,Pending,,2
+ORD-19076,Supplements,Health,4,216.65,45130,Lisa Williams,lisa.williams@icloud.com,Indianapolis,Credit Card,Pending,0.27,2
+ORD-62494,T-Shirt,Clothing,4,232.39,45514,,william.brown@outlook.com,Columbus,Google Pay,Pending,0.13,3
+ORD-36275,Supplements,Health,3,458.32,45205,Emily Williams,emily.williams@hotmail.com,Dallas,Google Pay,Shipped,0.1,2
+ORD-31736,Table,Home & Garden,5,94.59,45623,Anna Miller,anna.miller@hotmail.com,Los Angeles,Google Pay,Shipped,0.29,2
+ORD-72445,Soccer Ball,Sports,2,292.47,45407,Robert Martinez,robert.martinez@icloud.com,Houston,Card,Pending,0.06,2
+ORD-38154,Bandages,Health,4,183.16,45448,Daniel Rodriguez,daniel.rodriguez@icloud.com,Fort Worth,Credit Card,Shipped,0.25,5
+ORD-11401,Bandages,Health,5,310.06,45362,Maria Hernandez,maria.hernandez@icloud.com,San Francisco,Debit Card,Cancelled,0.1,1
+ORD-81532,Sneakers,Clothing,5,391.12,45041,,maria.rodriguez@gmail.com,Dallas,Debit Card,Pending,,
+ORD-75454,Poetry,Books,3,180.4,45357,Emily Lopez,emily.lopez@yahoo.com,San Diego,PayPal,Cancelled,0.14,3
+ORD-13385,Cookbook,Books,3,358.06,45146,Robert Garcia,robert.garcia@icloud.com,houston,Bank Transfer,Pending,0.04,1
+ORD-42633,Thermometer,Health,5,49.7,45248,Lisa Williams,lisa.williams@hotmail.com,Los Angeles,Credit Card,Refunded,0.09,2
+ORD-11618,Plush Toy,Toys,1,208.28,45573,David,,chicago,Credit Card,Pending,,4
+ORD-47177,Usb-C Cable,Electronics,1,238.52,44963,James Lopez,james.lopez@icloud.com,LOS ANGELES,Google Pay,Completed,,4
+ORD-97127,Sneakers,Clothing,4,340.07,45048,Sarah Lopez,sarah.lopez@gmail.com,Seattle,Credit Card,Cancelled,0.28,1
+ORD-90902,Phone Mount,Automotive,5,244.09,45103,James Williams,james.williams@yahoo.com,San Antonio,PayPal,Refunded,0.12,1
+ORD-75311,T-Shirt,Clothing,4,391.06,45623,Anna Smith,anna.smith@hotmail.com,San Antonio,PayPal,Pending,0,3
+ORD-36680,Hoodie,Clothing,3,387.36,45142,Maria Johnson,maria.johnson@icloud.com,Chicago,Debit Card,Completed,0.19,1
+ORD-14197,Webcam,Electronics,1,227.27,45046,Sarah Miller,sarah.miller@hotmail.com,Fort Worth,Apple Pay,Cancelled,5,3
+ORD-85811,Sunscreen,Health,1,298.59,45472,Laura Johnson,laura.johnson@yahoo.com,Seattle,Credit Card,Completed,0.29,1
+ORD-31942,Smart Watch,Electronics,5,139.02,45353,Daniel Jones,daniel.jones@hotmail.com,Charlotte,Credit Card,Returned,0.14,4
+ORD-72539,Socks,Clothing,1,258.095,45597,Jane Williams,jane.williams@icloud.com,San Antonio,Google Pay,Refunded,0.22,2
+ORD-27872,Soccer Ball,Sports,2,16.79,45054,John Jones,john.jones@outlook.com,Dallas,Credit Card,Refunded,0.27,3
+ORD-34039,Dash Cam,Automotive,5,218.3,45619,William Brown,william.brown@icloud.com,  Indianapolis  ,,Returned,0.04,3
+ORD-29234,Seat Cover,Automotive,2,390.23,45523,Emily Rodriguez,emily.rodriguez@icloud.com,Seattle,Cash on Delivery,Returned,0.01,3
+ORD-75392,Rp Car,Toys,3,76.79,45210,  John Rodriguez  ,john.rodriguez@yahoo.com,san diego,Google Pay,Refunded,,5
+ORD-17480,Dash Cam,Automotive,2,109.55,45521,Chris Garcia,chris.garcia@hotmail.com,Phoenix,Debit Card,Completed,0.25,3
+ORD-56174,Tire Pressure Gauge,Automotive,2,216.06,45009,Maria Davis,maria.davis@gmail.com,Seattle,Google Pay,Cancelled,0.11,2
+ORD-33464,Massage Roller,Health,1,340.56,45327,Daniel Brown,daniel.brown@gmail.com,Charlotte,PayPal,,0.22,2
+ORD-14959,Biography,Books,5,241.68,44998,Maria Gonzalez,maria.gonzalez@outlook.com,Chicago,Bank Transfer,Pending,0.2,1
+ORD-49780,Comic,Books,3,138.09,45588,James Gonzalez,no_email,Phoenix,Debit Card,Completed,0.23,2
+ORD-71141,Tire Pressure Gauge,Automotive,4,84.05,11/17/2023,  Robert Davis  ,robert.davis@yahoo.com,Los Angeles,Debit Card,Cancelled,,1
+ORD-42094,Doll,Toys,2,462.81,,Lisa Smith,lisa.smith@yahoo.com,Fort Worth,Debit Card,Returned,0.27,4
+ORD-99408,Rc Car,Toys,3,89.71,,Anna Martinez,,New York,Debit Card,Completed,0.18,4
+ORD-97728,Science Kit,Toys,5,155.75,45011,  John  ,john.williams@aol.com,San Diego,Bank Transfer,,0.1,4
+ORD-97602,Biography,Books,1,317.78,44941,Emily,emily.williams@icloud.com,Charlotte,Bank Transfer,Pending,0.15,3
+ORD-28542,Card Came,Toys,1,454.13,45092,David Lopez,david.lopez@hotmail.com,Houston,Google Pay,Completed,0.11,5
+ORD-48353,Face Mask,Health,4,120.48,45114,  Daniel Johnson  ,daniel.johnson@yahoo.com,LA,Bank Transfer,Completed,0.2,3
+ORD-33632,Keyboard,Electronics,5,400.28,45299,David Garcia,david.garcia@yahoo.com,Houston,Bank Transfer,Cancelled,0.23,
+ORD-51594,Bandages,Health,5,80.41,45127,Jane Jones,jane.jones@icloud.com,San Jose,Bank Transfer,Completed,0.02,1
+ORD-42011,Plush Toy,Toys,1,258.095,45142,Chris Williams,chris.williams@gmail.com,Washington,Cash on Delivery,Shipped,0.28,5
+ORD-50130,Resistance Band,Sports,4,45.8,01/21/2023,,daniel.williams@aol.com,New York,Bank Transfer,Returned,0.15,3
+ORD-93521,Doll,Toys,3,258.095,45178,Emily Hernandez,emily.hernandez@gmail.com,Chicago,PayPal,Cancelled,0.15,3
+ORD-55116,Floor Mat,Automotive,3,63.36,45113,David Davis,david.davis@yahoo.com,Philadelphia,Apple Pay,Pending,,4
+ORD-30219,Vitamins,Health,3,258.095,45378,William Johnson,william.johnson@yahoo.com,San Diego,Apple Pay,Shipped,0.1,5
+ORD-75481,Hoodie,Clothing,4,185.88,,Emily Smith,emily.smith@outlook.com,Seattle,PayPal,Shipped,0.25,4
+ORD-73372,History Book,Books,4,258.095,11/29/2023,Chris Garcia,chris.garcia@yahoo.com,Indianapolis,Apple Pay,Pending,0.2,3
+ORD-45307,Poetry,Books,3,260.78,45477,Emily Johnson,emily.johnson@outlook.com,Charlotte,Debit Card,Refunded,0.22,1
+ORD-68954,Puzzle,Toys,2,223.24,45118,william davis,william.davis@hotmail.com,Charlotte,Cash on Delivery,,0.09,5
+ORD-42281,Vase,Home & Garden,5,67.53,45203,Sarah Gonzalez,sarah.gonzalez@gmail.com,Indianapolis,Debit Card,Cancelled,0.08,4
+ORD-23155,Magazine,Books,4,346.73,45579,N/A,michael.lopez@hotmail.com,Chicago,Bank Transfer,Completed,0.26,5
+ORD-19012,Tennis Racket,Sports,4,158.61,45396,Laura Johnson,laura.johnson@outlook.com,Chicago,Cash on Delivery,Pending,0.19,2
+ORD-51853,Wiper Blade,Automotive,2,271.68,45162,William Lopez,william.lopez@gmail.com,Phoenix,Bank Transfer,Cancelled,0.29,2
+ORD-94037,Keyboard,Electronics,3,99.79,45534,Maria Brown,invalid_email,Indianapolis,Google Pay,Cancelled,0.24,3
+ORD-50557,T-Shirt,Clothing,2,381.87,45313,Anna Martinez,anna.martinez@yahoo.com,San Antonio,Cash on Delivery,Completed,0.15,2
+ORD-76567,Socks,Clothing,3,420.23,02/19/2023,,james.rodriguez@yahoo.com,Chicago,PayPal,Shipped,0.25,1
+ORD-15490,Usb-C Cable,Electronics,2,495.26,45094,William Johnson,william.johnson@aol.com,Washington,Google Pay,Returned,0.16,5
+ORD-95111,Power Bank,Electronics,4,415.27,45179,Guest,jane.lopez@outlook.com,Jacksonville,PayPal,Pending,,5
+ORD-39468,Laptop Stand,Electronics,4,113.39,45148,John Martinez,john.martinez@yahoo.com,Denver,Debit Card,Shipped,0.07,2
+ORD-69422,Phone Mount,Automotive,4,296.08,45120,Jane Williams,invalid_email,Los Angeles,Debit Card,Shipped,0.2,2
+ORD-52687,Soccer Ball,Sports,2,247.1,45150,Maria Martinez,maria.martinez@gmail.com,San Diego,PayPal,Returned,0.1,5
+ORD-39971,Floor Mat,Automotive,3,48.7,45057,Laura Martinez,laura.martinez@outlook.com,San Jose,Bank Transfer,Pending,,2
+ORD-23950,Hat,Clothing,1,258.095,45596,John Jones,john.jones@icloud.com,Austin,Apple Pay,,0.28,5
+ORD-36890,Headphones,Electronics,1,406.87,,Laura Gonzalez,laura.gonzalez@gmail.com,INDIANAPOLIS,Bank Transfer,Shipped,0.28,2
+ORD-99056,Bluetooth Speaker,Electronics,1,298.73,45340,Laura Jones,laura.jones@aol.com,Fort Worth,Credit Card,Refunded,0.3,1
+ORD-93447,Laptfp Stand,Electronics,4,258.095,45653,Anna Lopez,anna.lopez@yahoo.com,Denver,Google Pay,Completed,0.03,1
+ORD-93581,Science Kit,Toys,3,258.095,45392,Michael Garcia,michael.garcia@outlook.com,Jacksonville,Apple Pay,Cancelled,0.2,5
+ORD-77378,Chair,Home & Garden,3,258.095,45619,Sarah Jones,sarah.jones@gmail.com,Charlotte,Apple Pay,Completed,0.12,
+ORD-25337,Shorts,Clothing,2,364.89,45082,James Miller,james.miller@gmail.com,San Antonio,Google Pay,Completed,0.03,1
+ORD-88538,Gym Bag,Sports,2,462.71,05/16/2024,Sarah,sarah.williams@outlook.com,Seattle,PayPal,Shipped,0.11,5
+ORD-51408,Running Shoes,Sports,3,237.28,45450,CHRIS GONZALEZ,chris.gonzalez@gmail.com,Denver,PayPal,Cancelled,0.26,2
+ORD-91569,Chair,Home & Garden,5,432.87,02/23/2024,Jane,jane.davis@hotmail.com,Jacksonville,Credit Card,Completed,0.23,2
+ORD-40537,Chair,Home & Garden,3,383.59,45465,Maria Jones,maria.jones@outlook.com,Charlotte,Apple Pay,Returned,0.24,3
+ORD-51338,Wireless Mouse,Electronics,5,258.095,45300,  Sarah Brown  ,sarah.brown@yahoo.com,Seattle,Credit Card,Shipped,0.03,1
+ORD-55644,Hat,Clothing,5,154.83,,Daniel Rodriguez,daniel.rodriguez@icloud.com,San Francisco,Google Pay,Refunded,0.03,3
+ORD-62776,Curtain,Home & Garden,2,137.35,01/15/2024,David Lopez,david.lopez@outlook.com,San Diego,Debit Card,Completed,0.05,5
+ORD-38266,Face Mask,Health,2,231.27,45360,N/A,chris.miller@gmail.com,,Bank Transfer,,0.24,1
+ORD-50414,Puzzle,Toys,1,395.94,44943,Chris Rodriguez,chris.rodriguez@yahoo.com,Fort Worth,Credit Card,Refunded,0.12,5
+ORD-35002,Wireless Mouse,Electronics,4,288.31,45297,lisa brown,lisa.brown@aol.com,Dallas,,Shipped,0.02,
+ORD-41087,Usb-C Cable,Electronics,1,258.095,45453,Emily Jones,emily.jones@icloud.com,San Jose,Google Pay,Cancelled,0.06,1
+ORD-95397,Jeans,Clothing,1,316.61,45033,JANE LOPEZ,jane.lopez@hotmail.com,San Diego,,Returned,0.22,3
+ORD-97446,Clock,Home & Garden,5,220.08,45023,William Garcia,william.garcia@gmail.com,San Diego,Bank Transfer,Pending,0.07,4
+ORD-38959,Vase,Home & Garden,3,178.59,,Maria Martinez,maria.martinez@aol.com,Phoenix,Bank Transfer,Pending,0.06,4
+ORD-19587,Comic,Books,4,485.59,09/22/2023,Laura Miller,laura.miller@yahoo.com,  Dallas  ,Cash on Delivery,Cancelled,0.07,2
+ORD-55411,Oil Filter,Automotive,1,6.24,44928,Michael Johnson,,Seattle,Apple Pay,Completed,0.15,3
+ORD-89517,Massage Roller,Health,3,61.27,45027,Emily Johnson,emily.johnson@hotmail.com,New York,Debit Card,Cancelled,0.3,3
+ORD-54471,Curtain,Home & Garden,1,191.38,45516,Sarah Martinez,sarah.martinez@aol.com,Houston,Bank Transfer,Pending,0.22,1
+ORD-43586,Vase,Home & Garden,2,17.71,01/20/2024,Maria Hernandez,maria.hernandez@icloud.com,,Apple Pay,Shipped,0.21,3
+ORD-25776,Laptop Stand,Electronics,4,10.4,,Laura Gonzalez,laura.gonzalez@hotmail.com,Dallas,Debit Card,Shipped,0.09,4
+ORD-34225,Sunscreen,Health,3,381.59,45086,  Chris Brown  ,chris.brown@hotmail.com,Houston,,Refunded,0.11,1
+ORD-91189,Scarf,Clothing,2,326.8,09/25/2023,James Hernandez,James@,Fort Worth,Apple Pay,Completed,0.23,2
+ORD-87468,Tire Pressure Gauge,Automotive,3,325.91,45564,David Smith,david.smith@icloud.com,Washington,Cash on Delivery,Returned,0.14,2
+ORD-86543,Massage Roller,Health,2,19.94,45237,Sarah Garcia,sarah.garcia@outlook.com,Los Angeles,Cash on Delivery,Pending,,2
+ORD-59968,Mirror,Home & Garden,3,222.95,05/28/2023,William Jones,william.jones@icloud.com,  Indianapolis  ,Debit Card,Cancelled,0.21,
+ORD-63151,Table,Home & Garden,2,31.26,45201,James Garcia,james.garcia@yahoo.com,Dallas,Credit Card,Refunded,0.24,5
+ORD-93982,Keyboard,Electronics,1,189.36,45066,Anna Johnson,anna.johnson@hotmail.com,San Jose,,Returned,0.15,5
+ORD-44899,Science Kit,Toys,1,258.095,44980,Daniel Gonzalez,daniel.gonzalez@aol.com,Los Angeles,Google Pay,Cancelled,0.19,4
+ORD-21431,Basketball,Sports,1,258.095,45168,,sarah.garcia@gmail.com,San Francisco,Apple Pay,Cancelled,0.26,5
+ORD-60471,Oil Filter,Automotive,3,258.095,45048,Lisa Lopez,lisa.lopez@outlook.com,Jacksonville,Card,Returned,0.02,5
+ORD-14513,Jeans,Clothing,5,315.75,,Anna Williams,anna.williams@icloud.com,Austin,PayPal,Pending,0.18,4
+ORD-48492,Headphones,Electronics,5,237.15,,John Williams,john.williams@yahoo.com,Los Angeles,Apple Pay,Refunded,0.2,3
+ORD-96001,First Aid Kit,Health,2,440.28,,Robert Hernandez,robert.hernandez@aol.com,,Google Pay,Refunded,0.03,5
+ORD-12367,Curtain,Home & Garden,1,258.095,45618,Anna Hernandez,anna.hernandez@hotmail.com,Los Angeles,,Completed,0.06,1
+ORD-80917,Oil Filter,Automotive,2,177.37,45328,,laura.jones@aol.com,,Bank Transfer,Pending,0.22,4
+ORD-57782,Cookbook,Books,3,448.96,45539,Jane Miller,jane.miller@hotmail.com,San Jose,Bank Transfer,Returned,0.08,5
+ORD-78584,Poetry,Books,5,301.75,,John Hernandez,john.hernandez@aol.com,San Jose,Cash on Delivery,Shipped,0.24,
+ORD-41818,Face Mask,Health,3,363.25,45625,Jane Smith,jane.smith@yahoo.com,Austin,PayPal,Returned,0.16,1
+ORD-22516,Curtain,Home & Garden,5,80.34,45384,Michael Miller,michael.miller@hotmail.com,Jacksonville,PayPal,Completed,0.03,5
+ORD-47597,Car Charger,Automotive,3,254.48,45523,john williams,john.williams@aol.com,San Diego,Google Pay,Shipped,0.1,3
+ORD-66009,Car Charger,Automotive,3,258.095,45187,  David Garcia  ,david.garcia@yahoo.com,,PayPal,Shipped,0.13,5
+ORD-15929,Building Blocks,Toys,4,71.63,45448,Sarah Hernandez,sarah.hernandez@gmail.com,Los Angeles,Apple Pay,Pending,0.28,4
+ORD-47681,Comic,Books,3,420.49,45306,Daniel Davis,daniel.davis@aol.com,Philadelphia,Google Pay,Returned,0.09,4
+ORD-87924,Car Charger,Automotive,3,258.095,45293,,lisa.smith@outlook.com,Phoenix,PayPal,Shipped,0.04,3
+ORD-44406,Jacket,Clothing,2,53.08,12/27/2024,Sarah Jones,sarah.jones@gmail.com,NYC,Cash on Delivery,Cancelled,0.05,5
+ORD-88142,History Book,Books,1,496.16,45165,Lisa Rodriguez,,Phoenix,Google Pay,,1.5,
+ORD-15504,Doll,Toys,4,98.15,44930,Maria Martinez,maria.martinez@hotmail.com,NULL,Cash on Delivery,Pending,0.04,
+ORD-25854,Webcam,Electronics,5,102.99,45109,Sarah Brown,sarah.brown@icloud.com,san jose,Google Pay,Completed,0.04,1
+ORD-74428,Wiper Blade,Automotive,4,258.095,44935,Michael Martinez,michael.martinez@gmail.com,San Francisco,PayPal,,0.02,1
+ORD-27096,Board Came,Toys,5,258.095,01/31/2024,Anna Gonzalez,anna.gonzalez@yahoo.com,Jacksonville,,Refunded,0.01,5
+ORD-63390,Gloves,Clothing,5,418.23,10/29/2024,Lisa,lisa.jones@yahoo.com,Chicago,Money,Returned,0.06,1
+ORD-29490,Seat Cover,Automotive,5,340.73,,James Miller,james.miller@yahoo.com,Columbus,Google Pay,Refunded,0.05,2
+ORD-81606,Table,Home & Garden,1,249.54,,john williams,john.williams@hotmail.com,San Francisco,Cash on Delivery,Returned,0.09,2
+ORD-85973,Headphones,Electronics,5,480.49,44963,lisa jones,@gmail.com,San Francisco,,Completed,0.22,2
+ORD-73736,Bandages,Health,3,229.46,08/25/2024,Sarah Johnson,sarah.johnson@outlook.com,Dallas,Bank Transfer,Returned,0.2,3
+ORD-24375,Tire Pressure Gauge,Automotive,5,214.45,45451,Jane Brown,jane.brown@gmail.com,Chicago,Cash on Delivery,Completed,,4
+ORD-48613,Jacket,Clothing,2,47.87,,William Brown,william.brown@icloud.com,Philadelphia,Debit Card,Pending,0.28,3
+ORD-76086,Car Charger,Automotive,4,455.54,45058,David Miller,david.miller@hotmail.com,Columbus,Google Pay,Refunded,0.19,2
+ORD-42961,Wiper Blade,Automotive,4,59.24,45529,Lisa Johnson,lisa.johnson@aol.com,San Francisco,Google Pay,Cancelled,0.06,2
+ORD-24085,Biography,Books,2,34.64,45240,Lisa Martinez,lisa.martinez@icloud.com,Philadelphia,PayPal,Shipped,0.07,5
+ORD-18889,Plant Pot,Home & Garden,3,258.095,45651,Emily Williams,emily.williams@icloud.com,Houston,NULL,Cancelled,0.17,1
+ORD-24272,Table,Home & Garden,5,483.32,44963,Daniel Miller,daniel.miller@gmail.com,San Francisco,Google Pay,Completed,0.28,5
+ORD-16722,Plant Pot,Home & Garden,2,464.16,45169,Jane,jane.brown@outlook.com,SAN ANTONIO,Cash on Delivery,Shipped,0.18,5
+ORD-53964,Magazine,Books,2,306.68,10/13/2023,David Lopez,david.lopez@aol.com,Phoenix,Apple Pay,Completed,0.02,4
+ORD-85815,Hoodie,Clothing,5,250.97,45219,Emily Brown,emily.brown@hotmail.com,Charlotte,Debit Card,Refunded,0.09,1
+ORD-59097,Gloves,Clothing,1,166.67,45183,Michael Miller,michael.miller@hotmail.com,Indianapolis,Bank Transfer,Refunded,0.1,5
+ORD-61659,Clock,Home & Garden,3,413.56,45438,David Gonzalez,david.gonzalez@gmail.com,Houston,Bank Transfer,Shipped,5,4
