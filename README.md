@@ -1,59 +1,64 @@
-# 👋 Hello, I'm Waseeque Ahmad!
+# 📊 Data Analyst Portfolio — Waseeque Ahmad
 
-### Aspiring Data Analyst | Turning Data into Insights
+Welcome! This repository showcases my data analysis projects across SQL, Python, Power BI, and Excel — built while learning and preparing for Data Analyst roles.
 
-I am passionate about data analysis and visualization. I specialize in transforming raw data into meaningful insights using SQL, Python, Excel, and Power BI.
+---
+
+## 🏆 Core Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| [Food Delivery Sales Growth Project](./Food-Delivery-Sales-Growth-Project) | SQL | End-to-end sales growth analysis using pure SQL queries |
+| [Indian Startup Funding Analysis](./Indian-Startup-Funding-Analysis) | Python | Analysis of Indian startup funding trends and patterns |
+| [Marketing Campaign Analysis](./Marketing-Campaign-Analysis) | Python/SQL | Campaign performance analysis with data cleaning notes |
+| [Ecommerce Sales Analysis](./Ecommerce-Sales-Analysis) | Excel, SQL, Power BI | End-to-end e-commerce analysis — data cleaning, SQL querying, and Power BI dashboard |
+| [Athlete Performance Dashboard](./Athlete-Performance-Dashboard) | Power BI | Interactive dashboard tracking athlete performance metrics |
+| [HR Analytics Dashboard](./HR-Analytics-Dashboard) | Power BI | HR attrition, salary, and department-level insights dashboard |
+| [Customer Churn Analysis](./customer-churn-analysis) | Python | Customer churn prediction and analysis |
+
+---
+
+## 🧹 Data Cleaning & EDA
+
+| Project | Tools | Description |
+|---|---|---|
+| [Data Cleaning](./data-cleaning) | Excel/Python | Data cleaning workflow project |
+| [Ecommerce EDA](./ecommerce-eda) | Python | Exploratory analysis on e-commerce dataset |
+| [Zomato Data Analysis](./Zomato-Data-Analysis) | Python | EDA on Zomato restaurant dataset |
+| [IPL EDA](./ipl-eda) | Python | Exploratory analysis on IPL match data |
+| [Superstore Sales Analysis](./superstore-sales-analysis) | Power BI/Python | Sales analysis dashboard for Superstore dataset |
+
+---
+
+## 💻 SQL Practice
+
+| Project | Platform |
+|---|---|
+| [LeetCode SQL Practice](./LeetCode-SQL-Practice) | LeetCode |
+| [StrataScratch SQL Practice](./StrataScratch-SQL-Practice) | StrataScratch |
+
+---
+
+## 🎓 Internship Projects — YuvaIntern
+
+| Week | Task |
+|---|---|
+| [Week 1](./YuvaIntern-Week1-eCommerce-Strategy) | eCommerce Retail Strategy |
+| [Week 2](./YuvaIntern%20Week2%20Customer%20Segmentation) | Customer Segmentation |
+| [Week 3](./YuvaIntern%20Week3%20Sales%20Forecasting) | Sales Forecasting |
+| [Week 4](./YuvaIntern%20Week4%20Website%20Analytics) | Website Analytics |
+| [Week 5](./YuvaIntern%20Week5%20Pricing%20AB-Testing) | Pricing A/B Testing |
+| [Week 6](./YuvaIntern%20Week6%20Comprehensive%20Report) | Comprehensive Final Report |
+
+Also completed: [RSHCE Internship — Sales Analytics Dashboard](./RSHCE%20Internship%20Sales%20Analytics%20Dashboard)
 
 ---
 
 ## 🛠️ Skills
 
-- **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning
-- **Data Visualization:** Creating interactive dashboards and reports
-- **Database Management:** Writing complex SQL queries, data manipulation
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Business Intelligence:** Translating data into actionable business insights
+Python · MySQL · Power BI · Excel · Pandas · NumPy · Matplotlib · Seaborn
 
----
+## 📫 Connect
 
-## 🔧 Tools & Technologies
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-## 📊 What I'm Working On
-
-- 🔍 Building data analysis projects to solve real-world problems
-- 📈 Creating interactive dashboards in Power BI
-- 🧹 Mastering data cleaning and preprocessing techniques
-- 💡 Learning advanced statistical methods and machine learning basics
-
----
-
-## 🎯 Projects
-
-Coming soon! I'm currently working on exciting data analysis projects that will be showcased here.
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](www.linkedin.com/in/waseeque-ahmad-ba8691298)
-- 🌐 Location: Uttar Pradesh, India
-- 📫 Contact me via LinkedIn for collaborations!
-
----
-
-## 📈 GitHub Stats
-
-![Waseeque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waseeque-Code&show_icons=true&theme=radical&cache_seconds=86400)
-
----
-
-*Open to collaborating on data analysis projects and learning opportunities!*
+- LinkedIn: www.linkedin.com/in/waseeque-ahmad-ba8691298
+- Email: waseequeahmad123@gmail.com
