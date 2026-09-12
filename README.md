@@ -52,7 +52,7 @@ Coming soon! I'm currently working on exciting data analysis projects that will 
 
 ## 📈 GitHub Stats
 
-![Waseeque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waseeque-Code&show_icons=true&theme=radical)
+![Waseeque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waseeque-Code&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
