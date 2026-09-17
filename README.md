@@ -24,7 +24,7 @@ Welcome! This repository showcases my data analysis projects across SQL, Python,
 |---|---|---|
 | [Data Cleaning](./data-cleaning) | Excel/Python | Data cleaning workflow project |
 | [Ecommerce EDA](./ecommerce-eda) | Python | Exploratory analysis on e-commerce dataset |
-| [Zomato Data Analysis](./Zomato-Data-Analysis) | Python | EDA on Zomato restaurant dataset |
+| [Zomato Delivery Time EDA](./zomato-delivery-eda) | Python | EDA on Zomato delivery dataset — key drivers of delivery time |
 | [IPL EDA](./ipl-eda) | Python | Exploratory analysis on IPL match data |
 | [Superstore Sales Analysis](./superstore-sales-analysis) | Power BI/Python | Sales analysis dashboard for Superstore dataset |
 
